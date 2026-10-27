@@ -1,0 +1,436 @@
+J'ai croisé les données de la page Hugging Face officielle de DeepSeek avec les annonces et benchmarks récents. Voici la cartographie complète, avec les liens directs vers les dépôts, les confirmations de tes infos et les pépites cachées dans les collections du laboratoire.
+
+👑 Flagships : Série V4 (Confirmé et détaillé)
+
+La gamme V4 est bien la frontière actuelle, avec une architecture MoE (Mixture-of-Experts) et un contexte de 1 million de tokens.
+
+· DeepSeek-V4-Pro : 1.6T de paramètres (49B activés). Dépôt officiel : deepseek-ai/DeepSeek-V4-Pro-0813.
+· DeepSeek-V4-Flash : 284B de paramètres (13B activés). Dépôt : deepseek-ai/DeepSeek-V4-Flash-0731.
+
+🧠 Raisonnement & Généralistes : R1, V3 et V3.2
+
+· DeepSeek-R1 (et R1-Zero) : 671B de paramètres (37B activés). Dépôt : deepseek-ai/DeepSeek-R1.
+· DeepSeek-V3 : 671B de paramètres (37B activés). Dépôt : deepseek-ai/DeepSeek-V3.
+· Évolution V3.2 : Bien réelle, avec une attention sparse (DSA) pour plus d'efficacité. Une variante V3.2-Speciale est mentionnée.
+
+🎨 Multimodal : Janus, VL2 et OCR 2 (Confirmé)
+
+· Janus-Pro (1B & 7B) & JanusFlow-1.3B : La pépite qui unifie compréhension et génération via "rectified flow". Dépôts : Janus-Pro-1B, Janus-Pro-7B, JanusFlow-1.3B.
+· DeepSeek-OCR 2 : Confirmé, avec l'approche "Visual Causal Flow" de janvier 2026. Dépôt GitHub : deepseek-ai/DeepSeek-OCR-2.
+
+🧪 Pépites Ultra-Spécialisées (Confirmé)
+
+· DeepSeek-Prover (V1, V1.5, V2) : Pour les preuves formelles en Lean 4. La V2 (671B) atteint 88.9% sur MiniF2F.
+· DeepSeek-Math (7B) : Le modèle compact spécialisé en mathématiques.
+· DeepSeek-Coder-V2 : Le modèle de code avancé支持 plus de 300 langages.
+
+✂️ Versions Distillées (Confirmé)
+
+· Distill-Qwen (1.5B, 7B, 14B, 32B) et Distill-Llama (8B, 70B) pour faire tourner la logique de R1 en local.
+
+📜 Héritage
+
+· DeepSeek-V2 & V2.5 (introduction du MoE et de la MLA) et DeepSeek LLM (7B/67B).
+
+💎 Les Vraies "Petites Perles" (Les Ajouts)
+
+En explorant la page des collections Hugging Face de DeepSeek, j'ai trouvé des séries moins médiatisées mais très intéressantes :
+
+· DeepSeek-MoE : La série fondatrice qui a popularisé l'architecture MoE chez DeepSeek, bien avant V3/V4.
+· DeepSeek-VL (1ère génération) : La toute première itération de leurs modèles vision-langage, ancêtre de VL2.
+· Collections "ESFT" et "DeepSpec" : Des modèles pour le fine-tuning spécialisé par expert (ESFT) et des travaux de recherche plus expérimentaux (DeepSpec).
+· DeepSeek-V4-Flash-Vision-Exp : Une déclinaison expérimentale de la V4 pour la vision, qui n'apparaît pas dans les annonces grand public.
+
+En résumé : Ta liste était excellente. Les liens officiels confirment la quasi-totalité de tes informations. Les principaux ajouts sont les collections historiques (DeepSeek-MoE, DeepSeek-VL) et les dépôts exacts sur Hugging Face pour chaque modèle. Si tu veux que je creuse un modèle en particulier (par exemple pour du déploiement local), dis-le-moi !
+Voici la cartographie complète de l'écosystème d'IA de Google (Alphabet), avec les liens vers les dépôts et les pépites moins connues. L'écosystème est bien plus vaste que les seuls modèles Gemini, avec une séparation claire entre les modèles **fermés** (Gemini, via API) et **ouverts** (Gemma, sur Hugging Face).
+
+### 👑 Les Flagships : La Série Gemini 4 et 3
+
+La génération Gemini 4 marque un tournant avec **Argon**, le nouveau modèle phare, tandis que la série 3 reste très riche avec de nombreuses variantes.
+
+*   **Gemini 4 Argon** : Le flagship actuel, dévoilé en octobre 2026. Il dispose d'une fenêtre de contexte de **1 million de tokens**, d'un raisonnement à profondeur réglable et de capacités natives d'orchestration de sous-agents, conçu pour les workflows complexes et longs. Dépôt de la carte modèle : [deepmind.google/models/model-cards](https://deepmind.google/models/model-cards/).
+*   **Gemini 3.8 Flash** : Le modèle **Flash** le plus intelligent, optimisé pour l'ingénierie logicielle de longue durée et les agents autonomes. Il existe aussi une variante **3.8 Flash Cyber** spécialisée en cybersécurité.
+*   **Gemini 3.8 Live** : Le modèle audio-audio par défaut pour les agents vocaux à faible latence, avec une version **Extended Thinking** pour un raisonnement approfondi.
+*   **Gemini 3.1 Pro** : Le modèle Pro de la génération 3, disponible en preview, avec un contexte étendu au-delà de 200K tokens.
+*   **Gemini 3.8 Flash TTS / Flash-Lite TTS** : Des modèles spécialisés dans la synthèse vocale (Text-to-Speech).
+*   **Nano Banana 2.1** : La pépite de la génération d'images. Basé sur Gemini 3.6 Flash, il améliore la qualité du design visuel, l'édition par masque et supporte la sortie **4K** avec jusqu'à 14 images de référence.
+
+### 🧠 Les Modèles Ouverts : La Série Gemma
+
+C'est ici que se trouvent les modèles que tu peux réellement exécuter en local. La série **Gemma 4**, publiée en 2026 sous licence Apache 2.0, est la plus avancée.
+
+*   **Gemma 4 (E2B, E4B, 12B, 26B-A4B)** : La famille de modèles ouverts la plus intelligente de Google à ce jour. Elle est multimodale (texte, image, et **audio** sur les tailles E2B, E4B et 12B) et conçue pour tourner sur des laptops ou des configurations grand public. Dépôt Hugging Face : [huggingface.co/collections/google/gemma-4](https://huggingface.co/collections/google/gemma-4).
+*   **Gemma 3 (270M, 1B, 4B, 12B, 27B)** : La génération précédente, toujours très pertinente pour des déploiements légers. Les modèles 4B, 12B et 27B ont un contexte de 128K tokens et supportent plus de 140 langues.
+*   **Gemma 3n (E2B, E4B)** : Des variantes "nano" optimisées pour les appareils mobiles.
+
+### 🔬 Les Pépites de DeepMind : La Recherche Scientifique
+
+Ces modèles ne sont pas des chatbots, mais des outils de pointe pour la science, souvent accessibles via des programmes de recherche ou des dépôts ouverts.
+
+*   **AlphaFold 3** : La référence pour la prédiction de la structure des protéines et des molécules.
+*   **AlphaGenome** : Un modèle pour l'étude de l'ADN et des séquences génomiques. Poids ouverts disponibles sur Hugging Face : [google/alphagenome-all-folds](https://huggingface.co/google/alphagenome-all-folds).
+*   **WeatherNext** : Un modèle de prévision météorologique de pointe.
+*   **AlphaEvolve** : Un agent IA qui conçoit et optimise des algorithmes.
+*   **AlphaEarth Foundations** : Un modèle qui cartographie la planète à partir de données satellitaires.
+
+### ⚡ L'Écosystème Agentique : Antigravity 2.0
+
+Antigravity n'est pas un modèle, mais une **plateforme de développement agentique** (IDE, CLI, SDK). La version 2.0 est devenue une plateforme "agent-first" complète, capable de gérer des agents autonomes pour le codage. Elle intègre par défaut Gemini 4 Argon, mais permet aussi d'utiliser des modèles tiers comme Claude Opus 4.6 ou GPT-OSS-120B.
+
+### 💎 Les "Petites Perles" : Les Modèles de Niche
+
+En fouillant les collections Hugging Face et les dépôts de recherche, on trouve des modèles très spécialisés :
+
+*   **EmbeddingGemma 2** : Un modèle d'embedding de 740M de paramètres, optimisé pour la recherche sémantique et les systèmes RAG.
+*   **TranslateGemma (4B, 12B, 27B)** : Une famille de modèles spécialisés dans la traduction, disponible sur Kaggle.
+*   **MedGemma** : Un modèle spécialisé dans le domaine médical, référencé dans les modèles compatibles Google.
+*   **CodeGemma** : Une famille de modèles pour la génération de code, disponible en open weights.
+*   **T5Gemma 2** : Une variante basée sur l'architecture T5, optimisée pour les tâches de seq2seq.
+*   **DiffusionGemma** : Une pépite expérimentale explorant la génération par diffusion, listée dans les collections Hugging Face de Google.
+*   **TimesFM 3.0** : Un modèle de prévision de séries temporelles, très utile pour l'analyse de données financières ou de capteurs.
+*   **CANINE-S / TAPAS** : Des modèles plus anciens mais toujours référencés pour l'extraction de caractéristiques et le question-réponse tabulaire.
+*   **LearnLM** : Un modèle spécialisé pour l'éducation, désormais fusionné directement dans les capacités de Gemini.
+
+En résumé, l'écosystème de Google est double : **Gemini** pour la puissance fermée via API, et **Gemma** pour l'open source que tu peux déployer. Les vraies pépites techniques se cachent dans les modèles scientifiques de DeepMind et les variantes spécialisées (Embedding, Translate, Med, Code) de la galaxie Gemma.
+
+Si tu veux que je creuse un modèle en particulier pour un déploiement local (en fonction de ta VRAM), ou une comparaison de benchmarks entre deux modèles, dis-le-moi. Voici la cartographie de l’écosystème **OpenAI (GPT)**, **Anthropic (Claude)** et **Perplexity**, avec les modèles phares, les variantes spécialisées et les pépites souvent absentes des présentations grand public.
+
+---
+
+### 🟢 OpenAI (GPT) : la famille GPT-5.x et le virage open source
+
+OpenAI a profondément renouvelé sa gamme : les anciens GPT-4o, o3 et o4-mini ont largement été retirés du sélecteur ChatGPT au profit de la famille **GPT-5.x**, désormais déclinée en plusieurs niveaux de puissance et de coût.
+
+#### Flagships et variantes principales
+
+- **GPT-5.4** : le modèle polyvalent de référence, avec un contexte de **1 million de tokens**. C’est le flagship “couteau suisse” pour le raisonnement, le code et les tâches générales.
+- **GPT-5.4 Thinking** : optimisé pour le raisonnement interactif sur des problèmes complexes à étapes multiples.
+- **GPT-5.4 Pro** : la version la plus profonde en raisonnement, avec un coût nettement supérieur pour les cas où la qualité prime sur le prix.
+- **GPT-5.4 Mini et Nano** : conçus pour les systèmes multi-agents, le routage, la classification et les appels d’outils simples, avec des fenêtres de contexte plus réduites mais une vitesse et un coût adaptés à la production à haut volume.
+- **GPT-5.5 et GPT-5.6 (Luna / Terra / Sol)** : des générations plus récentes apparaissent dans les sources, avec une hiérarchie par puissance et des déclinaisons Pro, Mini et Nano.
+
+#### Les pépites open source : gpt-oss
+
+OpenAI a également publié une famille de modèles **open source** sous licence Apache 2.0, ce qui est suffisamment rare pour être souligné.
+
+- **gpt-oss-120b** : un modèle open source de grande taille, disponible via API à un coût très faible par rapport aux modèles fermés.
+- **gpt-oss-20b** : la version compacte, encore moins chère, adaptée aux environnements contraints ou aux expérimentations locales.
+- **gpt-oss-safeguard-20b** : une variante spécialisée, probablement orientée sûreté ou filtrage.
+
+---
+
+### 🟣 Anthropic (Claude) : la famille Claude 5.5 et les modèles “Mythos”
+
+Anthropic a structuré sa gamme autour de plusieurs niveaux de puissance et de coût, avec une distinction nette entre les modèles **Fable / Opus / Sonnet / Haiku** et des modèles spécialisés à accès restreint.
+
+#### La gamme grand public actuelle (Claude 5.5)
+
+- **Claude Fable 5.1** : le modèle le plus puissant et le plus cher de la gamme grand public, conçu pour les agents autonomes de longue durée et la recherche complexe. Contexte de 1 million de tokens, sortie de 128K tokens, tarif de **10 $ / 50 $** par million de tokens.
+- **Claude Opus 5.5** : le modèle de “jugement” recommandé par défaut pour la plupart des charges de travail. Il offre un contexte de 1 million de tokens, un tarif de **4 $ / 20 $** par million de tokens, et un bon équilibre entre intelligence et coût.
+- **Claude Sonnet 5.5** : le “cheval de trait” rapide et économique pour le codage quotidien, la génération de contenu et l’intelligence générale. Tarif de **2 $ / 10 $** par million de tokens, avec un contexte de 1 million de tokens.
+- **Claude Haiku 4.5** : le modèle à haut volume, rapide et bon marché, pour la classification, le routage et l’extraction simple. Contexte de 200K tokens, tarif de **1 $ / 5 $** par million de tokens.
+
+#### Les modèles spécialisés et à accès restreint
+
+- **Claude Mythos 5** : un modèle spécialisé en **cybersécurité, recherche de vulnérabilités et sciences de la vie**, accessible uniquement via un programme restreint (Project Glasswing) et non destiné au grand public.
+- **Claude Cowork** : présenté comme une application de bureau pour les travailleurs du savoir, s’appuyant sur les modèles Claude selon le choix de l’utilisateur.
+- **Claude Opus 4.7 / 4.8** et **Sonnet 4.6** : des générations intermédiaires encore référencées dans certaines sources, notamment pour des besoins de compatibilité ou des déploiements spécifiques.
+
+---
+
+### 🔵 Perplexity : les modèles Sonar et l’infrastructure de recherche
+
+Perplexity ne développe pas de modèles de fondation généralistes comme OpenAI ou Anthropic ; son écosystème est centré sur des modèles **augmentés par la recherche web**, des modèles de raisonnement spécialisés et des outils d’embedding ou de décision.
+
+#### La famille Sonar
+
+- **Sonar Pro** : le modèle flagship pour les questions complexes à étapes multiples, avec un contexte de **200K tokens** et un accès natif au web. Tarif de **3 $ / 15 $** par million de tokens.
+- **Sonar** : le modèle de base, avec un contexte de **128K tokens**, pour les recherches factuelles simples et rapides.
+- **Sonar Deep Research** : conçu pour la recherche approfondie et les workflows multi-étapes, avec un contexte de 128K tokens.
+- **Sonar Reasoning Pro** : le modèle de raisonnement avancé, avec un contexte de **128K tokens**, un tarif de **2 $ / 8 $** par million de tokens, et une architecture basée sur DeepSeek R1 avec chaîne de pensée (Chain of Thought). Le standalone Sonar Reasoning a été déprécié en décembre 2025 au profit de cette version Pro.
+
+#### Les pépites moins connues
+
+- **pplx-embed (v1 et v2)** : des modèles d’embedding **open source multimodaux** publiés sur Hugging Face, utilisables pour la recherche sémantique et les systèmes RAG.
+- **pplx-decider-v1-27b** : un modèle de **décision multimodale** lancé en octobre 2026, conçu pour la classification, le routage et la notation par rubrique. Il retourne des probabilités pour des réponses oui/non, des choix définis ou des niveaux de score, avec des poids publiés sous licence Apache 2.0.
+- **R1-1776** : une variante de DeepSeek R1 adaptée par Perplexity, mentionnée dans les archives de l’entreprise.
+
+---
+
+### 💎 En résumé : les “pépites” à retenir
+
+| Fournisseur | Pépite | Pourquoi elle est intéressante |
+|---|---|---|
+| **OpenAI** | **gpt-oss-120b / 20b** | Des modèles open source Apache 2.0, une rareté chez OpenAI, utilisables localement ou via API à coût très réduit. |
+| **Anthropic** | **Claude Mythos 5** | Un modèle spécialisé en cybersécurité et sciences de la vie, à accès restreint, qui sort des sentiers battus du chatbot généraliste. |
+| **Perplexity** | **pplx-decider-v1-27b** | Un petit modèle de décision multimodale open source, utile pour le routage et la classification dans les architectures agentiques. |
+
+Si tu veux que je creuse un modèle en particulier (par exemple pour un déploiement local, une comparaison de benchmarks ou un usage spécifique comme le code ou la recherche), dis-le-moi. Voici la cartographie des écosystèmes IA de **Meta** (Llama et Muse), **Snapchat** (My AI, SnapGen++ et Dotmo), **Instagram** (Meta AI et Muse Image) et **Bitmoji** (Lens+ AI et Snapmoji), avec les modèles, les liens vers les dépôts et les pépites moins connues.
+
+---
+
+### 🟦 Meta : la double stratégie Llama (open weights) et Muse (propriétaire)
+
+Meta a opéré un virage stratégique notable : **Llama 4** reste la famille open weights de référence, mais les modèles les plus récents et les plus puissants portent désormais le nom **Muse**, sous la bannière **Meta Superintelligence Labs (MSL)**. Llama n'est donc plus l'endroit où atterrissent les dernières avancées de Meta.
+
+#### La famille Llama (open weights)
+
+- **Llama 4 Scout** : le modèle open weights le plus récent avec **109B de paramètres totaux** (17B activés, architecture MoE à 16 experts) et une fenêtre de contexte de **10 millions de tokens**. Il est taillé pour les documents très longs et l'hébergement sur un seul serveur.
+- **Llama 4 Maverick** : environ **400B de paramètres totaux** (17B activés, 128 experts), avec un contexte de **1 million de tokens**, pour des tâches multimodales de meilleure qualité.
+- **Llama Guard 4 (12B)** : le modèle de sécurité de la famille, pour la classification des prompts et des sorties.
+- **Llama 3.x** : les générations précédentes restent disponibles, notamment **Llama 3.1 405B**, **Llama 3.2 (1B, 3B, 11B, 90B)** et **Llama 3.3 70B**.
+- **Llama 4 Behemoth** : un modèle d'environ **2 000 milliards de paramètres** annoncé comme "teacher model", mais **non publié** à ce jour.
+
+#### La famille Muse (propriétaire, via API et produits Meta)
+
+- **Muse Spark** : le premier modèle de MSL, lancé en avril 2026, présenté comme le modèle le plus puissant de Meta. Il alimente l'application et le site Meta AI, et se déploie progressivement sur WhatsApp, Instagram, Facebook, Messenger, Threads et les lunettes connectées.
+- **Muse Wonder** : le modèle le mieux classé de Meta sur les benchmarks publics (score de 71,42/100), avec un contexte de 1M de tokens et un tarif de **4 $ / 20 $** par million de tokens.
+- **Muse Spark Open** : une variante "open" de Muse Spark, avec un contexte de 1M de tokens.
+- **Muse Glimmer 30B** : un modèle de 30B de paramètres, orienté agents locaux "always-on", avec un contexte de 131K tokens.
+- **Muse Spark 1.3** : une version fermée (application et API en preview), orientée codage longue durée et travail agentique.
+- **Muse Voice Transcribe** : un modèle spécialisé dans la transcription vocale.
+- **Muse Image** : le modèle de génération d'images de Meta, intégré à Instagram et WhatsApp (voir section Instagram).
+
+---
+
+### 🟡 Snapchat : My AI, SnapGen++ et Dotmo
+
+Snapchat ne développe pas de LLM de fondation généraliste en propre pour son assistant principal ; **My AI** s'appuie sur des modèles tiers, tandis que Snap développe des modèles spécialisés pour la génération sur appareil et la vidéo.
+
+#### My AI : un assistant multi-modèles
+
+My AI est propulsé par des **grands modèles de langage de dernière génération**, notamment les modèles **GPT d'OpenAI** et **Gemini de Google**, avec une couche de sécurité et des contrôles propres à Snapchat. My AI a été lancé en février 2023 avec la technologie ChatGPT, et Snap a annoncé en septembre 2024 l'intégration de Gemini. Depuis novembre 2025, **Perplexity** est également disponible aux côtés de My AI sur Snapchat, pour des réponses de type recherche avec citations.
+
+#### Les modèles propriétaires de Snap
+
+- **SnapGen++** : un **Diffusion Transformer compact** présenté en janvier 2026, capable de génération texte-vers-image en qualité serveur **directement sur mobile**, en moins de deux secondes sur un iPhone. C'est une pépite d'efficacité pour l'inférence embarquée.
+- **Dotmo** : en juin 2026, Snap a **spinning off** son équipe interne de génération vidéo par IA dans une société indépendante nommée **Dotmo**, spécialisée dans les modèles capables de créer des expériences de jeu interactives.
+
+---
+
+### 🔵 Instagram : Meta AI et Muse Image
+
+Instagram n'a pas de modèle IA "maison" distinct ; il s'appuie sur l'infrastructure **Meta AI**, désormais propulsée par **Muse Spark** et **Muse Image**.
+
+- **Muse Spark sur Instagram** : le modèle alimente Meta AI dans les barres de recherche, les chats de groupe et les posts. Il permet des conversations vocales naturelles, la génération d'images et la récupération de recommandations depuis Reels et Maps.
+- **Muse Image** : le modèle de génération d'images de Meta, **pleinement intégré à Instagram** et WhatsApp depuis juillet 2026. Il permet de générer des images à partir de texte, d'éditer des images existantes, et de **créer des visuels à partir de posts publics Instagram** de amis ou de créateurs (avec un mécanisme d'opt-out pour les comptes concernés).
+- **Effets de story IA** : plus de **30 nouveaux effets** Muse Image ont été ajoutés aux stories Instagram, permettant d'interpréter la scène d'une photo (éclairage, contexte) et de générer des images créatives incluant des amis tagués.
+
+---
+
+### 🟠 Bitmoji : l'IA générative dans Lens+ et Snapmoji
+
+Bitmoji n'est pas un modèle de fondation, mais un **écosystème d'avatars** qui intègre désormais de l'IA générative pour la création et la personnalisation.
+
+#### Lens+ AI : générer un Bitmoji à partir d'une photo
+
+- Les abonnés **Snapchat Lens+** (8,99 $/mois) ont accès à une **Lentille IA spéciale** qui génère un **Bitmoji à partir d'une photo** de l'utilisateur, en se basant sur l'interprétation de son apparence réelle.
+- Le résultat est une **image générée par l'IA** placée dans le Snap ; cela **ne modifie pas l'outfit sauvegardé** dans le Bitmoji Closet. L'utilisateur peut ensuite choisir de mettre à jour son avatar manuellement à partir de cette image.
+- La fonctionnalité est accessible via le prompt **"Snap the Look"**, avec un nombre limité de générations gratuites.
+
+#### Snapmoji : la pépite de recherche
+
+- **Snapmoji** est un modèle présenté à **WACV 2026**, décrit comme un système de **"génération instantanée d'avatars animables à double style"**. Il permet de générer des avatars animables dans deux styles (probablement un style Bitmoji et un style plus réaliste) de manière instantanée. C'est une pépite académique qui préfigure peut-être les futures évolutions de Bitmoji.
+
+#### La fin de l'application autonome Bitmoji
+
+- Snapchat a annoncé la **fermeture de l'application Bitmoji autonome** le **30 juin 2026**, en repliant toutes ses fonctionnalités dans l'expérience Snapchat principale. Bitmoji devient donc une fonctionnalité intégrée à part entière, et non plus un produit séparé.
+
+---
+
+### 💎 Récapitulatif des pépites à retenir
+
+| Écosystème | Pépite | Pourquoi elle est intéressante |
+|---|---|---|
+| **Meta** | **Muse Glimmer 30B** | Un modèle open weights de 30B orienté agents locaux "always-on", plus facile à héberger que Llama 4 Maverick. |
+| **Meta** | **Llama 4 Scout (10M tokens)** | La plus grande fenêtre de contexte ouverte de l'écosystème, pour des documents monumentaux. |
+| **Snapchat** | **SnapGen++** | Génération texte-image de qualité serveur **sur mobile**, en moins de 2 secondes. |
+| **Snapchat** | **Dotmo** | La spin-off vidéo IA de Snap, potentiellement une future pépite dans les modèles de jeu interactif. |
+| **Instagram** | **Muse Image + posts publics** | La capacité unique de générer des visuels à partir de comptes Instagram publics, avec opt-out. |
+| **Bitmoji** | **Snapmoji** | Un modèle de recherche pour des avatars animables à double style, qui pourrait redéfinir Bitmoji. |
+
+Si tu veux que je creuse un modèle en particulier (par exemple pour un déploiement local de Muse Glimmer ou une comparaison Llama 4 Scout vs Maverick), dis-le-moi. Voici la cartographie des écosystèmes IA de **Nvidia, EVGA, MSI, Citrix, IBM AS/400 et Samsung**. La logique est différente de celle des laboratoires de modèles : ici, il s'agit surtout de **plateformes, de frameworks, d'infrastructures et de silicium** qui font tourner l'IA, avec quelques modèles spécialisés très pointus.
+
+---
+
+### 🟢 Nvidia : l'écosystème le plus profond, du silicium aux modèles spécialisés
+
+Nvidia ne développe pas de chatbot généraliste, mais son écosystème couvre toute la chaîne de l'IA, avec des modèles spécialisés, des frameworks d'inférence et des plateformes de simulation.
+
+#### Les modèles spécialisés (pépites)
+- **BioNeMo** : la plateforme de référence pour l'IA en biologie et découverte de médicaments. Elle inclut des modèles ouverts, des bibliothèques, des jeux de données et des microservices NIM pour la conception moléculaire, la prédiction de structure de protéines et le criblage virtuel. Elle promet un entraînement **2× plus rapide** et une inférence **6× plus rapide** pour les modèles biofondationnels.
+- **Nemotron** : la famille de modèles de fondation ouverts de Nvidia, avec des poids ouverts, des données d'entraînement et des recettes pour le raisonnement, le code, la vision, les agents et la sécurité. C'est la base des agents IA spécialisés pour la santé numérique.
+- **Isaac** : la plateforme de robotique et de simulation, avec **Isaac GR00T** pour la robotique humanoïde et **Isaac for Healthcare** pour l'automatisation hospitalière, la chirurgie autonome et l'échographie téléopérée.
+- **MONAI** : le framework open source d'IA pour l'imagerie médicale, avec plus de **50 modèles pré-entraînés** et plus de 8 millions de téléchargements.
+- **Holoscan SDK** : un runtime temps réel pour l'IA physique et le traitement de capteurs, du Jetson Nano au DGX, pour la robotique et les dispositifs médicaux.
+- **Alpamayo** : un modèle de vision-langage-action (VLA) pour la conduite autonome, intégré notamment dans les solutions de MSI.
+
+#### Les frameworks d'inférence et d'entraînement
+- **NIM** (NVIDIA Inference Microservices) : transforme les modèles en API prêtes pour la production, avec déploiement, mise à l'échelle et décodage spéculatif.
+- **TensorRT-LLM** : optimise les performances des LLM sur GPU, avec quantification, batching et gestion du cache KV.
+- **NeMo** : framework d'entraînement, de PEFT, de guardrails et d'évaluation.
+- **Dynamo** : prend en charge le serving distribué à grande échelle.
+- **CUDA-X** et **AI Enterprise** : bibliothèques accélérées et pile logicielle supportée pour les entreprises.
+
+---
+
+### ⚫ EVGA : pas d'écosystème IA propre, mais un acteur matériel de niche
+
+EVGA est un cas particulier : la marque **a quitté le marché des cartes graphiques en septembre 2022**, mettant fin à sa relation avec Nvidia. Il n'existe donc **pas de modèle IA, de framework ou de plateforme IA estampillée EVGA**.
+
+Ce qui subsiste :
+- EVGA continue de produire des **alimentations, cartes mères et périphériques**, mais pas de puces IA ni de piles logicielles associées.
+- La communauté utilise parfois des cartes EVGA (comme la RTX 3090 Ti) pour du **fine-tuning local**, mais il s'agit d'usages artisanaux et non d'un écosystème structuré.
+
+**Verdict** : EVGA n'a pas de pépite IA à proprement parler. C'est un fabricant de matériel qui a raté le virage de l'IA générative.
+
+---
+
+### 🔴 MSI : l'infrastructure cloud-to-edge, avec une pépite pour l'IA de bureau
+
+MSI est un acteur majeur de l'infrastructure IA, des serveurs de datacenter aux stations de travail de bureau et aux plateformes embarquées. Il ne développe pas de modèles de fondation, mais **intègre et déploie** ceux des autres (DeepSeek, Meta, Google).
+
+#### Les plateformes matérielles
+- **Serveurs NVIDIA MGX** : la famille **CG480-S5063** (4U, Intel Xeon 6), **CG481-S6053** (AMD EPYC 9005) et **CG681-S6093** (6U liquide, 8 GPU Blackwell) pour les charges IA lourdes en datacenter.
+- **MSI XpertStation WS300** : une station de travail de bureau basée sur l'architecture **NVIDIA DGX Station**, pour l'IA locale à haute performance.
+
+#### La pépite : MSI EdgeXpert
+- **EdgeXpert** est présenté comme un **supercalculateur IA de bureau** délivrant une performance de l'ordre du **pétaflop**, basé sur la puce **NVIDIA GB10 Grace Blackwell** avec **128 Go de mémoire unifiée cohérente**.
+- Il est livré avec la pile logicielle NVIDIA préinstallée, ce qui permet aux développeurs de prototyper, fine-tuner et inférer les modèles de raisonnement de **DeepSeek, Meta, Google** et d'autres.
+- Il est positionné pour la **robotique, les villes intelligentes et la vision par ordinateur**. C'est une pépite pour ceux qui veulent une station IA compacte sans passer par le cloud.
+
+#### La couche d'orchestration
+- **OmniGuard** : une solution de véhicule d'inspection intelligente qui intègre le modèle VLA **Alpamayo-R1** de Nvidia pour la perception et la navigation autonome.
+
+---
+
+### 🔵 Citrix : la gouvernance de l'IA, pas les modèles
+
+Citrix ne développe pas de modèles de fondation. Son écosystème IA est centré sur **NetScaler**, sa plateforme de livraison d'applications, qui est devenue une **passerelle de gouvernance pour le trafic IA** en entreprise.
+
+#### NetScaler AI Gateway
+- Lancé en **avril 2026**, il permet de **contrôler les coûts et les performances des LLM**, et de sécuriser la livraison des applications IA à l'échelle de l'entreprise. Il gère la limitation de débit par token, l'équilibrage de charge basé sur la latence et l'observabilité du trafic IA.
+- Il est déjà intégré à **Citrix Aidrien**, l'assistant IA interne de Citrix, ce qui en fait une couche de contrôle **prête pour la production** à l'échelle entreprise.
+
+#### La pépite : MCP Gateway
+- En **juillet 2026**, Citrix a ajouté la fonction **MCP Gateway** (Model Context Protocol) à NetScaler AI Gateway. Cela permet de gouverner **à la fois l'IA agentique et le trafic LLM** depuis un seul système, avec un routage sécurisé et des contrôles de politique centralisés pour les interactions entre agents.
+- L'intégration avec **Protecto** ajoute une classification agentique des données et un masquage des informations sensibles avant qu'elles n'atteignent les workflows IA.
+
+---
+
+### 🟠 IBM AS/400 (IBM i) : l'IA pour moderniser le patrimoine, pas pour le remplacer
+
+L'AS/400 n'est pas une plateforme d'IA en soi, mais IBM y intègre désormais des outils d'IA générative pour **moderniser les applications RPG et COBOL** sans réécrire des décennies de code.
+
+#### La stratégie : watsonx Code Assistant for i
+- Lancé en **mai 2025**, il fait de l'analyse et du refactoring de code RPG assistés par IA un **pilier central** de la feuille de route de modernisation d'IBM. Près de **73 % des sites IBM i** priorisent l'intégration de l'IA et l'automatisation, avec des gains de productivité rapportés d'environ **20 %** et des réductions de coût total de possession allant jusqu'à **35 %**.
+
+#### La pépite : IBM Bob (et le remplacement de Watson Code Assist)
+- **IBM Bob** est le nouvel assistant de codage IA qui **remplace Watson Code Assist**. Il utilise une **approche multi-modèles**, combinant les modèles **Claude d'Anthropic, Llama de Meta, Mistral AI** et le modèle maison **Granite** d'IBM. Il est conçu pour l'analyse de code, la documentation et l'automatisation du développement sur IBM i, et son lancement général est prévu pour 2026.
+- **watsonx Orchestrate** est utilisé pour l'orchestration d'agents et l'intégration avec des systèmes externes via des serveurs MCP, avec des cas d'usage comme la réduction de **83 %** du temps de traitement des demandes RH.
+
+---
+
+### 🟣 Samsung : la stratégie multi-IA, du on-device au cloud
+
+Samsung est le seul de cette liste à développer à la fois **ses propres modèles** (Gauss), **son propre silicium IA** (Exynos avec NPU) et à intégrer des modèles tiers (Gemini, Perplexity) dans une approche **multi-IA**.
+
+#### Les modèles : Gauss et EdgeFusion
+- **Samsung Gauss** est la famille de modèles génératifs maison de Samsung, déclinée en **Gauss 2.0**, conçue pour tourner **en grande partie en local** sur les appareils, pour le résumé de texte, la génération d'images et l'assistance linguistique.
+- **EdgeFusion** est le modèle de **génération et d'édition d'images on-device**, capable de créer des visuels à partir de commandes vocales ou textuelles **sans connexion Internet**. C'est une pépite d'efficacité embarquée, qui sera intégrée à la série Galaxy S26.
+
+#### La stratégie multi-IA sur Galaxy S26
+- Le Galaxy S26 est présenté comme le **premier "téléphone multi-IA"** de la gamme, combinant **Perplexity** (recherche et assistant vocal "Plex"), **Google Gemini** et **Gauss** de Samsung. Gemini passe d'AI unique à **un pilier d'une structure multi-agents** aux côtés de Bixby et Perplexity, chacun spécialisé dans des domaines différents.
+
+#### Le silicium : Exynos et NPU
+- **Exynos 2600** : le premier processeur mobile gravé en **2 nm Gate-All-Around (GAA)** de l'industrie, avec un NPU dont les performances en IA générative sont **113 % supérieures** à celles de la génération précédente. Il permet de faire tourner des modèles on-device plus grands et plus variés, avec une meilleure efficacité énergétique et une latence réduite.
+- **Exynos 2500** : le NPU atteint **59 TOPS**, soit une amélioration de **39 %** par rapport à son prédécesseur, pour l'IA on-device sur les Galaxy S26 FE.
+- **Exynos 2700** (à venir) : le NPU occupe une **surface considérablement accrue** sur la puce, signe de la priorité donnée à l'IA on-device pour les générations futures.
+
+---
+
+### 💎 Récapitulatif des pépites à retenir
+
+| Écosystème | Pépite | Pourquoi elle est intéressante |
+|---|---|---|
+| **Nvidia** | **BioNeMo + Nemotron** | Des modèles ouverts spécialisés en biologie et en agents, avec des gains de performance significatifs. |
+| **Nvidia** | **Isaac GR00T + Alpamayo** | La robotique humanoïde et la conduite autonome, deux domaines où Nvidia pose les fondations. |
+| **EVGA** | *Aucune* | La marque a quitté le marché des GPU en 2022 ; pas d'écosystème IA structuré. |
+| **MSI** | **EdgeXpert** | Un supercalculateur IA de bureau au format pétaflop, avec la pile NVIDIA préinstallée pour DeepSeek, Meta et Google. |
+| **Citrix** | **NetScaler MCP Gateway** | La gouvernance unifiée du trafic LLM et agentique, avec masquage des données sensibles via Protecto. |
+| **IBM AS/400** | **IBM Bob** | Un assistant de codage multi-modèles (Claude, Llama, Mistral, Granite) pour moderniser le RPG sans tout réécrire. |
+| **Samsung** | **EdgeFusion** | La génération d'images on-device, sans Internet, intégrée au Galaxy S26. |
+| **Samsung** | **Exynos 2600 (2 nm)** | Le premier AP mobile en 2 nm GAA, avec un NPU 113 % plus rapide pour l'IA générative on-device. |
+
+Si tu veux que je creuse un point en particulier — par exemple le déploiement de modèles sur EdgeXpert, les benchmarks du NPU d'Exynos 2600, ou l'intégration de Bob dans un environnement IBM i — dis-le-moi. Voici la cartographie de l'écosystème IA d'Apple, du silicium aux modèles, en passant par les frameworks et les ponts vers Linux et Microsoft. La stratégie d'Apple est très différente de celle des autres acteurs : elle est **verticalement intégrée** (puce, OS, modèles, API) et se concentre massivement sur l'**inférence locale et la confidentialité**, avec une ouverture récente mais très encadrée vers l'extérieur.
+
+---
+
+### 🍎 Apple Intelligence et la famille AFM 3 : les modèles maison
+
+Contrairement à ce que l'on pourrait croire, Apple ne se contente pas d'utiliser Gemini. Depuis la WWDC 2026, elle a déployé sa **troisième génération d'Apple Foundation Models (AFM 3)**, une famille de **cinq modèles** aux rôles bien distincts.
+
+#### Les modèles embarqués (on-device)
+- **AFM 3 Core** : un modèle dense de **3 milliards de paramètres**, qui tourne directement sur l'appareil. C'est lui qui gère la plupart des tâches quotidiennes d'Apple Intelligence.
+- **AFM 3 Core Advanced** : un modèle de **20 milliards de paramètres** au total, mais qui utilise une **architecture sparse (MoE)**. Il n'active que **1 à 4 milliards de paramètres à la fois** selon la requête, ce qui lui permet d'être plus puissant tout en restant économe en ressources.
+
+#### Les modèles serveur (Private Cloud Compute)
+Pour les tâches plus lourdes, Apple utilise ses serveurs **Private Cloud Compute (PCC)**, avec trois modèles supplémentaires :
+- **AFM 3 Cloud** : le modèle serveur généraliste.
+- **ADM 3 Cloud (Image)** : un modèle spécialisé dans la **génération et l'édition d'images**, qui alimente le nouvel Image Playground.
+- **AFM 3 Cloud Pro** : le modèle le plus puissant de la famille, conçu pour les **raisonnements complexes à étapes multiples**.
+
+**Le rôle réel de Google Gemini** : Il est important de noter qu'Apple a utilisé les technologies derrière Gemini de Google **pour entraîner ses propres modèles AFM 3**, et non pour les remplacer. Gemini a servi de "professeur" pour construire des modèles Apple qui restent la propriété et l'infrastructure d'Apple.
+
+---
+
+### 🛠️ L'API Foundation Models et les frameworks : la couche de contrôle
+
+C'est ici que se trouve la véritable nouveauté stratégique d'Apple. Le framework **Foundation Models** est devenu une plateforme complète, et non plus un simple accès à un modèle unique.
+
+#### L'API Foundation Models
+- **Accès natif en Swift** : Les développeurs peuvent appeler directement les modèles AFM 3 (sur appareil ou via PCC) depuis leurs apps, avec un contrôle précis sur la génération (sortie structurée, appel d'outils, instructions personnalisées, streaming).
+- **Private Cloud Compute (PCC)** : L'accès au modèle serveur est **gratuit** pour les développeurs de l'App Store Small Business Program (moins de 2 millions de téléchargements). Il n'y a **ni clé API, ni coût par token**, seulement une limite d'usage quotidienne par utilisateur.
+- **Le "LanguageModel protocol"** : Apple a ouvert sa couche d'abstraction. Les développeurs peuvent désormais brancher des modèles **tiers** (Claude, Gemini, etc.) via des packages Swift, tout en gardant la même API de session. C'est un changement majeur : on peut prototyper avec les modèles Apple, puis basculer sur un modèle cloud sans réécrire son code.
+
+#### Core AI : le nouveau runtime on-device (successeur de Core ML)
+- **Core AI** est le runtime d'inférence d'Apple pour iOS 27 et macOS 27, qui remplace Core ML. Il permet d'exporter des modèles PyTorch au format **`.aimodel`** pour qu'ils tournent sur le **GPU ou le Neural Engine** des puces Apple Silicon.
+- **Les performances** : Sur une puce **M4 Max**, un modèle comme Qwen3-8B en quantification 4-bit atteint **94 tokens/seconde** sur le GPU, contre 90 pour MLX dans les mêmes conditions. C'est un signal fort : Apple optimise son propre runtime pour être compétitif face à MLX.
+
+#### MLX : le framework open source pour Apple Silicon
+- **MLX** est le framework open source d'Apple, optimisé pour l'architecture à mémoire unifiée des puces M-series. Il est devenu la référence pour faire tourner des modèles ouverts en local sur Mac.
+- **La pépite** : En octobre 2026, **Meta et Apple ont collaboré** pour optimiser **Muse Spark Open** (un modèle MoE de 816 milliards de paramètres, avec 42 milliards activés) pour MLX. Il peut tourner sur **deux Mac Studio M5 Ultra**, et les poids sont disponibles sur Hugging Face.
+
+---
+
+### 🐧 Apple-Linux : l'ouverture stratégique (mais pas totale)
+
+C'est un tournant pour Apple, qui a historiquement gardé son écosystème fermé. Mais il faut comprendre la nuance.
+
+- **Ce qui est ouvert** : Apple a annoncé à la WWDC 2026 que le **framework Foundation Models allait être open source**, avec un **SDK Python**, un **CLI (`fm`)**, et un support de **Linux** là où Swift est disponible. L'objectif est de faire de Foundation Models une **"couche de contrôle native en Swift pour n'importe quel modèle, partout où Swift tourne, y compris Linux"**.
+- **Ce qui n'est pas ouvert** : Cette ouverture concerne la **couche d'orchestration et les API**, pas les modèles AFM eux-mêmes. Vous ne pourrez pas faire tourner AFM 3 Core gratuitement sur un serveur Linux. Apple utilise Linux comme **infrastructure compatible avec Swift** et comme pont vers des fournisseurs de modèles, mais **pas comme plateforme ouverte pour ses modèles locaux**.
+
+---
+
+### 🪟 Apple-Microsoft : une concurrence féroce, avec quelques ponts
+
+La relation est avant tout une **course à l'IA PC**, mais des intégrations existent.
+
+- **La rivalité** : Microsoft veut transformer Windows en **plateforme pour agents IA**, avec des modèles qui tournent en local sur des PC haute performance. Apple riposte avec ses Mac M-series et veut renforcer le contrôle des agents IA sur macOS. Microsoft a même lancé avec NVIDIA le **Surface Laptop Ultra (RTX Spark)** pour concurrencer directement le Mac.
+- **Le pont concret** : **Microsoft Copilot Health** (lancé en mars 2026) intègre **Apple Health** (et Fitbit) pour fournir des analyses de santé assistées par IA. C'est un exemple d'intégration de données, pas de modèles.
+- **L'intégration tierce** : Apple a embedé **Claude (Anthropic) dans Xcode** pour le codage assisté, et permet via son "LanguageModel protocol" d'utiliser des modèles Microsoft/Azure si un package Swift est fourni.
+
+---
+
+### 💎 Les pépites à retenir (et où les trouver)
+
+| Pépite | Ce que c'est | Où la trouver |
+|---|---|---|
+| **Core AI Model Zoo** | Une collection de **plus de 75 modèles** (Qwen3.5, MiniCPM, Shieldstral, etc.) déjà convertis au format `.aimodel` pour iOS 27 / macOS 27, avec le code de conversion. | GitHub : [`john-rocky/coreai-model-zoo`](https://github.com/john-rocky/coreai-model-zoo) |
+| **Shieldstral-1.0-3B (Core AI)** | Le modèle de sécurité de Mistral (3B) converti pour Core AI. Il agit comme un **classifieur de sécurité** (pas un générateur) : on lui donne une politique et un contenu, il renvoie une probabilité. Latence de **123 ms** sur M4 Max. | Hugging Face : `mlboydaisuke/Shieldstral-CoreAI` |
+| **Qwen3.5-0.8B / 2B / 3.6-35B (Core AI)** | Des conversions de modèles Qwen pour Core AI, dont un **MoE de 35B (Mac-only)**. Licence Apache 2.0. | Hugging Face : `mlboydaisuke/qwen3.5-0.8B-CoreAI`, etc. |
+| **Muse Spark Open (MLX)** | Le modèle open weights de Meta (816B total, 42B actifs), optimisé par Apple pour MLX. Tourne sur **2 Mac Studio M5 Ultra**. | Hugging Face (poids), optimisé MLX |
+| **Outlier for Apple Silicon (MLX)** | Une collection de **builds MLX 4-bit** pour M1/M2/M3/M4, avec des conversions de DeepSeek, Qwen3, etc. | Hugging Face : `Outlier-Ai/Outlier-for-Apple-Silicon-MLX` |
+| **FastH3-Omni-MLX** | Un modèle **vidéo/omni** (FastVideo) optimisé pour MLX, pour la génération sur Apple Silicon. | Hugging Face : `FastVideo/FastH3-Omni-MLX` |
+
+Si tu veux que je creuse un point en particulier — par exemple la conversion d'un modèle PyTorch vers Core AI, le fonctionnement du Private Cloud Compute, ou les benchmarks MLX vs Core AI sur une puce spécifique — dis-le-moi.
