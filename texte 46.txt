@@ -1,0 +1,233 @@
+Claude Fable 5 vs LFM2.5-ColBERT-350M: Benchmarks, Pricing, Speed (July 2026)
+2026/10/22
+Meta AI Models: Benchmarks & Pricing (October 2026)
+Llama 3.1 405B | Established | 128K | $0.00 / $0.00 | 29 | 2.19s | 28.06Estimated Llama 4 Scout | Established | 10M | $0.00 / $0.00 | 90 | 0.84s | 28.04Supported Llama 4 Maverick | Established | 1M | $0.00 / $0.00 | 47 | 1.10s | 21.44Supported
+
+GitHub
+2026/04/09
+state-of-llm-apis/models/meta.md at main · janwilmake/state-of-llm-apis
+Metric | Value ... Llama 4 Scout (Released 2025-04-05) ... Llama 3.3 70B Instruct (Released 2024-12) ... Llama 3.1 405B Instruct
+Palmyra X5的最佳替代方案 (2026)
+2026/09/24
+All Meta Llama Models - Open Source LLMs (2026)
+Model: Llama 3.1 8B Instruct; Input $/1M: $0.050; Output $/1M: $0.080 ... Model: Llama Guard 4 12B; Input $/1M: $0.180; Output $/1M: $0.180 ... Model: Llama 3.2 1B Instruct; Input $/1M: $0.027; Output $/1M: $0.201 ... Model: Llama 4 Scout; Input $/1M: $0.100; Output $/1M: $0.300 ... Model: Llama 3.3 70B Instruct; Input $/1M: $0.100; Output $/1M: $0.320
+
+Hugging Face
+2026/05/17
+2026-05-18/open-weights.jsonl · tensorfeed/ai-ecosystem-daily at main
+"llama-4-maverick","name":"Llama 4 Maverick","family" ... "2026-04","license" ... "llama-4-scout","name":"Llama 4 Scout","family" ... //huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct" ... "Smaller Llama 4 sibling. 17B active / 109B total.
+
+Learn Microsoft
+2026/07/15
+Foundry 모델 카탈로그의 주요 모델 - Azure Machine Learning - Azure AI 추론 패키지 C#용 | C# | Link
+Model: Llama-4-Scout-17B-16E-Instruct; Type: 채팅 완료; Capabilities: - 입력: 텍스트 및 이미지(128,000개의 토큰) ... 텍스트(8,192개 토큰) ... Meta-Llama-3.1-8B-Instruct | 채팅 완료 | - 입력...
+linuxmaine.org
+Guide encyclopédique des modèles d’IA exécutables localement
+3.1 Famille Meta LLaMA 11 3.1.1 LLaMA 1 11 3.1.2 LLaMA 2 11 3.1.3 LLaMA 3 11 3.1.4 LLaMA 3.1 12 3.1.5 LLaMA 3.2 12 3.1.6 LLaMA 3.3 12 3.1.7 LLaMA 4 12
+Price Per Token
+2026/10/20
+Meta-llama API Pricing (Updated 2026) - Meta-llama API Pricing (Updated 2026)
+Compare pricing for all 50 Meta-llama models. ... $0.03 / $0.05 ... All Meta-llama Models ... 131K ... 10.5M ... 33K ... 60K ... 16K ... 80K ... 328K
+aibot
+2026/08/15
+Llama: все модели, цены и контекст — aibot
+модель: Llama Guard 4 12Bmeta-llama/llama-guard-4-12b; контекст: 1.0M; вход $/1M: $0.18; выход $/1M: $0.18; рассуждение: нет ... модель: Llama 4 Maverickmeta-llama/llama-4-maverick; контекст: 1.0M; вход $/1M: $0.2; выход $/1M: $0.7; рассуждение: нет ... модель: Llama 3.1 70B Instructmeta-llama/llama-3.1-70b-instruct
+
+Second Talent
+2026/07/06
+Every Llama AI Model Explained and Compared (Sep, 2026) - Second Talent
+TL;DR: Llama is Meta's open-weight model family. You download the weights and run them yourself, or use one of many cheap hosted providers. Llama 4 Scout has a huge 10M token context window. Maverick
+AI Wiki
+2026/03/17
+Meta AI | AI Wiki - Llama 3 | April 18, 2024 | 8B, 70B | 8,192 | Llama 3 Community License | 15T+ tokens; new tokenizer
+Llama 4 | April 5, 2025 | Scout 17B active / 109B total ... As of August 2026 the meta-llama organization on Hugging Face lists nothing newer than the Llama 4 models...
+
+paloaltonetworks.com
+Insights DB
+meta-llama/Llama-3.1-8B-Instruct | Jan 27 2026 ... meta-llama/Llama-3.2-1B-Instruct | Nov 21 2025 context-labs/meta-llama-Llama-3.2-3B-Instruct-FP16 | Nov 21 2025 ... meta-llama/Meta-Llama-3-8B | Nov 21 2025 ... meta-llama/Llama-2-7b-hf | Nov 25 2025
+aicomparison.ai
+2026/10/20
+Meta Llama Models Guide: Llama 4, Muse, and What to Use
+Model: Llama 4 Scout; Access: Open weights; Size and context: 109B total, 17B active, 16 experts, 10M tokens; Best for: Long documents, single-server hosting ... Model: Llama 4 Maverick; Access: Open weights; Size and context: About 400B total, 17B active, 128 experts, 1M tokens; Best for: Higher-quality multimodal work
+curatedai.net
+Meta AI Models & Tools | CuratedAI Family Hub
+Llama 4 Maverick (April 2026), and Llama 4 Scout (April 2026). ... Release date: Jan 31, 2026; Pricing: Free; Modalities: Multimodal Reasoning, LLMs; Best For: Best for Open Ecosystem Support ... Model: Llama 4 Maverick; Release date: Apr 5, 2025; Pricing: Free; Modalities: LLMs, Multimodal Reasoning; Best For: Best for Open Multimodal Reasoning; Link: View →
+
+Hugging Face
+{"cid": "synthetic-c1-001233", "text": "[source] Meta official Hugging Face open weights | id meta-official-huggingface-open-wei...
+llama-guard-4-12b (release 2026-06-02) ... llama-3.2-3b-instruct (release 2026-06-02)\n[newest in family] llama-3.3-nemotron-super-49b-v1.5 (release 2026-07-17) ... [\n \"meta-llama/Llama-Guard-4-12B\",\n \"meta-llama/Llama-4-Scout\"...
+tedneward.com
+2026/10/05
+Meta Llama - Meta Llama
+Llama 4 Scout ... Llama 4 Maverick ... Llama 4 Behemoth (preview) ... Llama 3.2 3B ... Available on Hugging Face under the meta-llama org (Llama 3.2 3B Instruct). ... Llama 3.2 1B
+
+Snapchat
+O que é o My AI do Snapchat e como posso usá-lo?
+O My AI é impulsionado por grandes modelos de linguagem de última geração, como o GPT da OpenAI e o Gemini do Google. Ele foi treinado em uma ampla diversidade de textos e conta com melhorias de segurança e controles exclusivos para o Snapchat.
+
+Snapchat
+O que é o My AI no Snapchat e de que forma posso utilizá-lo?
+O My AI é baseado em Grandes Modelos de Linguagem, como os modelos GPT da OpenAI e os modelos Gemini da Google, e foi treinado numa vasta gama de textos, com melhorias de segurança adicionais e controlos exclusivos do Snapchat.
+
+百度百科
+2026/05/24
+My AI - Snapchat推出的一款聊天机器人
+My AI是Snapchat于2023年2月推出的一款人工智能聊天机器人，最初由OpenAI的ChatGPT技术提供支持，2024年9月Snap宣布将整合谷歌的Gemini模型 [1] [4]。
+
+Snapchat
+SnapchatのMy AIとは何ですか？また、どのように使用しますか？
+My AIは、現在Snapchatのユーザーが利用できるチャットボットです ... My AIは、OpenAIのGPTモデルやGoogleのGeminiモデルといった大規模言語モデルを基盤としており、多様なテキストでトレーニングされています。さらに、Snapchat独自の安全性強化と制御機能が追加されています。
+thinkfacility.com
+2026/09/24
+What AI model does Snapchat My AI use? OpenAI's GPT and Google's Gemini
+Snap's help center says My AI is powered by large language models "like GPT models from OpenAI and Gemini models from Google", with Snap's own safety layer on top. ... "My AI is powered by Large Language Models like GPT models from OpenAI and Gemini models from Google
+
+百度百科
+2026/05/24
+My AI_百度百科
+My AI是Snapchat于2023年2月推出的一款人工智能聊天机器人，最初由OpenAI的ChatGPT技术提供支持，2024年9月Snap宣布将整合谷歌的Gemini模型[1][4]。它被固定在应用聊天界面...
+
+Marketing-Interactive
+2026/09/20
+AI chatbot powered by OpenAI’s GPT jumps on board Snap - AI chatbot powered by OpenAI’s GPT jumps on board Snap
+Snap will be rolling out an OpenAI-powered chatbot named My ... According to Snap, the new chatbot, which is called My AI, is an experimental feature that will run the latest version of OpenAI's GPT technology that has been customised for Snapchat. My AI can reportedly gift ideas, plan trip, suggest recipes and even write poems.
+
+Apple Podcasts
+2025/11/25
+Snapchat's $400M AI Bet: Perpl... – On Message
+Perplexity will sit alongside Snap's existing "My AI" assistant, which runs on OpenAI's GPT and Google's Gemini. Users will have two AI chatbots side by side—Perplexity for research-style responses with citations, My AI for general assistance.
+
+TecnoAndroid
+2025/11/06
+Perplexity arriva su Snapchat: l’intelligenza artificiale entra nelle chat - Ad
+nelle chat: dal 2026 gli utenti potranno ... Secondo quanto comunicato ... Accanto a My AI, ma con un ruolo diverso Perplexity andrà ad affiancare My AI, l’assistente già integrato su Snapchat dal 2023 e basato su tecnologia OpenAI. A differenza di quest’ultimo...
+
+MEF
+2025/11/17
+Snapchat Gets $400M to Bring Perplexity’s “Answer Engine” into the App in 2026 - Blog - MEF - Snapchat’s latest partnership signals a bold step into the evolving world of AI-powered chat
+According to Snap’s Help Center, My AI runs on LLMs like OpenAI’s GPT and Google’s Gemini with Snap-specific safety layers. In practice ... Perplexity’s integration offers Snapchatters a credible research-oriented assistant with source transparency, while My AI remains for broader conversational use.”
+
+ACM Digital Library
+2026/06/06
+Trust as a Situated User State in Social LLM-Based Chatbots | Proceedings of the 34th ACM Conference on User Modeling, Adaptation and Personalization - Several features on this page require Premium Access
+07 June 2026 Publication History ... yet how users develop trust in these systems over time remains unclear. We present a four-week longitudinal qualitative survey study (N = 27) of trust formation in Snapchat’s My AI, a socially embedded conversational agent. ... by perceived ability, conversational behavior, human-likeness, transparency, privacy concerns, and trust in the host platform.
+
+THE DECODER
+2026/01/17
+Snaps SnapGen++ generiert hochauflösende KI-Bilder in unter zwei Sekunden direkt auf dem iPhone - Skip to content
+Mit SnapGen++ stellt der Snapchat-Konzern einen kompakten Diffusion Transformer vor, der Text-zu-Bild-Generierung in Serverqualität auf mobilen Endgeräten ermöglicht. Das 0 ... Der Snapchat-Konzern investiert seit Längerem in KI-Funktionen für seine Messaging-App. ... 400 Millionen US-Dollar an.
+
+arXiv
+LLM-Enhanced Topical Trend Detection at Snapchat - \setcctype
+LLM-Enhanced Topical Trend Detection at SnapchatConference: Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval; July 20–24, 2026; Melbourne, VIC, AustraliaProceedings of the 49th International ACM
+
+至顶网
+2026/06/21
+Snap将内部生成式AI视频团队拆分为独立公司Dotmo - /
+Snap将内部生成式AI视频团队独立拆分，成立新公司Dotmo，专注于开发可创建互动游戏体验的AI模型。拆分原因之一是内部运营成本过高 ... 2026年初，Snap已将智能眼镜业务Specs独立拆分成一家专注于该产品线开发的新公司。值得注意的是...
+
+국립의과학지식센터
+국립보건연구원 국립의과학지식센터 - 전자자원 상세
+Trust as a Situated User State in Social LLM-Based Chatbots ... We present a four-week longitudinal qualitative survey study (N = 27) of trust formation in Snapchat’s My AI, a socially embedded conversational agent.
+
+ScienceDirect.com
+2026/03/30
+A mediated investigation into the impact of personalised content recommendations on experiential outcomes with Snapchat's [My AI] chatbot - Skip to main contentSkip to article
+we examine how algorithmic individualisation translates into psychological value within Snapchat's [My AI] chatbot. Data from a survey of 698 active users of Snapchat's My AI reveal that while PCR associates positively with both satisfaction and engagement, the underlying mechanisms are non-linear and context-dependent.
+
+ACM Digital Library
+Snap Inc.
+July 2026SIGIR '26: Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrievalhttps ... LLM-Enhanced Topical Trend Detection at Snapchat ... Proceedings of the 49th International ACM SIGIR
+
+ACM Digital Library
+2026/07/25
+User Adoption and Interaction with Generative AI Chatbots Embedded in Social Media Platforms | Social Computing and Social Media - Several features on this page require Premium Access
+Meta AI on Instagram, My AI on Snapchat, and Grok on X. ... Accessed 25 Jan 2026 ... Fowler, G.A.: Snapchat tried to make a safe AI. It chats with me about booze and sex. Washington Post (14 Mar 2023). ... snapchat-myai.
+
+Facebook
+2026/04/07
+Introducing Muse Spark: Meta's Most Powerful Model Yet - Skip to content
+It will power a smarter and faster Meta AI, and over time unlock new features that cite recommendations and content people share across Instagram, Facebook, and Threads. ... It currently powers the Meta AI app and website, and will be rolling out to WhatsApp, Instagram ... As you talk, Meta AI can generate images and pull up recommendations from Reels, maps, and more. ... Muse Spark ... and Threads — in places like search bars...
+
+Facebook
+2026/04/06
+MSL, 개인을 최우선으로 고려한 첫 번째 모델 ‘Muse Spark’ 공개 | Meta 소개 - Skip to content
+Muse Spark를 통해 Meta AI는 한층 더 빠르고 정교해지며, 향후에는 Instagram, Facebook, Threads 내 추천 콘텐츠와 사람들이 공유하는 게시물을 인용하는 새로운 기능도 순차적으로 선보일 예정입니다. ... 2026년 5월 13일에 업데이트 됨...
+
+Instagram
+2026/07/06
+Nouveaux effets dans les stories de Meta AI | À propos d’Instagram
+• Instagram ajoute aux stories plus de 30 nouveaux effets Muse Image, le premier ... Mise à jour (10 juillet 2026) : plus tôt dans la semaine ... Meta AI a été développée pour comprendre les vidéos et les photos Instagram, et peut interpréter la scène de votre photo (l’éclairage ... Meta lance également la possibilité de @mentionner les comptes publics d’Instagram de vos ami·es dans Meta AI et de générer des images créatives avec ces comptes...
+
+Instagram
+2026/07/06
+Meta AI의 새로운 스토리 효과 | Instagram 소개
+업데이트(2026년 7월 10일) ... Meta AI는 Instagram 동영상과 사진을 특별하게 이해할 수 있도록 개발되었습니다. 사진의 장면(조명 ... Meta는 Meta ... 생일 카드, 그룹 여행 밈, 친구들 간의 재미있는 수정본 등 친구들이 포함된 창의적인 AI 이미지를 생성하는 기능도 출시합니다.
+
+Instagram
+2026/07/06
+Nuovi effetti nelle Stories di Meta AI | Informazioni su Instagram
+Aggiornamento (10 luglio 2026): all'inizio di questa settimana abbiamo annunciato che è possibile generare immagini in Meta AI @-menzionando gli account pubblici di Instagram che si desidera citare. ... Meta AI è
+
+36Kr
+2026/07/07
+Meta AI Expands Generative AI Dominance: New Muse Image Model Fully Integrated into Instagram & WhatsApp – Unlocking Exclusive Access for Advertisers
+its new image model Muse is fully integrated into Instagram and WhatsApp, and advertisers can also use it 36氪的朋友们2026-07-08 08:51 ... the 7th of Eastern Time, Meta officially launched ... Users can not only generate images from text and edit existing images, but also create relevant visuals based on public Instagram posts from friends or creators ... Meta has simultaneously introduced an "opt-out"
+
+Yahoo
+2026/07/06
+Meta's New Muse Image Model Accepts Instagram Accounts As A Prompt
+Meta's New Muse Image Model Accepts Instagram Accounts As A Prompt After launching Muse Spark and kicking off its new family of AI models in April 2026, Meta is ready to tackle image generation. Muse ... The new model will power ... Muse Image is powering over 30 new effects for Instagram Stories...
+디지털투데이
+2026/04/09
+Meta、新AIモデル「Muse Spark」をMeta AIに展開 FacebookやInstagramなどへ拡大
+対話中心のUIに刷新し、ファイルのアップロードや画像・動画生成にも対応。今後はInstagramやFacebookなどにも広げる方針だ ... 今後はInstagram、Facebook、Messenger、WhatsApp、Meta AIグラスにも展開を拡大する計画だ。
+
+36Kr
+2026/07/07
+Meta AI launcht neues Muse Bildmodell: Vollständige Integration in Instagram & WhatsApp – Neuer Wettbewerbsvorteil für Werbetreibende - Meta AI setzt einen weiteren Akteur im Wettbewerb ein: Das neue Bildmodell Muse wird vollständig in Instagram und WhatsApp integ...
+Das neue Bildmodell Muse wird vollständig in Instagram und WhatsApp integriert und steht auch Werbetreibenden zur Verfügung 36氪的朋友们2026-07-08 08:51 ... Nutzer können nicht nur Bilder per Text erstellen und vorhandene Bilder bearbeiten, sondern auch relevante Bilder auf Basis von öffentlich veröffentlichten Instagram-Inhalten von Freunden oder Erstellern generieren...
+TweakPC
+2026/04/08
+Meta stellt neues KI-Modell Muse Spark vor und erweitert Meta AI um neue Funktionen
+Das neue Modell soll Meta AI deutlich schneller und präziser machen und künftig Funktionen ermöglichen, die Inhalte und Empfehlungen aus Instagram, Facebook und Threads direkt in Antworten einfließen lassen. ... Außerdem kann Meta AI nun Antworten generieren, die auf Beiträgen, Fotos und Reels basieren. Meta betont...
+
+Yahoo
+2026/02/10
+Snapchat Adds AI Generated Bitmoji Option in Lens+
+Snapchat Adds AI Generated Bitmoji Option in Lens+ ... Snapchat's has added a new way to create a Bitmoji character in your likeness, with Snapchat Lens+ subscribers now able to access a new Lens option that uses artificial intelligence to generate a Bitmoji character from an image. ... a photo and place it in their Snap.
+
+Snapchat
+Come faccio a personalizzare il mio Bitmoji da una foto con Lens+?
+Gli abbonati a Lens+ possono utilizzare una speciale Lente IA per personalizzare il proprio Bitmoji in base a una foto e inserirlo nel proprio Snap. ... Il risultato è un'immagine generata dall'IA all'interno del tuo Snap, non modifica l'outfit salvato nel tuo Armadio Bitmoji.
+
+TechJuice
+2026/03/17
+Snapchat To Shut Down Standalone Bitmoji App - Get Alerts
+Snapchat is retiring the standalone Bitmoji app on June 30, 2026, folding all of its features into the main Snapchat experience. ... In February, it added an AI-powered Lens that generates a Bitmoji version of the user’s actual appearance. And last October...
+
+Snapchat
+Wie style ich mein Bitmoji aus einem Foto mit Lens+?
+Lens+-Abonnent*innen können eine spezielle KI-Lens verwenden, um ihr Bitmoji basierend auf einem Foto zu stylen und es in ihrem Snap zu platzieren. ... Das Ergebnis ist ein KI-generiertes Bild in deinem Snap; das Outfit, das in deinem Bitmoji Kleiderschrank gespeichert ist, wird dadurch nicht verändert.
+
+Social Media Today
+2026/02/10
+Snapchat Adds AI Generated Bitmoji Option in Lens+ - Snapchat Adds AI Generated Bitmoji Option in Lens+
+Snapchat Adds AI Generated Bitmoji Option in Lens+ ... Snapchat’s has added ... with Snapchat Lens+ subscribers now able to access a new Lens option that uses artificial intelligence to generate a Bitmoji character from an image. ... “Lens+ subscribers can use a special AI Lens to style their Bitmoji based on a photo and place it in their Snap.
+
+Snapchat
+Como estilizo o meu Bitmoji a partir de uma fotografia com o Lentes+?
+Os subscritores do Lentes+ podem usar uma Lente de IA especial para estilizar o seu Bitmoji com base numa fotografia e colocá-lo no seu Snap. ... O resultado é uma imagem gerada pela IA dentro do seu Snap...
+
+CVF Open Access
+Snapmoji: Instant Generation of Animatable Dual-Stylized Avatars - These WACV 2026 papers are the Open Access versions, provided by the Computer Vision Foundation
+Instant Generation of Animatable Dual-Stylized Avatars} ... Despite the increasing popularity of avatar systems such as Snapchat Bitmojis ... we introduce Snapmoji, an avatar generation system that instantly creates 3D avatars, and enables customization in a process we call dual-stylization. ... avatar (e.g., Bitmoji style) using a new technique we name Gaussian Domain Adaptation (GDA)...
+
+IEEE Xplore
+2026/05/04
+Snapmoji: Instant Generation of Animatable Dual-Stylized Avatars - Snapmoji: Instant Generation of Animatable Dual-Stylized Avatars
+Snapmoji ... Despite the increasing popularity of avatar systems such as Snapchat Bitmojis, existing production avatar platforms face several limitations ... we introduce Snapmoji, an avatar generation system that instantly creates 3D avatars, and enables customization in a process we call dual-stylization.
+Claude Opus 4.6 — AI Chat Daily
+2026/05/03
+Bitmoji Reviewed: Snap's Avatar System in 2026
+A 2026 Bitmoji is recognisably the same product as a 2018 Bitmoji — slightly improved customisation, a few new categories, but the visual aesthetic is locked in. ... The 2024-2026 generation of AI emoji t

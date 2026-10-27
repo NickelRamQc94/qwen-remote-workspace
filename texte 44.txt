@@ -1,0 +1,470 @@
+Google DeepMind
+Model cards
+Gemini 3.1 Flash-Lite Image | Updated 30 June 2026 | View model card ... Gemini 3.1 Flash-Lite | Updated 3 March 2026 | View model card ... Gemini 3.1 Pro | Updated 19 February 2026 | View model card Gemini 3 Flash | Updated 17 December 2025 | View model card
+
+Google AI for Developers
+Mô hình | Gemini API | Google AI for Developers - Mô hình
+Ổn định ... Mô hình | Điểm cuối ... Gemini 3.8 Flash ... Gemini 3.8 Live ... Gemini 3.6 Flash ... Gemini 3.5 Flash-Lite ... Nano Banana 2.1 ... Gemini 3.1 ... Gemini Omni Flash | gemini-omni-1.1-flash Gemini 3.1 Pro | gemini-3.1-pro-preview
+
+Google DeepMind
+2026/09/14
+Gemini 3.8 Audio - Model Card
+Published 15 September 2026 # Gemini 3.8 Audio (Live, Live Extended Thinking, Flash TTS, Flash-Lite TTS) ... Flash-Lite TTS) ... 3.8 Live, Gemini 3.8 Live Extended Thinking, Gemini 3.8 Flash TTS, and Gemini 3.8 Flash-Lite TTS
+
+Como usar o coletor de diagnósticos | Apigee | Google Cloud Documentation
+Versioni e ciclo di vita del modello | Gemini Enterprise Agent Platform | Google Cloud Documentation
+Modelli Gemini ID modello | Data di uscita | Data di ritiro | ID modello sostitutivo ---|---|---|--- gemini-4-argon ... gemini-3.5-flash-lite ... 17 giugno 2025 | 20 ottobre 2026 gemini-3.8-flash o gemini-3.5-flash
+Augment Code vs Google Antigravity (2026)
+2026/10/13
+What Is the Best Gemini Model? 2026 Model Comparison
+Model: Gemini 3.5 Flash-Lite; Use it for: Subagents, parsing, extraction ... Gemini 3.1 Pro - Available in preview with separate pricing above 200K tokens of context, though Argon now sits above it as the flagship. ... and Gemini 3 Flash Preview is now listed as legacy...
+
+GitHub
+2026/10/22
+Gemini Models Reference
+Gemini 3.8 — Frontier Flash (GA, current default) #### gemini-3.8-flash **Status ... Gemini 3.7 — Prior Frontier Flash (GA) ... Gemini 3.6 — Older Flash (GA)
+Swiss IT Magazine
+2026/09/05
+Google lanciert Gemini 3.8 Flash und 3.8 Flash Cyber - Quelle: Google
+Nur drei Wochen nach Gemini 3.7 Flash legt Google mit Gemini 3.8 Flash nach. Das neue Modell ist auf Programmieraufgaben, KI-Agenten und komplexe Schlussfolgerungen ausgelegt und erscheint zusätzlich
+LLMs.txt Integration - Docus
+2026/03/08
+Gemini Models Overview - Generative AI on Google Cloud
+Gemini is a family of multimodal generative AI models developed by Google DeepMind, designed for state-of-the-art performance across text, code, images, audio, and video understanding. ## Model Famil
+
+Google AI for Developers
+Gemma is a family of lightweight, state-of-the-art open models from Google, built from the same research and technology used to create the Gemini models. Gemma 3 models are multimodal, handling text and image input and generating text output, with open weights for both pre-trained variants and instruction-tuned variants. Gemma 3 has a large...
+
+Google AI for Developers
+2026/04/15
+Gemma-Veröffentlichungen | Google AI for Developers
+März 2026 ... Januar 2026 ... Dezember 2025 - Release von Gemma Scope 2 ... - Release von Gemma 3 in der Größe 270M. ... - Release von Gemma 3n in den Größen E2B und E4B. ... - Release von Gemma 3 in den Größen 1B...
+Aquanode - AI Cloud Platform | Save 40% on GPU Costs
+Gemma model series: every generation compared
+Gemma 3 (March 2025). Four sizes: 1B, 4B, 12B and 27B. The 4B, 12B ... Gemma 4 (March 2026, with later additions). The first Apache 2.0 generation...
+
+Tencent
+2026/05/04
+Gemma 3：单卡运行的强大开源模型
+单卡运行的强大开源模型 ... 发布于 2026-05-05 16:30:25 ... Gemma 3 是一系列轻量级、最先进的开源模型，基于与 Gemini 2.0 模型相同的研究和技术构建。这些模型专为快速运行而设计...
+De Novo
+2026/05/03
+Gemma 3 is a generation of Google’s open AI models
+2026-05-04 De Novo Cloud Expert Gemma 3 is a generation of Google’s open AI models available in 1B, 4B, 12B and 27B sizes. The ... and tuned variants and supports work with text and images. ... 128,000 tokens.
+
+Wikipedia
+2026/06/11
+Gemma (jazykový model) – Wikipedie
+[2] druhá verze Gemma 2 v červnu 2024, Gemma 3 v březnu 2025 a svobodný a otevřený software Gemma 4 v dubnu 2026 (pod licencí Apache).[3]
+
+Featherless.ai
+Run Gemma-3-1B-it API (Easy Deployment & Flat-Rate Pricing)
+Mar 4, 2026License:gemmaArchitecture ... Fedir-Ilina/Gemma-3-1b-it is a 1 billion parameter instruction-tuned multimodal language model from Google DeepMind, part of the Gemma 3 family.
+
+Google Blog
+2026/05/18
+Bâtir l’avenir des agents : les faits saillants pour les développeurs à I/O 2026
+Nous mettons ces capacités entre vos mains grâce au lancement d’une nouvelle application de bureau Google Antigravity 2.0, des agents gérés dans l’API Gemini et du codage natif Android dans Google AI Studio. ... - Antigravity 2.0...
+
+Google Blog
+2026/05/18
+Bâtir l'avenir des agents : les annonces clés d'I/O 2026 pour les développeurs
+Nous mettons ces capacités à votre disposition grâce au lancement d'une nouvelle application de bureau Google Antigravity 2.0, des agents gérés (Managed ... L'écosystème Google Antigravity Google ... les agents ... une idée en une application prête pour la production. ... - Antigravity 2.0...
+
+Google Blog
+2026/05/18
+Building the agentic future: Developer highlights from I/O 2026
+We’re putting these capabilities in your hands with the launch of a new Google Antigravity 2.0 desktop application, Managed Agents in the Gemini API and native Android vibe coding in Google AI Studio. ... - Antigravity 2.0...
+Google Antigravity
+2026/10/25
+How Gemini 4 Argon Upleveled Agents on Antigravity: Trillion-Edge Graphs and Custom TPU Kernels | Google Antigravity Blog
+近期，我们在 Google Antigravity 中引入了 Gemini 4 Argon，展示了 Argon 凭借 100 万 token 上下文窗口、可调深度推理以及原生子 Agent 编排能力，如何全面提升我们的结构化多 Agent 框架 Teamwork，从而优化数据中心内存并将遗留 C++ 库重写为安全的 Rust 代码。
+
+The Times of India
+2026/10/24
+Google DeepMind builds 3D periodic table with Gemini 4 Argon: What is so different about it - The Times of India
+Built by DeepMind’s Antigravity development platform, the project moves well past the familiar flat grid of atomic symbols found in standard chemistry textbooks. ... Gemini 4 Argon rolled out publicly on October 13, 2026, with Google DeepMind targeting the system at sophisticated operational workflows...
+
+至顶网
+2026/10/25
+Gemini 4 Argon 发布：谷歌瞄准长周期智能体任务
+公司还表示，在 Antigravity 中使用 Argon 的团队，其智能体代码提交量提升了 35% 以上，代码回滚减少了近三分之一，但未说明这两项数据的具体统计方式。 上述博文指出，Argon 可通过 AI Studio 中的 Gemini API 以及谷歌 Gemini 平台使用...
+
+百度百科
+2026/10/13
+Google Antigravity
+[2]2026年8月14日，Google Antigravity开始支持新发布的Gemini 3.7 Flash模型，开发者可通过该工具使用该模型进行AI辅助开发。 [14]2026年8月末 ... 2026年9月15日，谷歌正式向全公司工程师开放Claude Opus 5在Antigravity中的使用权限。
+
+The Next Web
+2026/09/27
+Gemini 4 is in post-training and could ship before the end of 2026
+Koray Kavukcuoglu, who runs Google DeepMind, says Gemini 4 is in post-training and being tested in Antigravity. ... The model is now in post-training, the stage where engineers refine its behaviour and test its safety. Google is also trying it out inside its Antigravity coding tool.
+
+9to5Google
+2026/10/15
+Gemini 4 Argon is now rolling out to Google's Antigravity for AI Pro subscribers
+Google is now rolling out support for Gemini 4 Argon to Antigravity, its AI coding tool. Gemini 4 Argon is Google’s latest flagship AI model, announced at the end of September and having widely rolled out to users earlier this week. ... Antigravity is an agentic development platform, as Google describes it, which leverages AI and agents to assist in coding and building apps. Google announced that Argon
+Claude Fable 5 vs LFM2.5-ColBERT-350M: Benchmarks, Pricing, Speed (July 2026)
+2026/10/18
+Gemini Models & API IDs: Current Google Model List
+Gemini 4 Argon ... As of October 19, 2026, this directory contains 11 active, preview, announced, or limited-access entries. ... EmbeddingGemma 2 ... - - Model ... - Available - Official identifier ... - Access and source ... - Gemini 3.8 Flash Cyber ... - Gemma 4 12B
+yandex/AliceAI-Foundation-80B-A3B-Base
+google
+· 24 on this page ## Models by google ### google/canine-s Feature-Extraction0.1BUpdated 920.88K32Not mirrored yet ### google/tipsv2-so400m14 ... google/timesfm-2.5-200m-transformers ... google/tapas-base
+
+Google AI for Developers
+documents releases for the Gemma family of models. ... - Release of [EmbeddingGemma 2](https ... 2) in 740M parameter size. ... - Release of [TranslateGemma](https://www.kaggle.com/models/google/translategemma) in 4B, 12B, and 27B parameter size. ... - Release of [Gemma 2 JPN](https://www ... -2-2b-jpn-it) in 2B size.
+LIBERO Leaderboard — AI Model Scores | GenAIList
+Google AI Models — Benchmarks & Pricing | GenAIList
+Gemini 2.5 Computer Use Oct 2025 Language Proprietary ### Gemini 2.5 Flash Image (Nano Banana) ... Gemini 2.5 Deep Think ... AlphaEarth Foundations (AEF) ... MedSigLIP ... Vision Open (Restricted) ### SignGemma ... Chirp 3 HD Text-to-Speech
+Datenschutzerklärung
+2026/10/13
+AI Analytics — AI Museum
+Models from Google DeepMind ... Gemini 3.8 Flash | Google DeepMind | 2026-09 | — | Closed Gemini 4 Argon | Google DeepMind | 2026-09 | — | Not recorded WeatherNext 3 | Google DeepMind | 2026-09 | — | Closed
+manz.dev
+Google→ Modelos locales de IA | AI.MANZ.DEV
+Aquí puedes encontrar un listado de modelos de IA locales de Google, ordenados por parámetros, estimar su cuantización, etc... ... diffusiongemma ... translategemma ... medasr ... t5gemma-2 ... codegemma-1.1 ... madlad400 ... pix2struct
+Dejan AI
+2026/09/11
+Google's Models
+Google's Models rich html ... alphafold3-request | Protein structure prediction alphagenome-request | Genomic sequence analysis antigravity-preview-05-2026 | Agentic coding IDE model aqa | Answers questions from documents automl-e2e | Custom model training pipeline ... chirp-2 | Speech-to-text ... cloudnerf-pytorch-zipnerf | 3D scene reconstruction codegemma | Code generation
+modelavailability.com
+2026/10/16
+Google Models — 49+ Models Across 2 Cloud Platforms
+gemini-4-argon gemini-nano-banana-2.1 gemini-4-argon-cyber-permissive gemini-3.8-flash-tts gemini-3.8-flash-lite-tts gemini-3.8-live
+
+Threads
+2025/04/14
+Matthew Berman (@themattberman) 通过 Threads
+5/ Then there’s Riverhollow. ... 6/ Here’s the unofficial Google model tier list: Dragontail > Gemini 2.5 Pro ≥ Shadebrook > Riverhollow ... 7/ Night Whisperer (aka Nightwhisper) = Google’s elite coder bot. ... 8/ Moonhowler = speed freak.
+Florence 2 large — weight access | ModelCap
+New and trending model discoveries — page 5 — ModelCap
+Google: Gemini 3.7 Flash ... Trend pending Source attention velocity only. It is not a quality, safety or capability result. ### Provenance ... Gemini 3.8 Flash ... Gemini 4 Argon ... Nano Banana 2.1 ... Gemma 2 27B Official publisher release ... Gemma 3 12B ... Gemma 3 4B
+
+Google DeepMind
+2026/04/21
+Image Generators are Generalist Vision Learners
+Image Generators are Generalist Vision Learners ... we demonstrate that image generation training serves a similar role to LLM pretraining, and lets models learn powerful and general visual representations that enable state-of-the-art performance on various vision tasks. We present Vision Banana ... vision task data.
+
+Google DeepMind
+2026/07/14
+Evaluating frontier models for stealth and situational awareness
+Evaluating frontier models for stealth and situational awareness ... In this paper, we present a suite of "scheming reasoning" evaluations measuring reasoning capabilities that we believe are prerequisites for scheming: 1) situational awareness ... and 2) stealth ... IASEAI 2026
+
+Google DeepMind
+2026/07/01
+Towards Structural Understanding of LLM Overthinking
+In this work, we systematically analyze the thought process in third-party LLMs, namely Qwen3 series and Deepseek-R1 distilled models. ... Our analysis reveals two prevalent progression patterns for open-source thinking models: the Explorer and the Late Landing.
+
+Google DeepMind
+2026/05/27
+Realistic honeypot evaluations for scheming propensity
+Realistic honeypot evaluations for scheming propensity ## Abstract We introduce scheming honeypot evaluations, a framework for testing whether models will pursue instrumental goals if given the opportunity. ... Validating the realism of our setting, models show low rates of evaluation awareness, usually due to agency prompts rather than the environments.
+
+Google DeepMind
+2026/01/21
+D4RT: Unified, Fast 4D Scene Reconstruction & Tracking
+January 22, 2026 Research # D4RT ... Introducing D4RT, a unified AI model for 4D scene reconstruction and tracking across space and time. ... we are introducing D4RT (Dynamic 4D Reconstruction and Tracking), a new AI model that unifies dynamic scene reconstruction into a single...
+
+Google DeepMind
+2026/04/22
+Dynamic Reflections: Probing Video Representations with Text Alignment
+Dynamic Reflections: Probing Video ... In this work, we conduct the first comprehensive study of video-text representation alignment, probing the capabilities of modern video and language encoders. ... Finally, we correlate temporal reasoning with cross-modal alignment providing a challenging test-bed for vision and language models. Overall ... ICLR 2026
+
+Google DeepMind
+2026/01/08
+TRecViT: A Recurrent Video Transformer
+TRecViT: A Recurrent Video Transformer ## Abstract We propose a novel block for causal video modelling. ... The resulting architecture TRecViT is causal and shows strong performance on sparse and dense tasks ... being the first causal video model in the state-space models family.
+
+Google DeepMind
+2026/04/22
+Decoupled DiLoCo: Resilient, Distributed AI Training at Scale
+April 23, 2026 Research # Decoupled DiLoCo ... Our new distributed architecture helps to train LLMs across distant data centers - with lower bandwidth and more hardware resiliency. ... Today, in a new paper we are excited to share a new approach to this problem, called Decoupled DiLoCo (Distributed Low-Communication).
+
+Google DeepMind
+2026/03/21
+Strategic Tradeoffs Between Humans and AI in Multi-Agent Bargaining
+Strategic Tradeoffs Between Humans and AI in Multi-Agent Bargaining ... (LLMs) as autonomous decision-making agents. As this transition occurs ... we present results from an empirical study comparing humans (N=216), multiple frontier LLMs, and customized Bayesian agents in dynamic multi-player bargaining games under identical conditions. ... ACM IUI 2026
+
+Google DeepMind
+2026/10/12
+Gemini 4 Argon - Model Card
+Published 13 October 2026 # Gemini 4 Argon Model Cards are intended to provide essential information on Gemini models, including known limitations, mitigation approaches, and safety performance. ... Published: October 2026 ... Gemini 4 is the next generation in the Gemini series, a suite of highly-capable, natively multimodal, reasoning models. ... Gemini 4 Argon results as of October, 2026 are below ... is March 2026...
+
+Hugging Face
+2026/05/13
+2026-05-14/models.jsonl · tensorfeed/ai-ecosystem-daily at main - {"provider":"Google","id":"gemini-gemma-2-9b-it","name":"gemini-gemma-2-9b-it","inputPrice":0.35,"outputPrice":1.05,"contextWind...
+"Google","id":"gemini-gemma-2-9b-it" ... "2026-03","capabilities":["text"]} ... 131072 ... "learnlm-1.5-pro-experimental" ... "gemini-2.0-flash-exp-image-generation" ... "gemini-2.5-flash-native-audio-latest"...
+
+Hugging Face
+2026/05/18
+featherless_ai_models.jsonl · moncefem/featherless-ai-models at main - {"id": "sig_96b9976c9204", "model_name": "gemma-4-E2B", "organisation_name": "google", "parameter_count_raw": "2B", "context_len...
+"gemma-4-E2B", "organisation_name": "google", "parameter_count_raw": "2B" ... "32K" ... "2026-03-01", "n_parameters_billions": 2.0 ... "gemma-4-26B-A4B"...
+
+Hugging Face
+{"cid": "synthetic-c3-000499", "text": "[source] Gemini API models | id gemini-api-models | type json-models-recursive | host ge...
+"[source] Gemini API models ... gemma-4-26b-a4b (leak 2026-07-31) ... leak 2026-07-21) ... "[source] Google AI Studio bundle models | ... 2 new model leaks\n[known similar] gemma-4-26b-a4b (leak 2026-07-31)...
+
+Google AI for Developers
+[Hugging Face](https://huggingface.co/collections/google/gemma-4) \| [GitHub](https://github.com/google-gemma) \ ... Gemma is a family of open models built by Google DeepMind. Gemma 4 models are
+
+GitHub
+2024/12/05
+GitHub - spullara/models · GitHub
+These are the model lists from OpenAI, Anthropic, Gemini, Grok, Mistral, DeepSeek, Kimi, Qwen, and Meta. ... **Grok** ... * gpt-6.1-sol (added: 2026-09-29) * gpt-6-sol (added...
+
+GitHub
+2026/10/07
+GitHub - openmodelsrun/openmodels: Developer infrastructure for discovering and comparing LLM models and providers · GitHub
+Vendor: Google; Models: Gemini 4 Argon, Gemini 3.8 Flash, Gemini 3.7 Flash, Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, Gemini 3.5 Flash Cyber, Gemini 3.5 Pro, DiffusionGemma, Gemma 4 12B, Gemini 3 Flash, Gemini 3.5 Flash, Gemini 3.1 Flash-Lite, Gemma 4 (E2B/E4B/26B/31B), Gemini 3.1 Pro, Gemini 2.5 Pro, Gemini 2.5 Flash, Gemma 3 (1B/4B/12B/27B) ... · Google AI Studio · Google (Vertex AI) · Groq · Hugging Face Inference · Hyperbolic
+GitHub
+AI Model Providers and Free Tiers — Complete Guide (2026) > A comprehensive directory of every major AI model provider, their mo...
+[Google Gemini](#google-gemini) ... [Hugging Face Inference API](#hugging-face-inference-api) - [GitHub ... //platform.openai.com | Tier | What You Get | Limits | ... $0.60/1M output | Pay-as-you-go | **Free Tier Verdict:** ❌ No free API tier. ... ** Google DeepMind / Google Cloud **Models:** Gemini 2.5 Pro (flagship), Gemini 2.5 Flash (fast), Gemini 2.0 Flash, Gemini 1.5 Pro/Flash **Website...
+
+Vietnam+ (VietnamPlus)
+2026/10/13
+Google cung cấp các mô hình AI tiên tiến cho 200 nhà nghiên cứu châu Âu
+Các công cụ được cung cấp bao gồm AlphaFold 3 phục vụ nghiên cứu protein, WeatherNext hỗ trợ dự báo thời tiết, cùng các hệ thống AlphaGenome, AlphaEvolve và AlphaEarth Foundations. ... (RAISE) sẽ được tiếp cận các công cụ nghiên cứu của Google DeepMind và Google Cloud.
+
+Google Blog
+2026/10/13
+We’re powering European scientific discovery with advanced AI compute and frontier models.
+Oct 14, 2026 ... together with $3 million in compute credits. Through this pledge, researchers will gain direct access to our leading scientific tools including AlphaFold 3, WeatherNext, AlphaGenome, AlphaEvolve, and AlphaEarth Foundations.
+
+The Next Web
+2026/10/13
+Google DeepMind opens its science AI models to 200 European researchers
+The models include AlphaFold 3, which predicts the structure of proteins and other molecules, and WeatherNext, which forecasts the weather. Researchers will also get AlphaGenome, which studies DNA, AlphaEvolve, an AI agent that designs algorithms, and AlphaEarth Foundations, which maps the planet from satellite data.
+
+Báo Tin tức và Dân tộc - TTXVN
+2026/10/13
+Google cung cấp mô hình AI tiên tiến cho 200 nhà nghiên cứu châu Âu
+cụ nghiên cứu của Google DeepMind và Google Cloud. Các công cụ được cung cấp bao gồm AlphaFold 3 phục vụ nghiên cứu protein, WeatherNext hỗ trợ dự báo thời tiết, cùng các hệ thống AlphaGenome, AlphaEvolve và AlphaEarth Foundations.
+FintechOS привлекает $28 млн в виде долевого и долгового финансирования после выхода на окупаемость — TheNextWeb.ru
+2026/10/13
+Google DeepMind открывает доступ к своим научным моделям ИИ для 200 европейских исследователей — TheNextWeb.ru
+В число моделей входят AlphaFold 3, которая предсказывает структуру белков и других молекул, и WeatherNext, которая прогнозирует погоду. Исследователи также получат доступ к AlphaGenome, изучающей ДНК, AlphaEvolve — ИИ-агенту...
+
+The News International
+2026/10/13
+Google DeepMind, Google Cloud grant European researchers access to frontier AI models and $3M in compute - Google DeepMind, Google Cloud grant European researchers access to frontier AI models and $3M in compute
+like AlphaFold 3 and WeatherNext. Participants will also gain access to specialized models including AlphaGenome, AlphaEvolve, and AlphaEarth Foundations. ... The move will give researchers direct access to the companies' scientific tools including AlphaFold 3, WeatherNext, AlphaGenome, AlphaEvolve...
+
+Joe Biden appelle à la responsabilité d'Assad et soutient la transition en Syrie
+2026/10/13
+Google ouvre son IA à 200 chercheurs européens
+Google donne accès à AlphaFold 3, AlphaGenome et WeatherNext à 200 chercheurs européens choisis par la Commission. ## Google annonce un accès à ses IA les plus avancées, dont AlphaFold 3, AlphaGenome et WeatherNext, pour 200 chercheurs européens.
+
+Tech.eu
+2026/10/13
+Google to provide 200 European scientists access to its frontier models
+The tech giant says the move will mean that researchers will gain direct access to its leading scientific tools ... The tech giant says the move will mean that researchers will gain direct access to its leading scientific tools, including AlphaFold 3, WeatherNext, AlphaGenome, AlphaEvolve, and AlphaEarth Foundations.
+
+TecnoAndroid
+2026/10/15
+Google DeepMind porta AlphaFold 3 a 200 ricercatori europei - Menu
+## In questo articolo Indice dei contenuti 2 sezioni Google DeepMind e Google Cloud hanno avviato un’iniziativa che punta a sostenere la ricerca scientifica in Europa attraverso l’accesso diretto ai
+Science.lu
+2026/10/13
+Google stellt seine KI-Modelle ausgewählten europäischen Forschern zur Verfügung
+Skip to main content Google will seine fortschrittlichsten KI-Modelle 200 ausgewählten europäischen Forschern zur Verfügung stellen. "Durch die direkte Bereitstellung wichtiger Rechenkapazitäten und
+
+Google Blog
+2026/05/19
+エージェントが主導する未来の構築：Google I/O 2026 デベロッパー向けハイライト - エージェントが主導する未来の構築：Google I/O 2026 デベロッパー向けハイライト
+Google は、Antigravity 2.0 デスクトッププラットフォーム、Gemini API の新しい Managed Agents、そして AI Studio におけるネイティブの Android バイブコーディングの開始により、これらの機能を開発者の皆様の手にお届けします。
+
+Gartner
+2026/05/19
+First Take: Google Antigravity 2.0 Advances Its Agentic Coding but Fails to Meet Enterprise Standards
+Google Antigravity 2.0 Advances Its Agentic Coding but Fails to Meet Enterprise Standards Published: 20 May 2026 ### Summary Software engineering leaders should pilot Google’s Antigravity 2.0 for learning and experimentation, but be cautious before standardizing implementations.
+
+Google Cloud
+2026/06/18
+Agent Factory Recap: 100X engineering with AI agents in Google Antigravity 2.0 | Google Cloud Blog - Developers & Practitioners
+Antigravity 2.0 has evolved from a simple agentic IDE into a full-scale agent-first platform. It now consists of four core pillars: a standalone desktop Agent Manager for orchestration, a robust CLI for server-side work, an SDK for custom Python-based workflows, and a specialized IDE.
+
+Digit
+2026/05/19
+Google I/O 2026: Google claims Antigravity 2.0 created an operating system in 12 hours, brings vibe coding to Android - As expected, Google has used I/O 2026 to double down on AI-powered announcements
+The company announced a major upgrade to its agentic coding platform called Antigravity 2.0. Along with this ... The company also confirmed that Antigravity 2.0 is now available as a standalone desktop application and will support command-line access for developers seeking deeper workflow integration.
+디지털투데이
+2026/05/19
+Google releases Antigravity 2.0, boosts desktop app, CLI and SDK
+Published 2026-05-20 05:42:20 ... AI Summary Google unveiled Antigravity 2.0, an agent coding app, alongside an updated desktop app, a command line tool and an SDK for custom workflows. The new ... and integrates with Google AI Studio, Android and Firebase.
+
+RRI.co.id
+2026/05/21
+Google AI Studio dan Antigravity di I/O 2026: Bikin Aplikasi Semudah Ide - RRI.co.id - Google AI Studio dan Antigravity di I/O 2026: Bikin Aplikasi Semudah Ide
+Lewat Google AI Studio dan Antigravity 2.0, Google memperkenalkan pendekatan ... pembuatan aplikasi semakin berbasis instruksi bahasa natural dan bantuan AI. ... Sementara itu, Antigravity 2.0 diperkenalkan sebagai platform pengembangan berbasis AI agent yang menghubungkan berbagai alat seperti desktop app, CLI, dan SDK. Dilansir dari TechCrunch...
+
+The Times of India
+2026/05/19
+Google Antigravity 2.0 goes after Claude Code and OpenAI Codex with a full agent-first rebuild
+Google Antigravity ... announced at I/O 2026, is a standalone desktop app built around agents rather than a ... Antigravity 2.0 is out today on macOS, Linux, and Windows, running on a new model called Gemini 3.5 Flash.
+
+EE Times
+2026/05/25
+Google Thinks the IDE Is Dead - EE Times
+The company introduced Antigravity 2.0 as an “agent-first” development platform. Instead of being built around coding, it is built around orchestration, sub-agents ... Google described Antigravity 2.0 as supporting sub-agents, hooks, remote execution environments, scheduled tasks, and persistent background operations.
+디지털투데이
+2026/10/23
+English < Article List - DigitalToday
+AI & Enterprise ### Google releases Antigravity 2.0, boosts desktop app, CLI and SDK Google unveiled Antigravity 2.0, an agent coding app, alongside an updated desktop app, a command line tool and a
+
+Hugging Face
+2026/07/20
+AlphaGenome - a google Collection
+Gemma 4 DiffusionGemma Gemma 4 QAT Mobile Gemma 4 QAT Q4_0 TIPSv2 TranslateGemma AlphaGenome Gemma Scope 2 T5Gemma 2 ... Gemma 3n ... SigLIP2 ... Google's Gemma models family ... Collection of AlphaGenome models.
+
+Hugging Face
+2026/09/28
+Gemma 4 - a google Collection
+EmbeddingGemma 2 Gemma 4 DiffusionGemma Gemma 4 QAT Mobile Gemma 4 QAT Q4_0 TIPSv2 TranslateGemma AlphaGenome Gemma Scope 2 T5Gemma 2 ... Google's Gemma models family Gemma 4 updated 27 days ago Our most intelligent open models to date
+
+Google AI for Developers
+query=gemma-4&publisher=google) and [Hugging Face](https://huggingface.co/collections/google/gemma-4). ... [Get it on Hugging Face](https://huggingface.co/collections/google/gemma-4)
+
+Google AI for Developers
+[Get it on Hugging Face](https://huggingface.co/collections/google/gemma-4) ... ** You can download official Google Gemma model variants and community-created variants from [Kaggle Models](https://www.kaggle.com/models?query=gemma) and [Hugging Face](https...
+
+Paper page - Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation
+Models by Google – Hugging Face
+Edit Models filters Showing models from Google ... Any-to-Any ... 6B ... 1,136 ... Feature Extraction • 0.7B • Updated ... 2.73k google/timesfm-3.0-pytorch Time Series Forecasting ... Zero-Shot Image Classification
+
+Oracle Help Center
+2026/10/08
+Compatible Google Models - Skip to main content
+Compatible Google Models ... MedGemma Google MedGemma 27B Text IT is a 27-billion-parameter language model based on the Gemma 3 architecture. ... google/gemma-3-4b-it ... google/gemma-3-270m-it | TEXT_TO_TEXT | A100_80G_X1 ... google/gemma-3-1b-it | TEXT_TO_TEXT | A100_80G_X1 google/gemma-2-9b-it | TEXT_TO_TEXT | A100_80G_X1
+
+Oracle Help Center
+2026/08/11
+Compatible Google Models - Was this article helpful
+You can import large language models from Hugging Face and OCI Object Storage buckets into OCI Generative AI, create endpoints for those models, and use them in the Generative AI service. ## MedGemma
+
+Google AI for Developers
+मॉडल | Gemini API | Google AI for Developers - मॉडल
+Gemini 3.8 Live यह ज़्यादातर कम इंतज़ार के समय वाले वॉइस एजेंट के लिए डिफ़ॉल्ट Live API मॉडल है. ... Gemini 3.8 Live | gemini-3.8-live
+
+Google AI for Developers
+Modelet | Gemini API | Google AI for Developers - Modelet
+Binjakët 3.8 Flash Modeli ynë më inteligjent Flash, i projektuar për inxhinieri softuerësh afatgjatë, agjentë autonomë dhe rrjedha pune komplekse të ndërmarrjeve. Stalla e Re ### Binjakët 3.8 Live Modeli parazgjedhur i API-t
+
+Google AI for Developers
+Mô hình | Gemini API | Google AI for Developers - Mô hình
+Gemini 3.8 Live Mô hình Live API mặc định cho hầu hết các trải nghiệm với trợ lý giọng nói có độ trễ thấp mà không có độ trễ suy luận. ... Mô hình | Điểm cuối ... Gemini 3.8 Live | gemini-3.8-live ... Mô hình | Mô tả | Điểm cuối
+
+Como usar o coletor de diagnósticos | Apigee | Google Cloud Documentation
+Gemini 3.8 Flash | Gemini Enterprise Agent Platform | Google Cloud Documentation
+ID du modèle | gemini-3.8-flash ... Limites de jetons | Fenêtre de contexte | 1 048 576 Nombre maximal de jetons de sortie | 65 536
+nananobanana.com
+2026/09/17
+Google Gemini 3.8 Live & Flash: AIとの会話と高度なタスク処理を革新
+Googleは、AIとのインタラクションをより自然でインテリジェントにするための最新モデル「Gemini 3.8 Live」とその拡張版「3.8 Live Extended Thinking」、そして高度なコーディングとサイバーセキュリティに特化した「Gemini 3.8 Flash」とそのセキュリティ強化版「3.8 Flash Cyber」を発表しました。
+
+DocsBot AI
+Gemini 3.8 Flash vs Gemini 3.8 Live - Detailed Performance & Feature Comparison - Compare
+Gemini 3.8 Flash vs Gemini 3.8 Live ... Gemini 3.8 Flash is Google's most intelligent Flash model, engineered for long-horizon software engineering, autonomous agents, and complex enterprise workflows. ... Gemini 3.8 Live is Google's stable low-latency audio-to-audio model for real-time voice agents and dialogue. It supports text...
+genaiwiki.com
+Call Gemini 3.8 Flash in the Gemini API | GenAIWiki
+The stable model code isgemini-3.8-flash. This is not a Live API voice model. Flash takes text... ... For spoken sessions use Start a Gemini 3.8 Live Voice Session. ... Job: Spoken full-duplex session; Model / product: gemini-3.8-live ... Live API is not supported on this SKU.
+
+DocsBot AI
+Gemini 3.8 Live vs Gemini 3.8 Flash - Detailed Performance & Feature Comparison - Compare
+Gemini 3.8 Live vs Gemini 3.8 Flash ... Gemini 3.8 Live is Google's stable low-latency audio-to-audio model for real-time voice agents and dialogue. It supports text ... Gemini 3.8 Flash is Google's most intelligent Flash model, engineered for long-horizon software engineering, autonomous agents, and complex enterprise workflows.
+PoliBench
+2026/06/18
+Gemini 3.8 Flash Model Card | PoliBench
+Gemini 3.8 Flash google. Latest completed live full-suite run. ... Claim: Gemini 3.8 Flash is shown from a completed live full-suite run.; Evidence: Run detail ... Claim: Live model-output profiles are not frozen paper-release evidence. ... Axis: economy; Score: -10; 95% interval: —; Items: 30; Coverage: Not reported; Warning: None ... Axis: liberty; Score: -21.67; 95% interval: —; Items: 30; Coverage: Not reported; Warning: None
+
+Dart packages
+2026/10/03
+LiveModels class abstract final
+gemini38FlashLiteTts → const String - Gemini 3.8 Flash Lite TTS model for high-efficiency text-to-speech generation. - gemini38FlashTts → const String - Gemini 3.8 Flash TTS model for text-to-speech generation.
+
+Google DeepMind
+2026/10/05
+Nano Banana 2.1 - Model Card
+Published 6 October 2026 ... Nano Banana 2.1 is a member of the Gemini 3 series of models, a suite of highly-capable, natively multimodal reasoning models. ... Nano Banana 2.1 is based on Gemini 3.6 Flash.
+
+Qatar news agency
+2026/10/06
+جوجل تطلق نموذج توليد الصور Nano Banana 2.1 بتحسينات ملحوظة في التصميم البصري
+07 أكتوبر 2026 9 ... واشنطن في 07 أكتوبر /قنا/ أعلنت شركة " جوجل" إطلاق Nano Banana 2.1، وهو الإصدار المطور من نموذجها لتوليد الصور وتحريرها بالذكاء الاصطناعي، ... وتعديل أجزاء محددة من الصور، والحفاظ
+
+Google Workspace Updates blog
+2026/02/25
+Google Workspace Updates: Introducing Nano Banana 2 in the Gemini app
+Starting today, we’re rolling out Nano Banana 2 (Gemini 3.1 Flash Image), our best image model yet, to Workspace customers in the Gemini app. Nano Banana 2, which replaces our previous Nano Banana model, brings the high-speed intelligence of Gemini Flash to visual generation...
+디지털투데이
+2026/10/06
+Google releases Nano Banana 2.1 with 4K support and half price - Google releases Nano Banana 2.1 with 4K support and half price
+Google releases Nano Banana 2.1 with 4K support and half price ## AI Summary Google unveiled its image generation and editing AI model, Nano Banana 2.1. ... Google said Nano Banana 2.1 improves visual design quality, mask-based editing and subject consistency, supports up to 4K output, and can handle up to 14 reference images. ... - published 2026-10-07 10...
+
+Digit
+2026/10/06
+Google unveils Gemini Nano Banana 2.1 and EmbeddingGemma 2 AI models: Check key updates - Google unveils Gemini Nano Banana 2.1 and EmbeddingGemma 2 AI models: Check key updates
+Google describes Gemini Nano Banana 2.1 as a "high-efficiency ... Gemini Nano Banana 2.1 is an updated version of Nano Banana 2, also known as Gemini 3.1 Flash Image. ... The model is designed to create more realistic images and follow user prompts more accurately.
+
+TechRepublic
+2026/10/06
+Google Cuts Nano Banana 2.1 Image Costs in Half
+Google’s Nano Banana 2.1 cuts image-generation costs, improves editing consistency and gives developers only weeks to migrate from Nano Banana 2. ... The company released Nano Banana 2.1 on Tuesday, an image generation and editing model built on Gemini 3.6 Flash.
+
+Indiatimes
+2026/10/06
+Google unveils ‘cost-efficient’ Gemini Nano Banana 2.1 model with feature upgrades - - Industry
+Google unveils ‘cost-efficient’ Gemini Nano Banana 2.1 model with feature upgrades The new image generation model supports up to 4K output, 14 reference images ... - Published On Oct 7, 2026 at 02:49 PM IST
+
+Dyson CameraJet - King of Computer Media
+2026/10/06
+Google launches Nano Banana 2.1! It comprehensively outperforms Nano Banana Pro in official tests, with major upgrades to infographics and multi-character consistency, and API image generation pricing cut in half. - King of Computer Media
+— Google (@Google) October 6, 2026 According to the model card released by DeepMind, Nano Banana 2.1 belongs to the Gemini 3 series, and its underlying model is Gemini 3.6 Flash.
+
+Krea
+2026/10/15
+Nano Banana 2 - Krea
+Google’s most capable image model — Nano Banana 2 combines fast generation with 4K resolution, real-time web search, and up to 14 reference images. ... Nano Banana 2 is Google DeepMind’s most recent and most capable image generation model, released on February 26, 2026. Built on Gemini 3.1 Flash Image...
+
+Google AI for Developers
+LearnLM | Gemini API | Google AI for Developers
+LearnLM LearnLM は AI Studio の個別のリストではなくなりました。代わりに、LearnLM の機能は 2.5 モデルシリーズ以降の Gemini に統合されています ... 最終更新日 2026-04-29 UTC。
+
+services.google.com
+学校のための プロンプト ライブラリ
+学習科学に基づいて設計された教育特化モデル LearnLM ... LearnLM は、教育と学習の体験をよりアク ティブで、個別最適で、エンゲージメント の高いものにするために、教育研究に基づ いて学習用にファインチューニングされた 新しいモデル ファミリーです。
+
+Google Cloud
+LearnLM - Improving Gemini for learning
+LearnLM proved to be reliable, with only 0.1% of all messages containing factual errors. Students who received short tutoring sessions from LearnLM were 5.5 percentage points more likely to solve novel problems on subsequent topics than students who worked with human tutors alone.
+
+Educators Technology
+2026/02/09
+Google Gemini for Education: What Teachers Need to Know - Educators Technology
+powered by a learning-science model called LearnLM ... What gives Gemini for Education its educational edge is LearnLM ... for learning and grounded in educational research. At Google I/O 2025, Google announced that LearnLM had been infused directly into Gemini 2.5 Pro. LearnLM is designed around five learning science principles...
+
+Google Cloud
+LearnLM - 改进 Gemini 的学习功能
+我们与 Eedi 合作，将 LearnLM（我们专为学习而构建的模型，现已融入 Gemini 功能）集成到聊天式数学辅导中，并由经验丰富的教师进行监督，对 LearnLM 进行了测试 ... 2026 年 5 月技术报告
+
+Google Cloud
+LearnLM - 改良 Gemini，創造優質學習體驗
+我們與 Eedi 合作，測試專為學習打造的 LearnLM 模型 (現已整合至 Gemini 功能)，並導入至聊天式數學輔導服務，由經驗豐富的教師監督。LearnLM 的可靠性極高 ... 2026 年 5 月技術報告
+
+services.google.com
+<table><tr><td>Learning principle</td><td>How it&#x27;s incorporated into LearnLM capabilities in Gemini</td></tr><tr><td>Inspir...
+Gemini with LearnLM can adjust tone, vocabulary ... LearnLM research reports from Google ## LearnLM: Improving Gemini for learning We're improving Gemini models for learning by enabling the addition of our pedagogical data to post- training mixtures alongside their rapidly expanding set of capabilities. This lets Gemini engage users in service of learning...
+
+GitHub
+2026/07/27
+aied/content/en/articles/learnlm-improving-gemini-learning.md at main · edtechdev/aied - Skip to content
+title | LearnLM: Improving Gemini for Learning ... created | 2026-08-21T08:00 ... The resulting LearnLM model (based on Gemini 1.5 Pro, available on Google AI Studio) was substantially preferred by education experts across diverse learning scenarios ... LearnLM Team, Google. (2025).
+
+こどもとIT
+2026/06/04
+「使わないリスク」が高まる教育AI、Googleと大学DXが示すGemini活用のリアル - レポート
+また、Googleによる特別講演では、Geminiのベースにある教育特化型モデル「LearnLM」の設計思想について語られたほか ... 京都大学・東北大学の担当者が現場のリアルを語った ... この哲学に基づき、学習科学を基盤として開発されたのが教育特化型AIモデル「LearnLM」だ。アクティブラーニングの促進や認知負荷の低減...
+
+国家科技图书文献中心
+NSTL国家科技图书文献中心 - 外文文献 中文文献
+1. Leveraging LLMs to Assess Tutor Moves in Real-Life Dialogues ... 摘要： LearnLM, we assess tutors' application of two tutor | ... We are pleased the Google LearnLM team | published its evaluation approach and welcomed dialogue | ... | responsible AI approaches that ea

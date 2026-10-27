@@ -1,0 +1,267 @@
+Hugging Face
+deepseek-ai (DeepSeek)
+DeepSpec DeepSeek-OCR DeepSeek-V3.1 DeepSeek-V3 DeepSeek-VL2 DeepSeek-Prover DeepSeek-Prover-Series DeepSeekCoder-V2 ... DeepSeek-LLM DeepSeek LLM series DeepSeek-MoE ... DeepSeek-Math
+
+Hugging Face
+deepseek-admin (DeepSeek) – Likes
+6 models almost 3 years ago deepseek-ai/deepseek-coder-1.3b-base ... 116 deepseek-ai/deepseek-coder-6.7b-base ... deepseek-ai/deepseek-coder-1.3b-instruct
+
+Hugging Face
+2025/01/21
+deepseek-ai/DeepSeek-R1 · Hugging Face - DeepSeek-R1
+Model: DeepSeek-R1-Zero; #Total Params: 671B; #Activated Params: 37B; Context Length: 128K; Download: 🤗 HuggingFace ... Model: DeepSeek-R1; #Total Params: 671B; #Activated Params: 37B; Context Length: 128K; Download: 🤗 HuggingFace
+
+Hugging Face
+2026/04/25
+deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face - DeepSeek-V4-Pro-0813
+DeepSeek-V4-Pro-0813 ... DeepSeek-V4-Pro-0813 is the official release of DeepSeek-V4-Pro, superseding the preview version ... DeepSeek-V4-Flash-0731 ... DeepSeek-V4-Pro (Preview) | DeepSeek-V4-Flash ... Model tree for deepseek-ai/DeepSeek-V4-Pro-0813 ... 12 models
+
+Hugging Face
+2025/02/18
+Add pipeline tag · deepseek-ai/DeepSeek-V3 at f9a71c1 - nielsr HF Staff commited on
+| DeepSeek-V3-Base | 671B | 37B | 128K | [🤗 ... - | DeepSeek-V3 | 671B | 37B | 128K | [🤗
+
+Hugging Face
+2025/11/26
+deepseek-ai/deepseek-llm-7b-base · Hugging Face
+In order to foster research, we have made DeepSeek LLM 7B/67B Base and DeepSeek LLM 7B/67B Chat open source for the research community. ... deepseek-llm-7b-base is a 7B parameter model with Multi-Head Attention trained on 2 trillion tokens from scratch.
+
+Hugging Face
+2026/04/25
+deepseek-ai/DeepSeek-V4-Flash-0731 · Hugging Face
+DeepSeek-V4-Flash-0731 ## Introduction DeepSeek-V4-Flash-0731 is the official release of DeepSeek-V4-Flash, superseding the preview version, with substantially enhanced agentic capabilities.
+
+Artificial Analysis
+2026/04/23
+DeepSeek is back among the leading open weights models with V4 Pro and V4 Flash - April 24, 2026
+V4 introduces a new architecture with V4 Pro at 1.6T total / 49B active parameters and V4 Flash at 284B total / 13B active parameters ... V4 Flash 284B total / 13B active
+Dreamt I was drawing a heart that kept changing its own anatomy
+2026/08/05
+DeepSeek V4 Flash 0731 vs Pro: New Agent Benchmarks Explained
+V4 Flash 0731 has 284B total parameters and 13B active parameters. - V4 Pro has 1.6T total parameters and 49B active parameters. ... Total parameters | 284B | 1.6T
+deepseek-v4.io
+2026/08/12
+DeepSeek V4 Pro: specifications, pricing, benchmarks, and Pro vs Flash
+13... ... The published architecture still describes a 1.6-trillion-parameter ... Specification: Total parameters; V4 Pro: 1.6 trillion; V4 Flash (prior release): 284 billion ... Specification: Activated parameters; V4 Pro: 49 billion; V4 Flash (prior release): 13 billion ... Specification: Published context length; V4 Pro: 1 million tokens; V4 Flash (prior release): 1 million tokens ... Specification: Published maximum output; V4 Pro: 384K tokens; V4 Flash (prior release): 384K tokens
+
+TechCrunch
+2026/04/23
+DeepSeek previews new AI model that 'closes the gap' with frontier models | TechCrunch
+The company says both DeepSeek V4 Flash and V4 Pro are mixture-of-experts models with context windows of 1 million tokens each ... The Pro model has a total of 1.6 trillion parameters (49 billion active) ... The smaller, V4 Flash has 284 billion parameters (13 billion active).
+
+36Kr
+2026/04/23
+Going Viral: DeepSeek V4's Cost Drops 73%, LIANG Wenfeng Joins Hands with Huawei and Cambricon, "The Origin God" Returns
+Flash. They adopt the MoE architecture respectively, with the total parameter scale reaching 1.6T (49B activated) and 284B (13B activated), and both support a maximum context of 1 million tokens.
+
+GitHub
+2026/10/21
+DeepSeek V4: support the V4 Flash/Pro architecture (compressed sparse attention, hyper-connections) · Issue #550 · christopherthompson81/inference.rs - Skip to content
+V4-Flash is 291B total, V4-Pro 1.6T, with FP4 routed experts and FP8 elsewhere. Examples ... Flash is 291B total, so multi-GPU or MoE offload even at 4 bits...
+
+Lambda
+2026/05/21
+DeepSeek V4: the most expected open-source model ever released, and the quietest landing
+DeepSeek V4 Pro. 1.6T parameters, deployable on a single NVIDIA HGX B200 node. ... - DeepSeek V4 Flash. 284B parameters. Smaller, but holds its own on most evals.
+
+Apidog
+2026/04/23
+What Is DeepSeek V4?
+The smaller sibling, DeepSeek-V4-Flash, lands at 284 billion parameters with the same context and the same open weights. ... - V4-Pro is 1.6T total parameters with 49B active; V4-Flash is 284B total with 13B active.
+
+阿里云开发者社区
+2026/04/24
+DeepSeek V4：百万上下文，万亿参数，以及重新泛起涟漪的开源池塘 - DeepSeek V4：百万上下文，万亿参数，以及重新泛起涟漪的开源池塘
+DeepSeek V4发布Pro（1.6T参数/49B激活）与Flash（284B/13B）双模型，均支持1M上下文 ... Flash 是 284B 总参数、13B 激活参数。两个模型都支持 1M 上下文 ... DeepSeek-V4-Flash 则是面向成本和速度的版本，284B 总参数，单 token 激活 13B。
+OrcaRouter
+2026/07/30
+DeepSeek V4 Flash vs V4 Pro: Efficiency vs Flagship
+a mixture-of-experts model with 284B total but only ~13B active parameters, a 1M-token context, up to 384K output, tuned for high-volume, low-latency, agentic work.
+
+GitHub
+DeepSeek MCP 服务器 - - 用户：“有哪些可用的模型
+如果主模型（R1，服务器中称为deepseek-reasoner）出现故障，服务器会自动尝试使用 v3（服务器中称为 deepseek-chat） ... 只需在对话中输入提示并说“使用deepseek-reasoner”或“使用 deepseek-chat” - v3 更适用于通用场景；R1 更适用于处理较为复杂的技术性问题...
+
+GitHub
+2025/06/15
+DeepSeek-V3/README.md at 9b4e9788e4a3a731f7567338ed15d3ec549ce03b · deepseek-ai/DeepSeek-V3 · GitHub
+We present DeepSeek-V3... ... specifically from one of the DeepSeek R1 series models, into standard LLMs, particularly DeepSeek-V3. Our pipeline elegantly incorporates the verification and reflection patterns of R1 into DeepSeek-V3 and notably improves its reasoning performance. Meanwhile... ... **Model**: DeepSeek-V3-Base; **#Total Params**: 671B; **#Activated Params**: 37B; **Context Length**: 128K; **Download**: [🤗 Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V3-Base)
+
+GitHub
+2024/12/25
+GitHub - deepseek-ai/DeepSeek-V3 · GitHub - GitHub - deepseek-ai/DeepSeek-V3 · GitHub
+Model Downloads ... specifically from one of the DeepSeek R1 series models, into standard LLMs, particularly DeepSeek-V3. Our pipeline elegantly incorporates the verification and reflection patterns of R1 into DeepSeek-V3 ... **Model**: DeepSeek-V3-Base; **#Total Params**: 671B; **#Activated Params**: 37B; **Context Length**: 128K; **Download**: 🤗 Hugging Face
+
+GitHub
+2024/12/25
+DeepSeek-V3/README.md at ddc501b80e812f05a4237514c592f286554f2a11 · deepseek-ai/DeepSeek-V3
+[Model Downloads](## 3. ... specifically from one of the DeepSeek R1 series models... ... Our pipeline elegantly incorporates the verification and reflection patterns of R1 into DeepSeek-V3 and notably improves its reasoning performance. ... Model: DeepSeek-V3-Base; #Total Params: 671B; #Activated Params: 37B; Context Length: 128K; Download: 🤗 Hugging Face
+
+GitHub
+2025/01/19
+DeepSeek-R1/README.md at 3ed90a74af37f5a799bfc510b536fbc522d03053 · deepseek-ai/DeepSeek-R1
+DeepSeek-R1 Models ... Model: DeepSeek-R1-Zero; #Total Params: 671B; #Activated Params: 37B; Context Length: 128K; Download: 🤗 HuggingFace ... DeepSeek-R1-Zero & DeepSeek-R1 are trained based on DeepSeek-V3-Base.
+
+GitHub
+2025/01/19
+DeepSeek-R1/README.md at 0cf78561f1d51c84a21b2190626b21116d5c68bb · deepseek-ai/DeepSeek-R1
+Model: DeepSeek-R1-Zero; #Total Params: 671B; #Activated Params: 37B; Context Length: 128K; Download: 🤗 HuggingFace ... DeepSeek-R1-Zero & DeepSeek-R1 are trained based on DeepSeek-V3-Base.
+
+GitHub
+DeepSeek MCP Server - - User: "What models are available
+If the primary model (R1) is down (calleddeepseek-reasoner in the server), the server will automatically attempt to try with v3 (called deepseek-chat in the server) - V3 is recommended for general purpose use, while R1 is recommended for more technical and complex queries, primarily due to speed and token useage
+
+Hugging Face
+2025/05/26
+Upload folder using huggingface_hub · dangbt/gearment at a2dd7bb - + **JanusFlow** introduces a minimalist architecture that integrates autoregressive language models with rectified flow, a state...
++ | JanusFlow-1.3B | 4096 | [🤗 Hugging Face](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) ... + | Janus-Pro-1B | 4096 | [🤗 Hugging Face](https://huggingface.co/deepseek-ai/Janus-Pro-1B) | ... + | Janus-Pro-7B | 4096 | [🤗 Hugging Face](https...
+
+全天候科技
+2025/01/27
+R1“轰炸”还不够，DeepSeek发布新开源AI模型，生图能力胜过DALL-E 3
+美东时间1月27日周一，AI社区Hugging Face显示，DeepSeek发布了分别名为Janus-Pro和JanusFlow的一系列开源多模态AI模型，参数大小从10亿到70亿不等，都已可在Hugging Face下载。
+
+Hugging Face
+Models – Hugging Face
+onnx-community/Janus-1.3B-ONNX Any-to-Any • Updated • ... Text Generation • 7B • Updated • 22 #### deepseek-ai/JanusFlow-1.3B Any-to-Any • 2B • Updated • 1.07k • 152
+
+UISDC
+2025/03/06
+手把手教学！Deepseek Janus 生图模型安装流程+核心功能解析
+Janus 是深度求索（DeepSeek）公司开源的多模态大模型，主打 AI 图像生成与 AI 图像识别，支持文生图、图生文等多模态交互，属于其 AGI 技术布局中的关键产品之一。
+
+支付宝
+蚂蚁理财社区 - 证券时报
+三个多小时后，人工智能开源社区HuggingFace就显示，DeepSeek发布了参数大小从10亿到70亿不等，名为Janus-Pro和JanusFlow的一系列开源多模态模型。
+
+中國報 China Press
+2025/01/27
+DeepSeek推新款开源AI模型 Janus-Pro测试击败OpenAI | 中國報 China Press
+（北京28日综合电）人工智能（AI）社区Hugging Face显示，中国火爆的AI大模型公司DeepSeek周二（28日）发布了开源多模态人工智能（AI）模型Janus-Pro，以及JanusFlow。。
+
+商業電台 881903
+2025/01/27
+DeepSeek｜新發布圖像生成模型Janus 勝OpenAI DALL-E3｜國際｜商業電台 881903 - DeepSeek｜新發布圖像生成模型Janus 勝OpenAI DALL-E3
+內地傳媒引述AI社區網站Hugging Face指，DeepSeek發布了分別名為Janus-Pro和JanusFlow的一系列開源多模態AI模型，參數從10億到70億不等，已可在Hugging Face下載。其中 ... Janus-Pro和JanusFlow的代碼基於MIT許可證授權，這意味著它們可以不受限地用於商業用途。
+Unreal Speech
+2025/03/10
+Janus: Bridging Text and Image Modalities - Janus: Bridging Text and Image Modalities
+Cut text-to-speech costs with Unreal Speech. 11x cheaper than 11Labs. Production-ready. Stream in 300ms. Generate 10-hr audio. 48 voices. 8 languages. Per-word timestamps. 250K chars free. Try live de
+
+网易手机
+2025/04/29
+DeepSeek开源数学模型Prover-V2-671B ，较上代参数量提高近百倍 - DeepSeek开源数学模型Prover-V2-671B ，较上代参数量提高近百倍
+这类模型的目标是利用像 Lean 4 这样的证明助手软件，来理解和生成严格的数学证明步骤。简单来说 ... 自动定理证明（从高中到大学水平的数学问题）、发现证明中的错误并提供修复建议、通过生成 Lean 4 代码和解释帮助教学，以及协助数学家探索新定理等。
+
+百度百科
+2026/05/26
+DeepSeek-Prover-V1.5
+DeepSeek-Prover-V1.5是一个70亿参数的开源语言模型，专为Lean 4中的定理证明设计，基于DeepSeekMath-Base进行预训练，专注于形式化数学语言 [10] [13]。模型在技术架构上融合了监督微调...
+
+GIGAZINE
+2025/04/30
+DeepSeek quietly releases 'DeepSeek-Prover-V2', a tool specialized for mathematical inference, capable of formal proof of complex theorems - DeepSeek quietly releases 'DeepSeek-Prover-V2', a tool specialized for mathematical inference, capable of formal proof of comple...
+and is designed to automate the generation of theorem proofs formalized using the theorem proof assistant language Lean 4 . ... In this recursive theorem proving pipeline, DeepSeek-V3 decomposes complex theorems while formalizing them with Lean 4, and the 7B model solves the decomposed logic individually.
+
+proceedings.iclr.cc
+DEEPSEEK-PROVER-V1.5: HARNESSING PROOF ASSISTANT FEEDBACK FOR REINFORCEMENT LEARNING AND MONTE-CARLO TREE SEARCH
+DEEPSEEK-PROVER-V1.5 ... Lean is an advanced proof assistant designed to facilitate formal theorem proving by providing a variety of interactive feedback. In this paper, we explore methodologies to leverage proof assistant feedback to augment the capabilities of large language models in constructing formal proofs. ... The model is named DeepSeek- Prover- V1.5 ... of DeepSeek- Prover- V1(Xin et al., 2024).
+
+Semantic Scholar
+De-Jian Yang | Semantic Scholar - DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning
+DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition This work introduces DeepSeek-Prover-V2, an open-source large language model designed for formal theorem proving in Lean 4, with initialization data collected through a recursive ... An open-source language model designed for theorem proving in Lean 4...
+
+百度智能云
+2024/11/20
+DeepSeek开源大模型刷新数学定理证明SOTA - DeepSeek开源大模型刷新数学定理证明SOTA
+这一创新使得DeepSeek-Prover-V1.5在Lean 4的形式定理证明方面优于所有开源模型 ... 首先，使用DeepSeek-Coder V2 236B在Lean 4代码旁注释CoT（chain-of-thought）评论，将形式化定理证明与自然语言推理对齐。其次...
+
+GitHub
+2026/04/12
+ai-infra/deepseek/prover/zh.md at main · qfc-network/ai-infra - Skip to content
+DeepSeek-Prover — 通过 RL 与 MCTS 实现形式化定理证明 ... DeepSeek-Prover 将 LLM 微调和强化学习应用于 Lean 4 形式化定理证明。核心 infra 洞察 ... DeepSeek-Prover-V1.5 在开源模型中达到 miniF2F-test 最优水平...
+
+InfoQ
+2025/05/11
+DeepSeek Launches Prover-V2 Open-Source LLM for Formal Math Proofs - Online InfoQ AI-Assisted Engineering Certification (Oct 19): Your agent got faster
+for Formal Math Proofs # DeepSeek Launches Prover-V2 Open-Source LLM for Formal Math Proofs This item in japanese DeepSeek has released DeepSeek-Prover-V2, a new open-source large language model specifically designed for formal theorem proving in Lean 4.
+鲸智
+2024/11/26
+DeepSeek-Prover-V1.5-RL - math模型 - 鲸智社区·大模型公共服务平台
+DeepSeek-Prover-V1.5, an open-source language model designed for theorem proving in Lean 4, which enhances DeepSeek-Prover-V1 by optimizing both training and inference processes. Pre-trained on DeepSeekMath-Base with specialization in formal mathematical languages, the model undergoes supervised fine-tuning using an enhanced formal theorem proving dataset derived from DeepSeek-Prover-V1.
+
+央广网
+2026/01/26
+DeepSeek发布新模型
+DeepSeek团队发布《DeepSeek-OCR 2: Visual Causal Flow》论文，并开源DeepSeek-OCR 2模型，采用创新的DeepEncoder V2方法，让AI能够根据图像的含义动态重排图像的各个部分，更接近人类的视觉编码逻辑。
+
+Hugging Face
+2026/03/08
+Update model card with proper metadata and documentation · forkjoin-ai/deepseek-ocr-2 at 3ff9bcb - buley commited on
++ > **Production-ready** GGUF quantization of [deepseek-ai/deepseek-vl2-tiny](https://huggingface.co/deepseek-ai/deepseek-vl2-tiny) for distributed optical character ... + - **~2B parameters** — Second-generation OCR model based on DeepSeek VL2. Improved text extraction accuracy.
+
+证券时报
+2026/01/26
+刚刚！DeepSeek，重大发布！
+今日（1月27日），DeepSeek团队发布《DeepSeek-OCR 2: Visual Causal Flow》论文，并开源DeepSeek-OCR 2模型，采用创新的DeepEncoder V2方法，让AI（人工智能）能够根据图像的含义动态重排图像的各个部分，更接近人类的视觉编码逻辑 ... 1月27日，DeepSeek发布全新DeepSeek-OCR 2模型 ... 让AI能够像人类一样按照逻辑顺序“看”图像。这项技术的核心创新在于改变了传统AI处理图像的方式。
+
+China.org.cn
+2026/01/27
+Firmas emergentes chinas de IA lanzan modelos multimodales abiertos
+El equipo de DeepSeek publicó el martes un artículo titulado DeepSeek-OCR 2: Visual Causal Flow en GitHub, una plataforma de colaboración y código abierto, y abrió su modelo DeepSeek-OCR 2. El mismo adopta el enfoque único DeepEncoder V2, capaz de reordenar dinámicamente diferentes partes de una imagen en función de su significado semántico...
+
+36Kr
+2026/01/26
+DeepSeek's Latest Blockbuster Model: Major VLM Architecture Breakthrough Enables AI to Read Images Like Humans
+智东西2026-01-27 16:07 This framework can be used to integrate multiple modalities such as additional text, speech, and vision. ... According to a report by Zhidongxi on January 27th, DeepSeek has just open-sourced its dedicated model for OCR scenarios, DeepSeek-OCR 2, and released its technical report simultaneously.
+InCoder-32B Enters Industrial AI Code Market with 32B-Parameter Unified Model
+2026/01/27
+DeepSeek Launches DeepSeek-OCR 2 for Advanced Visual and Text Reasoning
+DeepSeek Launches DeepSeek-OCR 2 for Advanced Visual and Text Reasoning DeepSeek AI has released DeepSeek-OCR 2, a new open-source visual-language model that improves optical character recognition and document understanding through a redesigned vision encoder for better reading order and OCR accuracy. ⬤ DeepSeek AI has rolled out DeepSeek-OCR 2...
+
+napstic.cn
+2026/01/27
+DeepSeek-OCR 2: Visual Causal Flow
+We present DeepSeek-OCR 2 to investigate the feasibility of a novel encoder-DeepEncoder V2-capable of dynamically reordering visual tokens upon image semantics. ... Visual Causal Flow[EB/OL].(2026-01-28)[2026-10-11].https://arxiv.org/abs/2601.20552.
+
+上海证券报
+2026/01/27
+优刻得完成DeepSeek-OCR-2接入
+据悉，DeepSeek最新开源的DeepSeek-OCR-2，通过架构适配DeepEncoder V2，摒弃了经典的CLIP视觉分支，采用LLM作为视觉编码器，并提出视觉因果流（Visual Causal Flow）范式，以解决多模态大模型在面对复杂表格或非线性文本时，往往会出现的语义与序列错配问题。
+
+Hugging Face
+Models – Hugging Face - Hugging Face
+Text Generation ... Clear all unsloth/DeepSeek-R1-Distill-Llama-8B ... 109 unsloth/DeepSeek-R1-Distill-Qwen-7B ... 20 unsloth/DeepSeek-R1-Distill-Llama-70B
+
+Hugging Face
+2026/03/02
+obliteratus/presets.py · Xhaheen/obliteratus at d169612c0d9c4296351bd97cfae46bf80861745f - ╚══════════════════════════════════════════════════════════════════╝
+ModelPreset( name="DeepSeek-R1 Distill Llama 8B", hf_id="deepseek-ai/DeepSeek-R1-Distill-Llama-8B", description="DeepSeek-R1 reasoning distilled into Llama 8B. Best reasoning at 8B scale. ... name="DeepSeek-R1 Distill Llama 70B" ... Llama-70B" ... into Llama 70B.
+
+Hugging Face
+2025/02/12
+README.md · unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF at main - For more details regarding the model architecture, please refer to [DeepSeek-V3](https://github
+DeepSeek-R1-Distill-Qwen-1.5B | [Qwen2.5-Math-1.5B](https ... HuggingFace](https://hugging ... | DeepSeek-R1-Distill-Qwen-7B | [Qwen2.5-Math-7B](https ... | DeepSeek-R1-Distill-Llama-8B | [Llama-3.1-8B](https ... | DeepSeek-R1-Distill-Llama-70B
+
+ModelScope
+DeepSeek-R1-Distill Models
+**Model**: DeepSeek-R1-Distill-Qwen-1.5B; **Base Model**: [Qwen2.5-Math-1.5B](https://huggingface.co/Qwen/Qwen2.5-Math-1.5B); **Download**: [🤗 HuggingFace](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) ... **Model**: DeepSeek-R1-Distill-Qwen-7B; **Base Model**: [Qwen2.5-Math-7B](https://huggingface.co/Qwen/Qwen2.5-Math-7B) ... **Model**: DeepSeek-R1-Distill-Llama-8B; **Base Model**: [Llama-3.1-8B](https://huggingface.co/meta-llama/Llama-3.1-8B) ... **Model**: DeepSeek-R1-Distill-Llama-70B; **Base Model**: [Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)
+
+arXiv
+2026/01/08
+Circular Reasoning: Understanding Self-Reinforcing Loops in Large Reasoning Models - DeepSeek-R1-Distill Series: We evaluate the distilled versions of DeepSeek-R1 based on Qwen and Llama architectures
+we use DeepSeek-R1-Distill-Qwen-7B444https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B, DeepSeek-R1-Distill-Qwen-14B555https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B...
+
+GitHub
+2026/05/08
+chitu/docs/en/SUPPORTED_MODELS.md at 6e1b40125b0ea83637d44afd1eeb2a3d638bfd9d · thu-pacman/chitu · GitHub - Supported Models
+Name: DeepSeek-R1-Distill-Llama-70B; Usage (append the argument below when starting Chitu): `models=DeepSeek-R1-Distill-Llama-70B`; How to obtain the model: https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B ... Name: DeepSeek-R1-Distill-Qwen-14B; Usage (append the argument below when starting Chitu): `models=DeepSeek-R1-Distill-Qwen-14B`; How to obtain the model: https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
+
+GitHub
+2025/01/31
+Add files via upload · aws-samples/host-deepseek-distilled-models-on-aws@b9bc13a
+16 | + "- DeepSeek-R1-Distill-Llama-8B and DeepSeek-R1-Distill-Qwen-7B on a single SageMaker Endpoint using Inference Components\n"...
+
+ROCm Documentation
+LLM inference with PyTorch + Huggingface transformers
+model_id = "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B" ... Llama-3.2-1B-Instruct ... //huggingface. ... Yes Llama-3.2-3B-Instruct https://huggingface.co/meta-llama/Llama-3.2-3B-In

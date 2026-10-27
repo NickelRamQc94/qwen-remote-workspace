@@ -1,0 +1,27 @@
+results
+
+Hugging Face
+deepseek-ai (DeepSeek)
+DeepSpec DeepSeek-OCR DeepSeek-V3.1 DeepSeek-V3 DeepSeek-VL2 DeepSeek-Prover DeepSeek-Prover-Series DeepSeekCoder-V2 ... DeepSeek-LLM DeepSeek LLM series DeepSeek-MoE ... DeepSeek-Math
+
+Hugging Face
+deepseek-admin (DeepSeek) – Likes
+6 models almost 3 years ago deepseek-ai/deepseek-coder-1.3b-base ... 116 deepseek-ai/deepseek-coder-6.7b-base ... deepseek-ai/deepseek-coder-1.3b-instruct
+
+Hugging Face
+2025/01/21
+deepseek-ai/DeepSeek-R1 · Hugging Face - DeepSeek-R1
+Model: DeepSeek-R1-Zero; #Total Params: 671B; #Activated Params: 37B; Context Length: 128K; Download: 🤗 HuggingFace ... Model: DeepSeek-R1; #Total Params: 671B; #Activated Params: 37B; Context Length: 128K; Download: 🤗 HuggingFace
+
+Hugging Face
+2026/04/25
+deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face - DeepSeek-V4-Pro-0813
+DeepSeek-V4-Pro-0813 ... DeepSeek-V4-Pro-0813 is the official release of DeepSeek-V4-Pro, superseding the preview version ... DeepSeek-V4-Flash-0731 ... DeepSeek-V4-Pro (Preview) | DeepSeek-V4-Flash ... Model tree for deepseek-ai/DeepSeek-V4-Pro-0813 ... 12 models
+
+Hugging Face
+2025/02/18
+Add pipeline tag · deepseek-ai/DeepSeek-V3 at f9a71c1 - nielsr HF Staff commited on
+| DeepSeek-V3-Base | 671B | 37B | 128K | [🤗 ... - | DeepSeek-V3 | 671B | 37B | 128K | [🤗
+
+Hugging Face
+2025/11/26

@@ -1,0 +1,229 @@
+GitHub
+o3 / o4-mini | OpenAI | [openai.com](https://openai.com/index/introducing-o3-and-o4-mini/) | 2025 年 4 月发布的 o 系列推理模型，"先思考后回答"，o4-mini 主打高性价比快速推理。 | | GPT-4.1 | OpenAI | [openai.com](https://openai.com/index/gpt-4-1/) | 2025 年 4 月发布，专精编码，100 万 token 长上下文，指令遵循强。
+Airtable MCP Server | Claude Market
+2026/08/09
+Best OpenAI Models in 2026 — Complete Comparison and Rankings | Claude Market
+As of April 2026, GPT-4o, o3, o4-mini, and GPT-4.1 are all retired from ChatGPT's model picker. ... The o-series reasoning models (o1, o3, o4-mini) and the GPT-4 family (GPT-4o, GPT-4.1) are gone.
+
+Hugging Face
+GPT-4.1 | OpenAI | $2.00 | $8.00 | 1M | No | | GPT-4.1 mini | OpenAI | $0.40 | $1.60 | 1M | No | | o4-mini | OpenAI | $1.10 | $4.40 | 200K | No | | o3
+Palmyra X5的最佳替代方案 (2026)
+2026/10/08
+OpenAI API Pricing - All Models (2026)
+Sora | Free | Free gpt-oss-20b | $0.018 | $0.090 gpt-oss-20b (batch) | $0.024 | $0.112 gpt-oss-120b (batch) | $0.030 | $0.136 ... GPT-3.5 Turbo Instruct | $1.50 | $2.00 o4 Mini (batch) | $0.550 | $2.20
+CorX Labs
+2026/09/03
+OpenAI AI Models — Specs, Pricing and Benchmarks
+GPT-5OpenAI: gpt-oss-120bOpenAI ... GPT-5OpenAI: gpt-oss-20bOpenAI; Proprietary: Apache 2.0 ... GPT-5OpenAI: o3OpenAI ... GPT-5OpenAI: o4-miniOpenAI ... GPT-5OpenAI: GPT-4.1OpenAI; OpenAI: OpenAI; 400K: 1M; $1.25: $2.00; $10.00: $8.00 ... GPT-5OpenAI: o3-miniOpenAI
+BankyBluePrints.com
+2026/08/05
+Generative AI Models: The 2026 Landscape 🚀
+OpenAI’s dedicated reasoning models (o3, o3-pro, o4-mini) remain in the lineup for tasks where step-by-step reasoning matters more than raw speed — math, science, and complex debugging. - GPT-4.1 family...
+
+GitHub
+2026/08/06
+foundry-workshop/labs/03-models-and-agents.md at main · ParthVyas2912/foundry-workshop - Skip to content
+Popular Models for Different Tasks (June 2026) ... Model: GPT-4.1-mini; Best For: Cost-effective general tasks; Context: 1M tokens; Strengths: Fast, affordable, great quality ... Model: GPT-4.1-nano; Best For: Ultra-low-latency, edge scenarios ... Model: o3; Best For: Advanced math, logic, planning; Context: 200K tokens ... Model: o4-mini; Best For: Visual reasoning, cost-efficient reasoning
+
+GitHub
+2026/04/24
+HestiaClaw/OPENAI_FACTS.md at main · cl0ud6uru/HestiaClaw
+Notes: Live in ChatGPT/Codex; API access TBA ... Model ID: gpt-4.1; Role: Legacy (API only); Notes: Great at coding; retired from ChatGPT Feb 2026, API still works ... Model ID: gpt-4.1-mini ... gpt-4o, o3, o4-mini — succeeded by the GPT-5 series.
+
+Claude Platform
+2026/10/20
+Claude Platform 发布说明 - - 我们已停用 Claude Sonnet 4.5 和 Claude Sonnet 4 的 1M 令牌上下文窗口 beta（context-1m-2025-08-07）
+我们宣布弃用 Claude Sonnet 4 模型（claude-sonnet-4-20250514）和 Claude Opus 4 模型（claude-opus-4-20250514），计划于 2026 年 6 月 15 日在 Claude API 上停用。
+
+Hugging Face
+2026/06/03
+"claude-opus-4-6","name":"Claude Opus 4.6" ... "2026-03" ... "claude-sonnet-4-6","name":"Claude Sonnet 4.6" ... "claude-haiku-4-5","name":"Claude Haiku 4.5"...
+
+Hugging Face
+2026/06/16
+2026-06-17/pricing.jsonl · tensorfeed/ai-ecosystem-daily at main - {"ok":true,"source":"tensorfeed
+1000000,"released" ... "claude-opus-4-8","name" ... "claude-opus-4-7" ... "claude-opus-4-6","name":"Claude Opus 4.6" ... "claude-sonnet-4-6","name":"Claude Sonnet 4.6" ... "claude-haiku-4-5"...
+Amazon.com
+2026/06/20
+One Platform, Every AI Workload: A Practical Guide to Choosing the Right Claude Model on Amazon Bedrock | AWS Builder Center - One Platform, Every AI Workload: A Practical Guide to Choosing the Right Claude Model on Amazon Bedrock
+Model: Claude Opus 4.7; Released: Apr 2026 ... Model: Claude Sonnet 4.6; Released: Feb 2026; Context Window: 1M tokens (preview); Input Cost (per 1M tokens): $3; Output Cost (per 1M tokens): $15; Best For: Daily coding, content generation, general intelligence ... Model: Claude Haiku 4.5; Released: 2025; Context Window: 200K tokens; Input Cost (per 1M tokens): $1; Output Cost (per 1M tokens): $5; Best For: Classification, routing, simple extraction, high-volume
+
+claude.com
+2026/10/20
+发布说明 | Anthropic Help Center - 跳转到主要内容
+Claude Haiku 5.5 发布 我们刚刚推出了 Claude Haiku 5.5，这是我们发布的最便宜、最快速且功能最强大的小型模型，专为大容量、成本敏感的任务而设计 ... Claude Sonnet 5.5 发布 我们刚刚推出了 Claude Sonnet 5.5，这是我们 Claude 5.5 系列中的第二款模型。
+Taskade
+2026/09/27
+Claude Models Explained (2026): Opus vs Sonnet vs Haiku
+Opus 5.5 ($4/$20), Sonnet 5.5 ($2/$10, released September 28, 2026) and Haiku 4.5 ($1/$5), with Haiku 5.5 coming soon. ... Opus 5.5, Sonnet 5.5 and Haiku 4.5.
+
+Hugging Face
+2026/06/09
+{"ok":true,"source":"tensorfeed
+{"ok":true,"source":"tensorfeed.ai","updated":"2026-06-10T11:35:44.299Z","providers":{"lastUpdated":"2026-06-09","providers":[{"id":"anthropic","name":"Anthropic","logo":"/images/providers/anthropic.p
+
+Morph
+2026/04/04
+Anthropic API Pricing: The Real Cost of Claude for Coding Agents (2026) | Morph - Anthropic API Pricing: The Real Cost of Claude for Coding Agents (2026)
+Claude Opus 4.6 costs $5/$25 per million tokens. Sonnet 4.6 is $3/$15. Haiku 4.5 is $1/$5. But coding agents burn through tokens 10-50x faster than chat. Batch API saves 50%, prompt caching saves 90%,
+
+GitHub
+2026/04/19
+claude-creative-stack/knowledge/01-claude-ecosystem.md at 4bbfbe71b93098c6caac636a2ee832dccfed29a3 · barmoshe/claude-creative-stack - Skip to content
+Skip to content ## Navigation Menu {{ message }} ## Repository navigation # 01-claude-ecosystem.md ## Latest commit e299ea9 · ## History History # 01-claude-ecosystem.md ## File metadata and
+
+GitHub
+2026/06/03
+learn-ai/docs/learn/claude-essentials/model-lineup.md at main · sujeet-pro/learn-ai - Skip to content
+Skip to content ## Navigation Menu {{ message }} ## Repository navigation # model-lineup.md ## Latest commit 570efa5 · ## History History # model-lineup.md ## File metadata and controls 75 l
+ThursdAI
+Perplexity AI Releases: R1-1776, pplx-embed & 5 More — ThursdAI
+Highlights include R1-1776, pplx-embed, Sonar Pro Search API, Perplexity Pro with R1. ... Perplexity released pplx-embed-v2, open multimodal embedding models on Hugging Face, with a write-up on multimodal embeddings beyond a single vector.
+Qwen3Guard Gen 0.6B pricing, context window & API, as of Sep 2026
+2026/09/26
+Perplexity AI models | The GTM Directory
+OpenRouter lists input at $0.004 per 1M tokens and output is free, checked on 2026-09-27 at openrouter.ai/perplexity/pplx-embed-v1-0.6B.
+Banana — Review (Score: 53/100) - nolist.ai
+2026/03/25
+Perplexity pplx API / Sonar Reasoning - nolist.ai
+Reasoning model featuring $1.00 per 1M input tokens and built-in web search capabilities. ... - Open SourceNo ## Deprecated As of December 15, 2025, Perplexity officially deprecated the standalone Sonar Reasoning model in favor of Sonar Reasoning Pro.
+Banana — Review (Score: 53/100) - nolist.ai
+2026/03/07
+Perplexity pplx API / Sonar Pro Search - nolist.ai
+Sonar Pro Search delivers agentic web-research capabilities for $0.018 per search call plus tokens. ... - Open SourceNo ## Review Sonar Pro Search represents Perplexity's attempt to productize their 'Pro Search' web agent into a developer-facing API via OpenRouter. Architecturally...
+
+LobeHub
+2026/04/02
+pplx-proxy | MCP Servers · LobeHub - Ctrl
+Reverse proxy for Perplexity.ai using your Pro subscription cookie to access Pro Search, Reasoning, and Deep Research via standard APIs. ... Model ID: pplx-auto; Mode: Auto; Backend: Turbo ... Model ID: pplx-pro; Mode: Pro; Backend: Sonar Pro ... Model ID: pplx-pro-sonar; Mode: Pro; Backend: Sonar ... Model ID: pplx-pro-gpt5; Mode: Pro; Backend: GPT-5.2
+ScriptByAI
+2026/10/01
+Perplexity AI Timeline: Products, Models & APIs - Perplexity AI Timeline: Products, Models & APIs
+Date: 2026-10-01; Milestone: Decisions API launched with pplx-decider-v1-27b, a multimodal decision model for classification, routing, and rubric-based scoring. It returns probabilities for yes/no answers, defined choices, and score levels. API pricing started at $0.04 per million input tokens with free output; model weights were released under Apache 2.0. ... Date: 2026-02-26; Milestone: Perplexity released the pplx-embed-v1 and pplx-embed-context-v1 model families for semantic and contextual retrieval.
+
+NPM
+2026/04/26
+@pruddiman/pplx - ⚠️
+1.2.0 • Public • Published # pplx Modern CLI for the Perplexity AI API. Search, query, reason, and research from your terminal. ## Install Requires Node.js 20+ ### From npm npm install -g @prudd
+
+GitHub
+2026/10/22
+Supported Model Providers and Model Lists
+400,000 Max Output Tokens: 128,000 ... - `gpt-4.1-nano` Window: 400 ... 1,047,576 Max Output Tokens: 32,768 ... 200,000 Max Output Tokens: 100,000
+
+PyPI
+2026/03/17
+kiss-agent-framework - - OpenAI: gpt-4.1, gpt-4.1-mini, gpt-4.1-nano, gpt-4o, gpt-4o-mini, gpt-4.5-preview, gpt-4-turbo, gpt-4, gpt-5, gpt-5-mini, gpt-...
+gpt-4.1, gpt-4.1-mini, gpt-4.1-nano, gpt-4o, gpt-4o-mini, gpt-4.5-preview, gpt-4-turbo, gpt-4, gpt-5, gpt-5-mini, gpt-5-nano, gpt-5-pro, gpt-5.1, gpt-5.2, gpt-5.2-pro, gpt-5.3, gpt-5.4, gpt-5.4-pro
+Go Packages
+2026/07/07
+openai - Help us shape the future of Go
+"o1-pro", "o1-mini", "o3", "o3-pro", "o3-mini" ... "gpt-4.1", "gpt-4.1-mini", "gpt-4.1-nano"...
+
+Dart packages
+ChatOpenAIOptions constructor
+AvailableChatOpenAIOptions.models ... - gpt-4.1 - gpt-4.1-mini - gpt-4.1-nano ... - gpt-4.1-nano-2025-04-14 ... - o3-mini
+
+Dart packages
+ChatOpenAIOptions class - ChatOpenAIOptions class
+gpt-4.1 - gpt-4.1-mini - gpt-4.1-nano ... - gpt-4.1-nano-2025-04-14 ... - o3-mini
+
+Docs.rs
+Enum OpenAIModel Copy item path - OpenAIModel
+If you are on a budget, consider using gpt-4.1-nano, the least expensive model. ... O3mini A mini version of the o3 model, providing high intelligence with the same cost and latency targets of o1-mini.
+
+arxiv.org
+<table><tr><td>Provider</td><td>Model</td><td>B</td><td>Act
+rowspan="10">OpenAI</td><td>GPT-3.5 ... (0125)</td><td>—</td><td>—</td><td>x ... 2024-11</td><td></td></tr><tr><td>OpenAI o1 (high)</td><td>—</td><td>—</td><td>x 2024-12</td><td></td></tr><tr><td>o3-mini (high)</td><td>—</td><td>—</td><td>x ... 2025-02</td><td></td></tr><tr><td>GPT-4.1</td><td>—</td><td>—</td><td>x 2025-04</td><td></td></tr><tr><td>GPT-4.1 mini</td><td>—</td><td>—</td><td>x ... <td>GPT-4.1 nano</td><td>—</td><td>—</td><td>x
+
+Docs.rs
+Enum ChatModel Copy item path - Skip to main content
+Gpt4_1Nano ... - [Gpt4_1Mini]: Balanced performance and cost - [Gpt4_1Nano]: Fastest and most cost-efficient ... GPT-4.1 Mini - Balanced performance and cost ### Gpt4_1Nano GPT-4.1 Nano - Fastest and most cost-efficient
+
+Wikipédia
+2022/12/08
+« ChatGPT » : différence entre les versions — Wikipédia - o1-mini | septembre 2024 | retiré | Plus rapide que o1-preview, et 80% moins coûteux pour les utilisateurs de l'interface de pro...
+o1-pro ... o3-mini | janvier 2025 | retiré | Successeur de o1-mini, plus performant[32]. ... GPT-4.1, GPT-4.1 mini et GPT-4.1 nano[35].
+
+RubyDoc.info
+RubyDoc.info: Module: OpenAI::Models::ChatModel – Documentation for openai/openai-ruby (main) – RubyDoc.info
+GPT_4_1_MINI = - :"gpt-4.1-mini" - GPT_4_1_NANO = - :"gpt-4.1-nano" ... - O4_MINI = ... - O3_MINI = - :"o3-mini"
+
+Claude Platform
+Mehrsprachige Unterstützung - Claude Platform Docs
+Sprache: Englisch (Basislinie, auf 100 % festgelegt); Claude Opus 4.1 (veraltet)1: 100%; Claude Sonnet 4.51: 100%; Claude Haiku 4.51: 100% ... Sprache: Spanisch; Claude Opus 4.1 (veraltet)1: 98.1%; Claude Sonnet 4.51: 98.2%; Claude Haiku 4.51: 96.4%
+
+Claude Platform
+Multilingual support - Claude Platform Docs
+The following table shows zero-shot chain-of-thought evaluation scores for Claude models across languages, expressed as a percentage relative to English performance (100%)... ... Language: Yoruba; Claude Opus 4.1 (deprecated)1: 80.3%; Claude Sonnet 4.51: 79.7%; Claude Haiku 4.51: 52.7%
+Claude Fable 5 vs LFM2.5-ColBERT-350M: Benchmarks, Pricing, Speed (July 2026)
+2026/10/22
+Best Anthropic Models (October 2026) — Ranked by Benchmark Data
+is Claude Opus 5.5 with a score of 86.6. ... Anthropic·Proprietary·1M ... BenchAlign v5.8 ... Claude Sonnet 5.5 ... Claude Haiku 5.5 ... Anthropic·Proprietary·200K ... Claude 4 Sonnet ... Claude Opus 5.5 leads this ranking with a score of 86.6, followed by Claude Fable 5.1 ... Claude Sonnet 5.5 (82.2).
+
+Hugging Face
+2026/04/25
+Upload llm-benchmarks-2026.csv with huggingface_hub · ComparEdge/llm-api-benchmark-matrix-2026 at f44ebf4
++ Anthropic,claude-sonnet-4,88.5,93.7,78.3,1295,1,3,2,S 7 | + Anthropic,claude-haiku-3.5,79.8,88.1,69.5,1160,6,7,4,A 8 | + Anthropic,claude-opus-4,90.2,95.1,82.7,1330,1,2,1,S+
+Tokens vs Bytes trong AI: Mô Hình Ngôn Ngữ Thực Sự 'Nhìn Thấy' Gì Khi Bạn Gõ?
+2026/02/21
+Claude全系列模型对比：Opus vs Sonnet vs Haiku怎么选？
+特性 | Claude Opus 4.5 | Claude Sonnet 4.5 | Claude Haiku 4.5 ... - Opus vs Sonnet差距：大约5-10%的性能差距，但价格差5倍 - Sonnet vs Haiku差距...
+
+Morph
+2026/03/04
+Claude Benchmarks (2026): Opus 5, Sonnet 5, and Fable 5 at 95% SWE-bench Verified. Every Model, Score, API ID, and Price
+Fable 5 (95% SWE-bench Verified), Opus 5 (89.1% Terminal-Bench 2.1), Sonnet 5 (85.2%), Opus 4.8 (88.6%, 69.2% SWE-bench Pro), Haiku 4.5. ... Sonnet 5 scores 85.2% Verified and 63.2% Pro. Opus 4.8 (88.6% Verified...
+
+GitHub
+2026/08/18
+vstack/docs/research/harness-value-literature-2026-08.md at main · itsvedantkumar/vstack - Confidence: high
+Haiku 4.5 with skills (30.1%) beats Opus 4.5 without (23.8%) in the same harness. ... runs 23.4% (Haiku 4.5), 23.4% (Sonnet 4.5), 33.1% (Opus 4.5)...
+
+GitHub
+2026/03/23
+zenn-content/articles/20260422-0401-claude-haiku-4-5-skill-opus-4-7.md at main · orlhayk/zenn-content
+Skip to content ## Navigation Menu {{ message }} # 20260422-0401-claude-haiku-4-5-skill-opus-4-7.md ## Latest commit 93e36d7 · ## History History # 20260422-0401-claude-haiku-4-5-skill-opus-4-7
+GitHub
+<
+<!-- TRIGGERS: model, haiku, sonnet, opus, which model, slow, expensive, cost, fast, sub-agent, subagent PHASE: any LOAD: full --> # Model Selection Guide Which Claude model to use for which task. O
+
+mintlify.app
+2026/08/27
+Sonar Pro - Perplexity
+Use Pro Search for enhanced search results with reasoning. ### Input Tokens $3 Per 1M Tokens ### Output Tokens $15 ... Non-reasoning model ### Optimized for complex, multi-step Q&A tasks ### 200K context length
+方法论 · 我们如何获取和评分AI基准测试 | BenchGecko
+2026/10/15
+Sonar Reasoning Pro · Benchmarks, Pricing & Performance | BenchGecko
+Sonar Reasoning Pro ... 128K tokens (~64 books) Input $/1M $2.00 Output $/1M ... - Typemultimodal - Context128K tokens (~64 books) - ReleasedMar 2025 ... - Cost / Message~$0.012
+
+OpenRouter
+2025/03/06
+Apps Using Perplexity: Sonar Reasoning Pro
+Sonar Reasoning Pro is a premier reasoning model powered by DeepSeek R1 with Chain of Thought (CoT). Designed for advanced use cases ... Input Price $2/M Output Price $8/M Context 128K Weekly Tokens 92.6M
+
+OpenRouter
+2025/03/06
+Sonar Reasoning Pro - API Pricing & Benchmarks - Perplexity: Sonar Reasoning Pro
+Sonar Reasoning Pro is a premier reasoning model powered by DeepSeek R1 with Chain of Thought (CoT). Designed for advanced use cases ... Provider | Input /M | Output /M | Latency | Throughput | Uptime ... $2.00 | $8.00 | 24.84s | 14 tps | ... 14tok/s
+
+Future AGI
+2026/08/05
+Sonar Reasoning Pro pricing — Perplexity | Future AGI
+Sonar Reasoning Pro is a Perplexity chat model.It supports a 128,000-token context window.Input is priced at $2.00/M tokens and output at $8.00/M tokens. Capabilities include reasoning.
+Augment Code vs Google Antigravity (2026)
+2025/02/05
+Sonar Reasoning Pro API: Pricing, Providers & Context Window
+See details here Sonar Reasoning Pro is a premier ... - Input / output price - $2.00 / $8.00 per 1M - Context - 128K tokens - Released - Feb 6, 2025
+FUNCTION_INVOCATION_FAILED
+2025/02/18
+Sonar Reasoning Pro Similar Models | Vercel AI Gateway
+Sonar Reasoning Pro combines the deepest web retrieval in the Sonar family with chain-of-thought reasoning to return well-sourced, structured answers within a context window of 127K tokens. ... 32K | $0.004/M ... 127K |
+zjureal.com
+2025/08/31
+Models
+## Sonar Reasoning Pro perplexity/sonar-reasoning-proPerplexitysonar-reasoning Web-grounded Sonar for multi-step research questions that need cited reasoning Attribute | Value ---|--- Canonical |
+FUNCTION_INVOCATION_FAILED
+2025/02/18
+Sonar Reasoning Pro FAQ | Vercel AI Gateway
+# Sonar Reasoning Pro Sonar Reasoning Pro combines the deepest web retrieval in the Sonar family with chain-of-thought reasoning to return well-sourced, structured answers within a context window of

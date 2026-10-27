@@ -1,0 +1,310 @@
+NVIDIA
+2026/09/21
+NVIDIA AI for Healthcare and Life Sciences - AI for Healthcare and Life Sciences
+Python | PyTorch | CUDA® | NVIDIA Dynamo | JAX | DeepSpeed ### BioNeMo NVIDIA BioNeMo™ is the development platform for AI-driven biology and drug discovery. The platform includes open models, libraries, datasets, and NVIDIA NIM™ microservices for the entire AI lifecycle...
+
+NVIDIA
+2026/08/27
+NVIDIA AI 专为医疗健康与生命科学打造 - AI 专为医疗健康与生命科学打造
+BioNeMo NVIDIA BioNeMo™ 是面向 AI 驱动生物学与药物研发的开发平台。 该平台涵盖面向整个 AI 生命周期的开放模型、库、数据集和 NVIDIA NIM™ 微服务，可助力研究人员和开发者构建、定制和部署 AI 应用，以推动未来实验。
+
+PyPI
+2026/07/06
+ckg-nvidia-ai - ckg-nvidia-ai
+NIM → TensorRT-LLM → quantization → FP8 precision → Hopper SM90 requirement ... Domain: nvidia-nim; Description: NVIDIA Inference Microservices — deployment, scaling, speculative decoding ... Domain: nvidia-nemo; Description: NeMo framework — training, PEFT, guardrails, evaluation ... Description: TensorRT-LLM + Triton Inference Server — quantization, batching, KV cache ... Domain: nvidia-isaac; Description: Isaac Lab + Isaac Sim — robot learning, sensor simulation ... Description: Healthcare AI — MONAI, Parabricks genomics, BioNeMo, Holoscan SDK
+
+NVIDIA 开发者
+Tag: CUDA
+使用 AI 智能体和 NVIDIA Isaac ROS 加速 ROS 2 节点 ... 使用 BioNeMo 推理运行时进行高吞吐量结构预测 ... 2026年 8月 31日 ### 运行 NVIDIA BioNeMo NIM 微服务，在 Claude Science 中进行蛋白质结构预测
+
+LinkedIn · Fabian Warislohner
+2026/07/28
+NVIDIA's AI Ecosystem Connects Models, Data, and Infrastructure | Greg Coquillo 发布的此话题相关的动态 | 领英 - NVIDIA's AI Ecosystem Connects Models, Data, and Infrastructure
+Isaac GR00T advances humanoid robotics ... and BioNeMo accelerates drug discovery. ↳ Inference NIM turns models into production-ready APIs, TensorRT-LLM optimizes performance on NVIDIA GPUs, and Dynamo supports distributed serving at scale. ... ↳ Platform CUDA-X provides accelerated libraries, AI Enterprise offers supported software...
+
+LinkedIn · Fabian Warislohner
+2026/07/28
+NVIDIA's AI Ecosystem: Models, Inference, Agents, Data, Simulation, and Platform Connect | iSAP.Courses 发布的此话题相关的动态 | 领英 - NVIDIA's AI Ecosystem: Models, Inference, Agents, Data, Simulation, and Platform Connect
+Isaac GR00T advances humanoid robotics, Alpamayo supports autonomous vehicles, and BioNeMo accelerates drug discovery. ↳ Inference NIM turns models into production-ready APIs, TensorRT-LLM optimizes performance on NVIDIA GPUs, and Dynamo supports distributed serving at scale.
+
+LinkedIn · Fabian Warislohner
+2026/07/29
+NVIDIA's AI Ecosystem: The Real Moat | Siba Prasad Hota 发布的此话题相关的动态 | 领英 - NVIDIA's AI Ecosystem: The Real Moat
+– Specialized AI agents • 🌍 Cosmos – Reasoning & world generation • 🦾 Isaac GR00T – Humanoid robotics • 🚗 Alpamayo – Autonomous driving • 🧬 BioNeMo – Drug discovery & life sciences ⚡ Inference • 🚀 NIM – Production-ready model APIs • 🔥 ... ↳ Inference NIM turns models into production-ready APIs, TensorRT-LLM optimizes performance on NVIDIA GPUs...
+
+NVIDIA 开发者
+Tag: 教程
+使用 AI 智能体和 NVIDIA Isaac ROS 加速 ROS 2 节点 ... 2026年 9月 10日 ### 使用 BioNeMo 推理运行时进行高吞吐量结构预测 ... 2026年 9月 8日 ### 介绍 CUDA Rust：用于编写 GPU 内核的两条轨道 ... 使用 NVIDIA NemoClaw 构建内存驱动型智能体
+
+Glama
+2026/09/06
+ckg-nvidia-ai - | `nvidia-hpc-sdk` | 49 | OpenACC, OpenMP, CUDA Fortran, multi-GPU scaling |
+`nvidia-isaac` | 48 | Isaac Lab + Isaac Sim — robot learning, sensor simulation ... | `nvidia-clara` | 45 | Healthcare AI — MONAI, Parabricks, BioNeMo, Holoscan SDK | ... | `nvidia-ai-enterprise` | 50 | Enterprise AI — NIM blueprints, governance, fleet management |
+ChannelOnline
+Lenovo - eVGA Teradici APEX 2800 Server Offload
+Lenovo - eVGA Teradici APEX 2800 Server Offload ... The eVGA Teradici APEX 2800 Server Offload card provides hardware-accelerated PCoIP image encoding for server-hosted virtual desktops.
+
+Level1Techs Forums
+2026/10/23
+EVGA Z790 CLASSIFIED & DUAL EVGA RTX 3090TI FTW3 for Local AI/Fine-tuning? - High-Performance Computing / Workstations & Servers - Level1Techs Forums
+I am also limited to a few cases as well since the 3090TI are thic 3.5 slot GPU’s. I am either planning to sell this PC or use it for Local AI/Fine-tuning.
+
+MSI
+2026/03/17
+微星於 GTC 2026 展示 AI 全面落地佈局 串聯雲端算力與邊緣應用
+橫跨 NVIDIA MGX伺服器 ... 全球高效能伺服器與邊緣運算（Edge AI）領導品牌微星科技（MSI），於 NVIDIA GTC 2026 展示全方位 AI 佈局。除發表 NVIDIA Blackwell 架構的 NVIDIA MGX 模組化伺服器，更推出採用 NVIDIA DGX Station 架構打造的 MSI XpertStation WS300 工作站 ... 打造 4U 與 6U 液冷AI 伺服器組合 ... - CG681-S6093：全新 6U 液冷 AI 平台...
+tdsynnex.com
+Introducing the MSI EdgeXpert, the AI Supercomputer redefines desktop AI computing, delivering petaflop- scale performance throu...
+Introducing the MSI EdgeXpert ... With NVIDIA® AI software stack preinstalled, developers can prototype, fine- tune, and inference the latest generation of reasoning AI models from DeepSeek, Meta, Google, and others. ... MSI EdgeXpert provides an excellent platform for developing robotics, smart cities, and computer vision solutions. NVIDIA® frameworks...
+SITA buys Big Blue Analytics to boost airline recovery
+2026/03/17
+MSI unveils XpertStation WS300 for deskside AI power
+MSI has launched the XpertStation WS300 ... It also cited physical AI and robotics workloads. ... EdgeXpert is based on the Nvidia GB10 Grace Blackwell Superchip, with up to 1 petaflop of AI compute and 128GB of coherent unified memory.
+
+MSI Brasil
+2026/05/31
+MSI Brasil - MSI Acelera Estratégia de IA Empresarial com Ecossistema Cloud-to-Edge na COMPUTEX 2026
+Servidor de IA CG681-S6093 6U refrigerado a líquido, baseado em NVIDIA MGX Construído sobre a arquitetura NVIDIA MGX, este servidor oferece suporte a dois processadores AMD EPYC™ e até oito GPUs NVIDIA RTX PRO 6000 Blackwell Server Edition Liquid Cooled. ... combinando robótica
+
+MSI
+2026/03/17
+MSI Showcases End-to-End AI from Cloud to Edge at GTC 2026
+MSI, a global leader in high-performance server solutions and Edge AI, unveils its comprehensive AI ecosystem at NVIDIA GTC 2026. ... 4500 Blackwell Server Edition GPUs. These platforms are optimized to accelerate a wide range of AI workloads, from data center deployments to edge applications. ... - CG480-S5063 ... NVIDIA MGX ... available starting March 16. ... Models are deployed and monitored via the MSI EdgeXpert platform.
+
+經濟日報
+2026/05/31
+微星科技 COMPUTEX 2026 展現雲端至邊緣 AI 全生態系布局 | 產業熱點 | 產業 | 經濟日報
+CG681-S6093 6U 液冷 AI 伺服器（基於 NVIDIA MGX 架構），支援雙 AMD EPYC™ 處理器與最高 8 張 NVIDIA RTX PRO 6000 Blackwell 伺服器顯示卡。
+
+digitimes
+2026/06/01
+MSI Accelerates Enterprise AI Strategy with Cloud-to-Edge Ecosystem at COMPUTEX 2026
+CG681-S6093 6U Liquid-Cooled AI Server (based on NVIDIA MGX): Built on NVIDIA MGX architecture ... Tarot AI Experience with Reachy Mini: An interactive demonstration of Agentic AI, blending robotics with generative AI to deliver personalized engagement.
+
+TMCnet
+2026/05/31
+MSI Accelerates Enterprise AI Strategy with Cloud-to-Edge Ecosystem at COMPUTEX 2026 - ×
+CG681-S6093 6U Liquid-Cooled AI Server (based on NVIDIA MGX) ... - Tarot AI Experience with Reachy Mini: An interactive demonstration of Agentic AI, blending robotics with generative AI to deliver personalized engagement.
+
+TMCnet
+2026/03/16
+GTC 2026: MSI Drives End-to-End AI Implementation by Bridging Cloud Computing and Autonomous Edge Inspection
+March 17, 2026 /PRNewswire/ -- MSI, a global leader in high-performance server solutions and Edge AI, unveils its comprehensive AI ecosystem at NVIDIA GTC 2026. ... - CG480-S5063...
+
+NetScaler
+2026/10/01
+Route de passerelle IA | CRD NetScaler | NetScaler
+Oct 02, 2026 La définition de ressource personnalisée (CRD) aigatewayroute combine plusieurs backends de service IA et les attache aux ressources Gateway gérées par le contrôleur de passerelle Kubernetes NetScaler®.
+IT Brief India
+2026/07/09
+Citrix adds MCP Gateway to NetScaler for AI traffic - IT Brief India - Technology news for CIOs & IT decision-makers
+Citrix adds MCP Gateway to NetScaler for AI traffic Fri, 10th Jul 2026 ... Citrix has added MCP Gateway functions to its NetScaler platform, extending NetScaler AI Gateway to govern both agentic AI and large language model traffic from one system.
+
+Forkast News
+2026/09/04
+Citrix Bakes Agent Governance Into the Private Cloud, Not as a Bolt-On
+NetScaler AI Gateway's MCP Gateway extension turns the application delivery ... and agentic traffic — bundled into existing Citrix Platform License at no extra cost ... On April 9, 2026, the company launched NetScaler AI Gateway, extending its existing infrastructure to handle LLM-specific traffic, including token-based rate limiting, latency-based load balancing...
+
+Citrix
+2026/04/08
+Citrix Introduces NetScaler AI Gateway to Bring Enterprise Governance to AI Application Delivery - Citrix
+Citrix Introduces NetScaler AI Gateway to Bring Enterprise Governance to AI Application Delivery ... – April 9, 2026 – Citrix ... today announced new AI governance capabilities for NetScaler® ... NetScaler® AI Gateway helps control large language model (LLM) costs and performance, and secure AI application delivery across the enterprise.
+
+TMCnet
+2026/04/08
+Citrix Introduces NetScaler AI Gateway to Bring Enterprise Governance to AI Application Delivery - ×
+Citrix, a Cloud Software Group company, today announced new AI governance capabilities for NetScaler®, its modern, high-performance application delivery and security platform. NetScaler® AI Gateway helps control large language model (LLM) costs and performance, and secure AI application delivery across the enterprise.
+
+NetScaler
+2026/09/29
+AI Gateway route | NetScaler CRDs | NetScaler
+Sep 30, 2026 The aigatewayroute custom resource definition (CRD) combines multiple AI service backends and attaches them to Gateway resources managed by NetScaler® Kubernetes Gateway Controller. ... - Built-in TCP, HTTP, and streaming analytics for observability of AI traffic patterns, token usage, and backend performance.
+ERP Today
+2026/07/14
+AI Agents Need a Gateway, and Citrix Is Putting NetScaler in the Middle
+⇨ Citrix's new NetScaler MCP Gateway enhances governance for large language models (LLM) and agentic AI traffic, providing enterprises with secure routing and centralized policy controls to manage agent interactions efficiently. ... announced on July 9 that it has added Model Context Protocol (MCP) Gateway functionality to NetScaler AI Gateway...
+
+@VMblog
+2026/04/09
+Citrix Introduces NetScaler AI Gateway to Bring Enterprise Governance to AI Application Delivery - VMblog
+Citrix announced new AI governance capabilities for NetScaler, its modern, high-performance application delivery and security platform. NetScaler AI Gateway helps control ... and performance, and secure AI application delivery across the enterprise. ... NetScaler AI Gateway builds on Citrix’s broader secure-by-design approach to AI...
+
+MarketScreener
+2026/04/08
+Citrix introduceert NetScaler AI Gateway - a09a5a817f5d325ee6.8YG_JXapZyEswiMfAlW90cTB4DXrn8cM3SEGVX4n_8c
+Gepubliceerd op 09-04-2026 om 22:52 ... De NetScaler® AI Gateway helpt bij het beheersen van de kosten en prestaties van Large Language Models (LLM) en beveiligd de levering van AI-applicaties binnen de gehele onderneming.
+Citrix ASEAN
+2026/06/02
+Secure, Governed, and High-Performance AI with NetScaler AI Gateway - Citrix Asean and South Asia
+Lanroy Corte | 2 June 2026 ... ” This is where the AI Gateway capability of Citrix NetScaler becomes a critical enabler. NetScaler AI Gateway is not just a proxy for AI traffic, it acts as a control plane for enterprise AI consumption ... and optimize performance across multiple AI models.
+SCSK Minoriソリューションズ株式会社
+2026/07/28
+IBM i×AIエージェント実践：IBM Bobとwatsonxで進める開発自動化と外部連携設計 | イベント・セミナー | SCSK Minoriソリューションズ株式会社
+本ウェビナーでは、こうした課題に対し、IBM BobによるAIエージェントを活用した開発変革と、watsonx OrchestrateおよびMCPサーバを用いた外部システム連携に焦点を当て、IBM i環境におけるAI活用の現実的なアプローチを解説します。既存資産を活かした開発・運用の効率化と業務自動化の進め方から... ... セミナータイトル: 開催日時; IBM i×AIエージェント実践：IBM Bobとwatsonxで進める開発自動化と外部連携設計: 2026-07-29 13:00-14:00
+semiug.org
+IBM i in 2026 Collaborative Strategy in the Era of AI
+Client Innovation ... Automated Manufacturing Integrated with Business ERP written in Modern RPG E- Commerce that combines Open Source, RPG, SQL and Watson Geospatial Analytics ... Pervasive AI ... AI with IBM i Today PyTorch watsonx Wallaroo.AI
+Nalashaa
+2026/02/01
+AI for AS/400 (IBM i): Where It Fits and What to Watch Out For
+developers were discussing tools like watsonx Code Assistant, ARCAD Discover, and even ... legacy code flows. ... With the launch of watsonx Code Assistant for i in May 2025, IBM has made GenAI-driven RPG analysis and refactoring a central pillar of its modernization roadmap.
+IBM i (AS/400, RPG) Recruiting, Staffing & Consulting
+2026/03/16
+Talsco Weekly: How IBM i is Redefining Enterprise AI - IBM i (AS/400, RPG) Recruiting, Staffing & Consulting -
+🤖 IBM killed Watson Code Assist. Meet the AI that replaced it. ... 💻 IBM killed Watson Code Assist. Meet the AI that replaced it. ... IBM’s Project Bob ... March 24th, 2026. ... 💻 IBM killed Watson Code Assist. ... Last September, IBM was on track to launch Watson Code Assist for i. Ahead of the launch...
+
+Infoseek
+2026/05/13
+『ブラックボックス化したIBM i、AIで機能追加、コード修正できるか？』というテーマのウェビナーを開催｜Infoseekニュース - ×
+実際、GxPグループでもIBM watsonx Orchestrateを自社人事部門に導入し、PoC設計から運用開始まで約2か月、申請業務の作業時間を約83%削減した実績があります ... watsonx Orchestrate――。
+e-bellnet.com（IBM i （AS/400）ユーザーのための関連技術情報サイト）
+2026/05/12
+IBM、Bob 1.0の一般公開へ向けて準備を進める｜IBMｉ海外記事｜e-bellnet.com（IBM i （AS/400）ユーザーのための関連技術情報サイト）
+この新たなAI搭載コーディング アシスタントは、IBMがすでにSystem Zメインフレーム向けに展開していたWatsonx Code Assistantを置き換えることとなりました。また ... Bobは、Anthropic社のClaude、Meta社のLlama、および Mistral AIとともに、IBM独自のGranite基盤モデルを併用するマルチモデル アプローチを使用します。
+블로그 — LabHub
+2026/05/15
+Mainframe & Legacy Systems in 2026 — IBM z17 (Sept 2025) / IBM i / COBOL / RPG / JCL / CICS / watsonx Code Assistant for Z Deep Dive — LabHub Blog
+IBM i (formerly AS/400) — 130,000+ companies still operate it. ERP ... IBM's watsonx Code Assistant for Z translates COBOL into Java. ... IBM i (formerly AS/400) — 130K+ Companies
+Umetna inteligenca v Sloveniji
+2026/07/22
+Kako IBM z umetno inteligenco preoblikuje prihodnost mainframe računalništva
+Eden izmed pomembnih primerov je IBM Watson za z/OS, ki omogoča uporabo naprednih analitičnih AI orodij neposredno na mainframe platformah. Ta rešitev ... avtomatizirano odkrivanje anomalij ... izboljšuje nadzor nad varnostjo podatkov.
+e-bellnet.com（IBM i （AS/400）ユーザーのための関連技術情報サイト）
+2026/02/11
+Bobは単なるコード アシスタントではない、IBM i チーフ アーキテクトのWill氏は語る｜IBMｉ海外記事｜e-bellnet.com（IBM i （AS/400）ユーザーのための関連技術情報サイト）
+IBMがIBM i 7.6 TR1および7.5 TR7向けの 秋のテクノロジー リフレッシュ を発表したのと時を同じくして 10月初旬に公開された この新たなソフトウェアは、大規模言語モデルから開発された主要なコーディング コパイロットとして Watson Code Assistに置き換わる ことになります。
+블로그 — LabHub
+2026/05/15
+メインフレーム & レガシーシステム 2026 — IBM z17 (2025.9) / IBM i / COBOL / RPG / JCL / CICS / watsonx Code Assistant for Z 深掘りガイド — LabHub ブログ
+IBM i (旧 AS/400) — 130,000 社以上が運用中。ERP ... IBM watsonx Code Assistant for Z は COBOL を Java へ変換し、GitHub Copilot は COBOL 補完を支援し ... 2026 年時点では Power10 上で IBM i 7.5 / 7.6 などが動いている。
+
+Samsung Fabs Face First Shutdown in 42 Years as Talks Collapse
+2026/02/25
+Samsung Unveils Galaxy S26, Ushering in Multi-AI Phone Era
+The Galaxy S26 is set to launch as the first multi-AI phone in the Galaxy series, combining Perplexity with Gemini and Samsung's proprietary AI model Gauss to maximize functionality. ... For the mobile application processor, the standard and Plus models are likely to feature Samsung's Exynos 2600...
+
+arcpublishing.com
+2026/02/10
+サムスン電子米国で26日ギャラクシーS26公開 AI搭載強化 - CHOSUNBIZ
+このほかS26にはサムスン電子が自社開発したアプリケーションプロセッサ（AP）「Exynos 2600」を搭載する可能性が高く、これを基盤にオンデバイスの画像生成モデル「EdgeFusion」が適用される見通しだ ... 最上位モデルのウルトラにはExynos 2600ではなく ... Elite第5世代が搭載されると予想されている。
+TechPulse
+2025/02/06
+Samsung zet ontwikkeling eigen AI-systeem Gauss stop - TechPulse
+Samsung gooit ... Samsungs Gauss AI werd in 2023 gelanceerd als een intern AI-model dat tekst, code en afbeeldingen kon genereren. ... Daarnaast gebruikt de volledige S25-serie de Snapdragon 8 Elite-chipset, omdat Samsungs eigen Exynos-productie niet op tijd op orde was.
+
+ITHardware
+2025/02/06
+To koniec technologii Samsunga. Firma postawi na zewnętrzne rozwiązania
+Na przykład w smartfonach Galaxy S25 wykorzystano model Gemini AI opracowany przez Google. ... Obecnie Samsung planuje zastąpić Gauss zewnętrznymi modelami AI, aby poprawić wskaźniki wydajności, przewidywać defekty i optymalizować procesy produkcyjne.
+تطبيق نبض
+شاسيه / تسريب يكشف أن سلسلة Galaxy S26 ستعتمد كليًا على نموذج Gauss للذكاء الاصطناعي
+قوة على الجهاز لا في السحابة فقط قال التقرير إن التركيز الأكبر في استراتيجية سامسونج يتمحور حول تشغيل جزء كبير من قدرات Gauss على الجهاز نفسه، خاصة على الجيل الجديد من معالجاتها المخصصة Exynos ومعالجات Snapdragon الداعمة لوحدات NPU الأقوى.
+datavook.com
+2026/08/31
+Samsung Galaxy S26 Leaks: 7B On-Device AI Model
+First, Samsung is expected to use a next-generation Exynos 2600 processor alongside Snapdragon 8 Elite Gen 2 variants, depending on region. ... firmware references mention a model called Samsung Gauss Nano, a compact version of the company's Gauss AI family. ... It appears to be a 7
+
+Tyler Technologies, Inc. (TYL)
+2025/12/17
+Samsung Galaxy S26 將以獨家 AI 功能與強大的全新 Exynos 2600 晶片亮相 — BigGo 財經
+Samsung Galaxy S26 將以獨家 AI 功能與強大的全新 Exynos 2600 晶片亮相 ... 這項功能內建於目前的測試版中但未啟用，它利用 Samsung 自家的 Gauss AI 模型來分析並濃縮使用者過去 24 小時的通知，將其整理成簡潔易讀的摘要。
+
+ABP Live English
+2025/12/16
+Samsung Bringing Its Own ‘Gauss’ AI To Galaxy S26? Here’s What The Leak Reveals - Samsung Bringing Its Own ‘Gauss’ AI To Galaxy S26? Here’s What The Leak Reveals
+Annie Sharma | 17 Dec 2025 11:20 AM (IST) ## Samsung could shift Galaxy S26 to full on-device AI using Gauss, reducing cloud dependence but increasing memory demands, as the company bets on smarter s
+
+PhoneArena
+2025/12/13
+Galaxy S26 series' trump card has finally leaked
+Samsung's generative artificial intelligence model Gauss will be more deeply integrated into the Galaxy S26 than previous models ... It looks like new ... Gauss will be built into the Galaxy S26 series, enabling many AI features that older Samsung phones might not be able to fully support.
+
+Phandroid
+2025/12/14
+Samsung Is Hiding Something Big in the Galaxy S26, and It's Not the Cameras - Phandroid - Samsung Is Hiding Something Big in the Galaxy S26, and It’s Not the Cameras
+The company plans to feature its in-house Gauss ... Gauss is Samsung’s own family of generative AI models, refined into “Gauss 2.0” and designed to run on-device for things like text summarization, image generation, and language assistance.
+
+36Kr
+2025/12/19
+Samsung's Major Move: Integrating Local Large Model into S26 - Is On - device AI Battle in Mobile Phone Market Imminent? - Samsung is preparing a major move: Its local large model will be integrated into the S26. Is the on-device AI battle in the mobi...
+Recently, the X platform Semi - retired - ing revealed that Samsung will prepare a large - scale model that can run locally on the upcoming Galaxy S26 series to implement most AI functions. ... Samsung demonstrated a local large - scale model called "Gaussian" in 2023 ... was pre - installed in the Galaxy S25 series.
+
+Journal du Geek
+2025/12/19
+Galaxy S26 : Samsung mise gros une fonction maison pour se démarquer - Passer au contenu
+Gauss, son modèle d’IA générative dévoilé il y a deux ans, est ... mais toujours de manière assez discrète. ... Selon le leaker @chunvn8888, Gauss serait cette fois intégré en local dans le Galaxy S26, et non plus utilisé de façon hybride entre le smartphone et le cloud.
+
+iXBT.com
+2025/12/14
+Смартфоны серии Samsung Galaxy S26 будут поддерживать эксклюзивные функции ИИ за счет языковой модели Gauss / Смартфоны и телефоны / iXBT Live
+в телефонах серии Galaxy S26 языковая ... Технология Gauss будет глубже интегрирована в серию Galaxy S26, что позволит реализовать множество ИИ-функций, которые могут быть недоступны в полном объёме на более ранних моделях Samsung.
+
+亜州日報
+2026/10/13
+サムスン電子、独自開発した生成型AI「サムスンガウス」公開 | 亜洲日報
+サムスンガウスはマシンラーニング技術を基盤に、▲テキストを生成する言語モデル（Samsung Gauss Language） ... Gauss Code） ▲イメージを生成するイメージモデル（Samsung Gauss Image）の3モデルで構成されている。 言語モデルはクラウド(Cloud)とオンデバイス(On-device)のための多様なモデルで構成されている。
+
+C114
+2025/12/19
+三星憋大招：本地大模型上车S26，手机AI的端侧大战要打响了？ - 三星憋大招：本地大模型上车S26，手机AI的端侧大战要打响了
+近期，X平台Semi-retired-ing透露，三星将在即将发布的Galaxy S26系列上准备一套能够在本地运行的大模型，用于实现大部分AI功能。这套大模型甚至拥有高级权限 ... 实际上，三星在2023年就曾展示过一套名为“高斯”的本地大模型，也曾被指出这套模型已经在Galaxy S25系列里预装。但不知出于何种原因...
+
+亜州日報
+2026/10/12
+サムスン電子、ギャラクシーS24にAI内蔵…「Gemini・GPT-4」搭載に注目 | 亜洲日報
+13日、業界によると、サムスン電子は来月17日に発売予定のギャラクシーS24シリーズに自社のAI「サムスンガウス（Samsung Gauss）」以外に他社のAIモデルをオンデバイスで内蔵する案を推進しているという ... サムスン電子が10月末、3四半期の実績発表を通じてギャラクシーS24をオンデバイスAI機器として開発中だと示唆した以後、独自のAIであるサムスンガウスだけを搭載するだろうという観測が優勢だった。
+
+زومیت
+2025/12/13
+گلکسی S26 عمیقا با هوش مصنوعی ادغام خواهد شد - زومیت
+سامسونگ با ادغام عمیق هوش مصنوعی Gauss در گلکسی S26 شاید تمایزی قابل توجه نسبتبه سایر پرچمدارانش ایجاد کند. تبلیغات بر اساس ادعای افشاگر یکی از افشاگران، مدل هوش مصنوعی Gauss سامسونگ در سری گلکسی S2
+
+Samsung Semiconductor
+2026/02/19
+Exynos 2500 | Mobile Processor | Samsung Semiconductor Global
+Thanks to its powerful NPU that can run up to 59 trillion operations per second (TOPS), the Exynos 2500 brings on-device AI that represents a 39% improvement over its predecessor.¹ These powerful...
+
+Samsung Semiconductor
+2026/06/11
+엑시노스 2600 | 모바일 프로세서 | 삼성반도체
+엑시노스 2600은 전작 대비 생성형 AI 성능이 113% 향상된 강력한 NPU를 통해 AI 처리 능력을 크게 확장합니다.³ 이를 기반으로 더 크고 다양한 온디바이스 AI 모델을 구동할 수 있게 되었으며, NPU 아키텍처 개선으로 전력 소모와 지연 시간을 낮춰 생성형 AI 연산 효율을 더욱 높였습니다. 그 결과 이미지 편집...
+
+Samsung
+2026/08/18
+Galaxy S26 FE - Galaxy S26 FE darbojas ar Exynos 2500 procesoru, kas ir izstrādāts, lai nodrošinātu izcilu centrālā procesora, grafikas procesor...
+Galaxy S26 FE darbojas ar Exynos 2500 procesoru, kas ir izstrādāts, lai nodrošinātu izcilu centrālā procesora, grafikas procesora, neironu procesora (NPU) un mākslīgā intelekta (AI) veiktspēju. • Šis procesors ir izstrādāts ... • Uzlabotā neironu procesora (NPU) pastiprinājums nodrošina ātrāku un viedāku AI veiktspēju. 18
+
+TechPowerUp
+2026/10/23
+News Posts matching #Samsung - Hours ago, Samsung Semiconductor's website was updated with an extensive Exynos 2600 splash page
+The Exynos 2600 chip's 32K MAC NPU supposedly exceeded expectations ... about six times ... There will also be a separate AI engine with a 32K MAC NPU and Post-Quantum Cryptography (PQC).
+
+ePrice 行動版
+2026/09/03
+GPU 與 NPU 超大！Exynos 2700 處理器內部大曝光
+三星旗下 Exynos 處理器沉寂了多年，今年的 Exynos 2600 終於交出了還算不錯的成績單，接下來的 Exynos 2700 似乎也被三星寄予厚望，從最新的處理器內部圖片來看，Exynos 2700 不僅擁有高時脈 CPU，GPU 與 NPU 也因應 AI 時代加大了不少。 獨立半導體與 AI 的產業研究機構 SemiAnalysis 在 Twitter/X 上，公布了一張號稱是 Exynos 2700 內部佈局的圖片，可能因應 AI 功能的蓬勃發展，Exynos 2700 的 NPU 佔據了相當大的面積，Xclipse 970 GPU 的規模基本上也與 CPU 一樣大。
+
+IT之家
+2026/09/02
+三星 Exynos 2700 芯片曝光：SF2P 工艺、双主核设计，Galaxy S27 系列手机首发
+该媒体在推文中分享了一张 Die Shot 图片，显示三星 Exynos 2700 芯片配备更大尺寸的 NPU、24 MB SLC 与 Xclipse 970 GPU。其 GPU 配备 8 个 WGP，与 Exynos 2600 的 Xclipse 960 数量一致。
+
+Sohu
+2026/09/02
+三星Exynos 2700芯片曝光：增强2nm工艺、双主核设计
+2026-09-03 07:04 发布于：山东省 IT之家 9 月 3 日消息，半导体分析机构 @SemiAnalysis_ 昨日（9 月 2 日）在 X 平台发布推文，透露称三星 Exynos 2700 芯片可能采用 Samsung Foundry（三星晶圆代工）SF2P 工艺，Galaxy S27 系列有望首发。 IT之家注：SF2P 是三星晶圆代工的第 2 代 2 nm 逻辑制程，名称
+
+ShiftDelete.Net
+2026/03/25
+Samsung Exynos 1680 Introduced! Mid-Range is Set to Soar! - Samsung Exynos 1680 Introduced! Mid-Range is Set to Soar!
+# Samsung Exynos 1680 Introduced! Mid-Range is Set to Soar! Samsung has unveiled the new 4nm Exynos 1680 processor, which will power the Galaxy A57 model. Here are its specifications. Just hours bef
+
+IT之家
+2026/10/01
+消息称三星电子已量产 Exynos 2700 处理器，Galaxy S27 系列手机将搭载
+感谢IT之家网友 不一样的体验 的线索投递！ IT之家 10 月 2 日消息，博主 @i冰宇宙 今日发文称，三星电子已开始量产 Exynos 2700 处理器，该处理器是 Galaxy S27 系列智能手机的核心部件。据悉，其产量比上一代产品提高了 10%。 IT之家注意到，三星 Exynos 2,700 工程样片 GeekBench 跑分已经曝光，6.7.1 版本单核成绩为 4,328 分，
+
+网易手机
+2026/10/01
+消息称三星电子已量产Exynos 2700处理器
+3 分享至 IT之家 10 月 2 日消息，博主 @i冰宇宙 今日发文称，三星电子已开始量产 Exynos 2700 处理器，该处理器是 Galaxy S27 系列智能手机的核心部件。据悉，其产量比上一代产品提高了 10%。 IT之家注意到，三星 Exynos 2,700 工程

@@ -1,0 +1,340 @@
+
+Apple
+2026/09/13
+The next generation of Apple Intelligence is available today
+Users with a supported product set to a supported language can start experiencing these new features today with iOS 27, iPadOS 27, macOS 27 ... - Apple Intelligence in iOS 27, iPadOS 27 ... and visionOS 27 is available on iPhone 16 models or later, iPhone 15 Pro...
+
+Apple
+2026/09/13
+La nouvelle génération d’Apple Intelligence est disponible dès aujourd’hui
+ACTUALITÉ 14 septembre 2026 # La nouvelle génération d’Apple Intelligence est disponible dès aujourd’hui ... ce qui rend l’iPhone, l’iPad, le Mac ... Les utilisateurs disposant ... nouvelles fonctionnalités dès aujourd’hui avec iOS 27, iPadOS 27, macOS 27...
+
+Apple
+2026/06/07
+Apple Intelligence brings powerful AI capabilities into everyday experiences
+PRESS RELEASE 08 June 2026 ... This makes the apps and experiences users rely on every day across iPhone, iPad, Mac, Apple Watch, AirPods, and Apple Vision Pro more personal and helpful than ever. ... an all-new Image Playground that creates photorealistic imagery...
+
+Numerama
+2026/06/08
+Le nouveau Siri expliqué : cinq modèles maison, le vrai rôle de Google Gemini et des GPU Nvidia
+Deux ans après le lancement raté d’Apple Intelligence, la marque a profité de la WWDC 2026 du 8 juin 2026 pour repartir de presque zéro. ... seuls les iPhone 17 Pro, iPhone Air et iPad/Mac M3 sont éligibles. ... Les cinq modèles alimentent de nombreuses fonctions dans iOS 27, iPadOS 27 et macOS 27...
+
+Ars Technica
+2026/09/13
+Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements - Skip to content
+Siri AI and other “Apple Intelligence” features are primarily driven by a handful of Apple-developed models, most of them labeled AFM 3. On-device, there’s AFM 3 Core with 3 billion parameters, and AFM 3 Core Advanced ... there are AFM 3 Cloud...
+
+Portail Orange
+2026/06/07
+Apple annonce Siri AI avec ses propres modèles et un entraînement Google : le vrai début de l'IA sur iPhone ? - Apple annonce Siri AI avec ses propres modèles et un entraînement Google : le vrai début de l'IA sur iPhone ?
+intégré à iOS et macOS ... l'assistant vocal s'appuie désormais sur les Apple Foundation Models ... conçus avec l'aide de Google et de sa technologie Gemini, et intégrés au sein d'Apple Intelligence. Précision importante ... Sur macOS 27, Siri AI s'intègre à Spotlight...
+
+Mashable India
+2026/06/07
+Apple Finally Unveils Long-Awaited Apple Intelligence Updates At WWDC 2026 - Apple Finally Unveils Long-Awaited Apple Intelligence Updates At WWDC 2026
+These models will run on private servers using cloud compute and will be powered by Google Gemini models. ... improved language understanding, and enhanced transcription. ... Here's the full list of all the Apple Intelligence features coming to iPhone, iPad, Mac, Apple Watch, AirPods, and Apple Vision Pro.
+
+DeepLearning.AI
+2026/06/25
+2026's Apple Foundation Models Bring AI to MacBooks, iPhones, and the Cloud
+The third generation of Apple Foundation Models — fruit of Apple’s collaboration with Google — introduces a variation on the mixture-of-experts architecture that runs on local devices. ... AFM 3 Core Advanced ... Available in fall 2026 with Apple operating system updates to Macs and iPhone 17 Pro/Max/Air phones
+
+Yahoo
+2026/06/07
+The Biggest Apple Intelligence Upgrade Yet Is Focused on You and Your Privacy
+At WWDC 2026 today, we got details of the biggest Apple Intelligence upgrade since it launched, with a focus on understanding users and keeping data private. The updates will roll out across iPhones, iPads, and Macs ... though you won't see a Google logo or "powered by Gemini" message anywhere.
+
+CNET
+2026/06/08
+What Happens When Apple and Google Team Up to Build AI? 5 New Models - CNET - Skip to content
+Apple and Google worked together to make new foundational Apple Intelligence models. Here's what's inside them. Apple’s substantial AI upgrade has been rumored for a long time, but we got a closer lo
+
+Apple Developer
+2026/06/16
+Inside Apple Intelligence and Xcode: Special Presentation - WWDC26 - Videos - Apple Developer - Every year you folks blow our minds by building things with App Intents that we couldn't even imagine
+It gives you direct access to a large language model built right into the system all through a powerful native Swift API. ... And both of these now have an open source package, letting you run a variety of on device models, all with our unified Swift API in the Foundation Models framework.
+
+developer.apple.com
+AFM 3 Cloud Model Documentation Form
+</td><td>AFM 3 Cloud is available to Apple developers through the Foundation Models framework API, for use in their apps distributed on the App Store in regions where Apple Intelligence is available. ... users.<br>AFM 3 Cloud is a server-based model accessed through the Foundation Models framework API from an app with a Private Cloud Compute entitlement.
+Peter Friese
+2026/08/17
+Apple Foundation Models: Hybrid AI with Dynamic Profiles
+Apple’s Foundation Models framework gives us free, private, and on-device access to AI. It’s got an easy-to-use API ... Thanks to Apple’s open sourcefoundation-models-utilities package, you can even connect to any model that supports OpenAI’s Completions API.
+
+NPM
+2026/08/13
+macos-foundation-models - ⚠️
+Node bindings for Apple’s Foundation Models, with AI SDK support and an OpenAI-compatible server ... Requires Apple-silicon Mac on macOS 26.0+ with Apple Intelligence and its model assets installed. ## API import { createSession ... GET /v1/models/:id | Advertises
+
+Rdrr
+2026/09/23
+config_Apple: Create an Apple Foundation Models Config Object in rtemis.llm: Large Language Models and Agentic AI - config_Apple: Create an Apple Foundation Models Config Object In rtemis.llm: Large Language Models and Agentic AIconfig_AppleR D...
+Apple's on-device Foundation Model (the model behind Apple Intelligence) is reached through the rtemis-afm bridge, which serves it over the OpenAI Chat Completions wire on http://127.0.0.1:1977. Install and start the bridge with
+
+Dyson CameraJet - King of Computer Media
+2026/08/21
+Apple is giving away its AI cloud model PCC to small developers for free! Here's everything you need to know about what PCC is, how to apply, where to use it, and its limitations. - King of Computer Media
+” this year’s shock is “delivering cloud models to developers for free.” Apple announced at WWDC26 that eligible developers can call Apple Foundation Models running in the cloud free of charge through Private Cloud Compute (PCC), without paying any cloud API fees.
+
+GitHub
+2026/10/19
+[AI] Add Apple Foundation Models chat support and shared local-provider contracts by mattleibow · Pull Request #720 · dotnet/maui-labs
+[AI] Add Apple Foundation Models chat support and shared local-provider contracts - #720 ... Adds the Apple Foundation Models implementation for the shared local-chat contracts introduced by #724. Apple chat is supported on eligible Apple Intelligence devices running OS 26+, with additional native capabilities on OS 27. - Implement the Swift Foundation Models bridge and managedAppleIntelligenceChatClient: text/structured streaming...
+heise online
+2026/06/10
+Apple releases large cloud model for free to smaller developers - Advertisement
+Apple is visibly proud of its third-generation Apple Foundation Models (AFM) ... API costs, according to Shaffer, are not incurred for AFM in the cloud. ... Apple offers a total of five new models. AFM 3 Core and AFM 3 Core Advanced run locally on devices, with three billion parameters and 20 billion respectively (as a “sparse” architecture that requires less memory).
+
+Hugging Face
+2026/08/14
+mlboydaisuke/Shieldstral-CoreAI · Hugging Face - Core AI is Apple's on-device ML runtime in iOS 27 / macOS 27 and the successor to Core ML: PyTorch models are exported with Appl...
+27 / macOS 27 and the successor to Core ML ... Shieldstral-1.0-3B — Apple Core AI (.aimodel) Mistral's 3B safety model converted to Apple's Core AI (the Core ML successor announced at WWDC26), for macOS 27 and iOS 27. Twelve languages...
+
+Hugging Face
+2026/09/24
+README.md · mlboydaisuke/MiniCPM5-1B-CoreAI at main - license: apache-2.0
+Apple **Core AI** (`.aimodel`) conversion of [openbmb/MiniCPM5-1B](https://huggingface.co/openbmb/MiniCPM5-1B) — OpenBMB's 1.08B ... **128K** context, reaching
+
+Hugging Face
+README.md · mlboydaisuke/qwen3.5-0.8B-CoreAI at 4c804badc8df14dee3182973abf56f259e97f0cc - File size: 8,971 Bytes
+Qwen3.5-0.8B converted to Apple's Core AI** (the Core ML successor announced at WWDC26), ready to run on iOS 27 / macOS 27. ... Hugging Face reference**.
+Empréstimos Lastreados em RWA: O Verdadeiro DeFi 2.0 | CEVIU
+2026/10/20
+AnyLanguageModel 1.0 chega e unifica modelos locais
+AnyLanguageModel 1.0 chega e unifica ... com open-weight via llama.cpp, MLX e Core ML, ou com providers hospedados como OpenAI, Anthropic, Private Cloud Compute e Hugging Face Inference Providers. ... e o Qwen3.8 ... GB ou mais. ... o modelo do sistema, llama.cpp, MLX e Core ML. ... Private Cloud Compute no OS 27 e Hugging Face Inference Providers.
+AI and Tech Summaries - AI Weekly Malaysia
+2026/10/19
+AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms - AI Weekly Malaysia
+AnyLanguageModel 1.0 ships as a drop-in replacement for Apple's Foundation Models framework ... open-weight models via llama.cpp/MLX/Core ML ... and the hosted list now covers OpenAI Chat Completions/Responses, Open Responses ... Ollama, Private Cloud Compute on OS 27...
+Hackers
+2026/10/23
+Hugging Face, Apple Foundation Models 코드를 그대로 로컬과 클라우드에서 사용 가능하게 하는 AnyLanguage…
+Apple Foundation Models 코드를 그대로 ... 요약 Hugging Face가 Apple Foundation Models API를 그대로 따르는 Swift 패키지인 AnyLanguageModel 1.0을 발표했습니다. ... Core ML, 클라우드 API를 바꿔 쓸 수 있습니다. ... 展开Hugging Face, Apple Foundation Models 코드를 그대로 로컬과 클라우드에서 사용 가능한 AnyLanguageModel 1.0 공개핵심 요약 Hugging Face가 Apple Foundation Models API를 그대로 따르는 Swift 패키지인 AnyLanguageModel 1.0을 발표했습니다. import 한 줄만 바꾸면 같은 세션 코드로 시스템 모델...
+
+파이토치 한국 사용자 모임
+2026/10/22
+Hugging Face, Apple Foundation Models 코드를 그대로 로컬과 클라우드에서 사용 가능한 AnyLanguageModel 1.0 공개 - 읽을거리&정보공유 - PyTorchKR - post by 9bow 18시간 전
+llama.cpp, Core ML, 클라우드 API를 바꿔 쓸 수 있습니다. ... 이후의 세션 코드는 시스템 모델, llama.cpp, MLX, Core ML로 실행하는 오픈 가중치 모델, 그리고 아래의 클라우드 제공자에서 그대로 동작합니다.
+
+LinkedIn · Fabian Warislohner
+2026/06/10
+#wwdc26 | Cane Allesta - Cane Allesta的动态
+Apple’s Foundation Models story at WWDC26 is basically this ... Apple isn’t just shipping another SDK update; it’s trying to make Foundation Models the Swift-native control plane for any model, anywhere Swift runs, including Linux. Open source core framework...
+
+Tech Research Online
+2026/08/03
+Apple Expands Foundation Models at WWDC 2026 Event
+Apple announced updates to Foundation Models at the WWDC 2026. The updates largely focus ... operating systems and supporting third-party AI systems. ... During the WWDC 2026 keynote, Apple announced two major updates to its Foundation Models framework. ... Apple has also extended support beyond Apple platforms. The company will also support Linux, which makes its Foundation Model framework accessible to AI researchers and developers.
+Noticias AI
+2026/06/27
+Apple abre su IA a Python y Linux, pero no como muchos creen - Noticias AI
+abrir el Foundation Models framework, publicar un SDK para Python y permitir que parte del ecosistema funcione también en Linux. ... El movimiento llega tras los anuncios de WWDC26 y tiene una lectura clara: Apple quiere que su infraestructura de inteligencia artificial deje ... incluidos servidores Linux. ... no todo lo que Apple abre en Linux equivale a ejecutar gratis los modelos de Apple en cualquier servidor.
+
+Administración de Sistemas
+2026/06/27
+Apple lleva su IA a Python y abre la puerta a Linux, pero el truco está en la arquitectura - Administración de Sistemas
+abrir más piezas de su Foundation Models framework y permitir que esa capa pueda funcionar fuera del Mac, también en servidores Linux allí donde Swift tenga soporte. ... El titular fácil es decir que Apple ha puesto su IA gratis en Linux. La realidad es más interesante ... Apple sigue usando Linux como pieza de infraestructura compatible con Swift y con proveedores, no como plataforma abierta para su modelo local.
+
+DEV Community
+2026/06/17
+What's New in Apple's Foundation Models Framework at WWDC 2026 - DEV Community
+multimodal, agentic ... WWDC 2026 blows that scope wide open. ... It gained agentic primitives. It got a Python SDK, a CLI, an evaluations framework, and it's going open source this summer, including on Linux.
+
+GitHub
+2026/10/02
+GitHub - Geramy/LemonSeed-Studio: An iPad IDE with local LLM inference on an AMD GPU over Thunderbolt: the upstream Linux amdgpu driver embedded as DriverKit, LemonSeed Engine, and live GPU telemetry. · GitHub - GitHub - Geramy/LemonSeed-Studio: An iPad IDE with local LLM inference on an AMD GPU over Thunderbolt: the upstream Linux amdgpu...
+An iPad IDE with local LLM inference on an AMD GPU over Thunderbolt: the upstream Linux amdgpu driver embedded as DriverKit, LemonSeed Engine, and live GPU telemetry. · GitHub ... ** the unmodified upstream Linux `amdgpu` \+ `amdkfd` driver, embedded in the app as a PCIDriverKit extension.
+
+Benzinga
+2026/08/27
+Apple’s Mac Is ‘Hostile’ To AI Agents, Coder Says Linux Could Win - Apple (NASDAQ:AAPL) - August 28, 2026 2:04 PM 3 min read
+calling a Linux takeover of the desktop “the most probable outcome at this point.” ... Linux’s cryptic commands and configuration files scared off mainstream users for decades. ... At 37signals, where he is CTO, the Mac stopped being the exclusive default in 2024 as the company moved toward Linux for developers, and he has since created his own Linux distribution, Omarchy.
+GitHub
+router bridge parity, configurable routing policies, and native macOS integration (App Intents, MenuBarExtra, design tokens, login item). ... - **macOS:** ... - **Source:** `git pull && uv sync` - **Linux/Windows:** deb/rpm/zip from the same release tag
+
+DEV Community
+2026/06/08
+WWDC 2026: App Intents, Foundation Models, and what RN devs should ship - DEV Community
+The framework now ships a Python SDK, runs on Linux, and accepts image input from third-party apps. ... Linux support ... Apple shipped a Python SDK for Foundation Models and made the framework run on Linux. An Apple Intelligence-adjacent runtime is now callable from a Python script on a Linux server.
+byteiota | From Bits to Bytes
+2026/06/08
+Apple Foundation Models WWDC 2026: Multimodal + Python SDK | byteiota - Apple shipped nine updates to the Foundation Models framework at WWDC 2026 on June 8 — and the one buried at the bottom of the r...
+Apple shipped nine updates to the Foundation Models framework at WWDC 2026 on June 8 ... the release notes is the most interesting: the framework now runs on Linux. ... More notably, Apple open-sourced the Foundation Models framework utilities package and confirmed that the core framework runs on Linux servers via Swift’s open-source runtime.
+
+Vietnam.vn
+2026/10/07
+Microsoft intensiviert den Wettlauf um die Integration von KI in PCs. - Microsoft intensiviert den Wettlauf um die Integration von KI in PCs.
+Microsoft möchte Windows in eine Plattform für KI-Agenten verwandeln ... Auch Konkurrent Apple möchte mit seinen neuen Mac-Modellen von dieser Chance profitieren. ... während Apple ebenfalls den Prozess verschärfen will, der KI-Agenten vollen Zugriff auf Mac-Festplatten ermöglicht.
+
+Vietnam.vn
+2026/10/07
+Microsoft intensifie la course pour intégrer l'IA aux ordinateurs personnels. - Microsoft intensifie la course pour intégrer l'IA aux ordinateurs personnels.
+L'entreprise ambitionne de transformer Windows ... Son concurrent Apple entend également tirer profit de cette opportunité avec ses nouveaux modèles de Mac. ... tandis qu'Apple cherche également à renforcer le processus qui permet aux agents d'IA d'accéder pleinement aux disques durs des Mac.
+
+Bermuda Broadcasting Company
+2026/10/06
+Microsoft brings more AI to PCs as it challenges Apple
+Nvidia is trying to prevent a repeat of the hack of AI hub Hugging Face, while Apple is looking to tighten up the process for giving AI agents full access to a Mac computer’s hard drive. ... Microsoft also unveiled AI models that previously required cloud access but
+
+The Economic Times
+2026/10/07
+Microsoft brings more AI to PCs as it challenges Apple - The Economic Times - Business NewsTechAIMicrosoft brings more AI to PCs as it challenges Apple
+Microsoft said it was releasing Microsoft Execution Containers, a tool to prevent agents from accessing data and doing unauthorized tasks when running on a laptop or desktop machine. Anthropic ... while Apple is looking to tighten up the process for giving AI agents full access to a Mac computer's hard drive.
+
+arkansasonline.com
+2026/10/07
+Microsoft unveils new AI tech in race against Apple | Arkansas Democrat Gazette - Microsoft unveils new AI tech in race against Apple
+Nvidia is trying to prevent a repeat of the hack of AI hub Hugging Face, while Apple is looking to tighten up the process for giving AI agents full access to a Mac computer's hard drive. Microsoft also unveiled AI models that previously required cloud access but can now run locally on high-powered Windows desktops and laptops...
+
+36Kr
+2026/10/25
+Microsoft High-End AI PC Gamble: Partnering with NVIDIA to Challenge Apple Head-On
+go head-to-head against Apple ... After two years of heated competition in the AI PC track, the Windows camp has finally rolled out its flagship offering that truly matches the Mac ecosystem. Microsoft, in partnership with NVIDIA, has launched the Surface Laptop Ultra equipped with the RTX Spark superchip. ... Apple relies on its self-developed Apple Silicon SoC to realize deep architectural coupling of CPU...
+
+華視新聞網
+2026/10/07
+微軟推PC端AI模型與高階筆電 攜手輝達挑戰蘋果 - 綜合 - 華視新聞網
+（中央社舊金山7日綜合外電報導）微軟（Microsoft）今天發表可直接在個人電腦運行的人工智慧（AI）編程模型與全新資安防護技術，防止AI代理未經授權存取數據，正面迎戰蘋果將更多AI功能導入個人裝置的策略 ... 蘋果則正尋求收緊AI代理取得Mac電腦硬碟完整存取權限的流程。（編譯...
+
+钛媒体
+2026/10/24
+拉上英伟达硬刚苹果，微软的高端AI PC赌局
+在AI PC赛道热闹了两年之后，Windows阵营终于拿出了真正对标Mac生态的旗舰筹码 ... 苹果依托Apple Silicon自研SoC，实现CPU、GPU与统一内存的深度架构耦合，从硬件底层完成端侧AI全链路优化，为创作者和开发者搭建起稳定高效的本地AI算力底座。
+
+LinkedIn · Fabian Warislohner
+2026/03/11
+Microsoft Launches Copilot Health with Apple & Fitbit Integration | ESG Investing 发布的此话题相关的动态 | 领英
+Microsoft Launches Copilot Health with Apple & Fitbit Integration Microsoft, Apple Health and Fitbit Power Copilot Health in 2026: AI Medical Intelligence Platform Targets Superintelligence https://lnkd.in/ecFcfhM3 Microsoft launches Copilot Health on March 12, 2026 — a dedicated AI health intelligence platform integrating Apple Health...
+디지털투데이
+2026/05/31
+Apple, Microsoft AI strategies put to the test as AI cost surge debate grows - Apple, Microsoft AI strategies put to the test as AI cost surge debate grows
+Microsoft AI strategies put to the test as AI cost surge debate grows ... - published 2026-06-01 07:30 ... Can Apple, seen as lacking heft in the AI race, and Microsoft, which is also being told it no longer has the weight it once did as its partnership with OpenAI changes, turn the mood around?
+
+LinkedIn · Fabian Warislohner
+2026/03/13
+Microsoft Apple Amazon Consolidate AI Infrastructure | TheNextGenTechInsider.com 发布的此话题相关的动态 | 领英
+Microsoft Apple Amazon Eye AI Infrastructure Consolidation as Strategic Shift Begins 📌 Microsoft, Apple, and Amazon are rewriting AI’s future by consolidating research and infrastructure under strategic partnerships - not acquisitions. OpenAI now relies on Azure and AWS for enterprise-scale models, while Apple embeds Claude into Xcode for smarter coding.
+Qubit
+2026/06/19
+AI-fronton folytatódik az ötvenéves háború: ébredezik az Apple és a Microsoft is
+AI-fronton folytatódik az ötvenéves háború ... Az Apple épp vezetőváltás idején fordul rá jobban az AI-ra ... Miközben tehát az Apple belátta, hogy egyedül nem megy, és keresi az együttműködéseket, a Microsoft a teljes függetlenség felé halad: saját AI-chip, AI-modell, felhő, szoftverek és platformok révén szeretnék öt éven belül felvenni
+디지털투데이
+2026/05/31
+Apple, Microsoft bước vào bài kiểm tra AI trong tháng 6 - Apple, Microsoft bước vào bài kiểm tra AI trong tháng 6
+Apple, Microsoft bước vào bài kiểm tra AI trong tháng 6 ... Tháng 6 được xem là thời điểm quan trọng để kiểm chứng chiến lược AI của Apple và Microsoft, khi hai hãng đồng loạt bước lên sân khấu các hội nghị dành cho nhà phát triển trong bối cảnh chi phí AI leo thang và hiệu quả đầu tư bị giới doanh nghiệp đặt câu hỏi.
+
+FAZ
+2026/10/07
+Microsoft rüstet Windows für KI-Agenten auf: Kampfansage an Apple - Künstliche Intelligenz : Microsoft rüstet Windows für KI-Agenten auf
+Er verbindet dies mit einer Kampfansage an Apple. ... Die Vorstellung des neuen Rechners nutzte Microsoft für eine Kampfansage an Apple. Das Unternehmen sagte ... Microsoft kündigte auch ein Tauschprogramm an, das auf Apple abzielt. ... hat Apple in jüngster Zeit viele Käufer für seine Macintosh-Computer gefunden – darunter
+
+Yahoo
+2026/10/14
+Apple And Meta Collaborate To Run Muse Models On Mac
+It is optimized with Apple's MLX framework, meaning developers can run the massive model entirely on-device using a pair of Apple M5 Ultra Mac Studios. The model weights are downloadable via Hugging Face and major cloud platforms, alongside hosted API support from providers like Together AI, Fireworks, and Groq.
+
+Hugging Face
+2026/04/19
+Outlier for Apple Silicon (MLX) - a Outlier-Ai Collection - Hugging Face
+Outlier for Apple Silicon (MLX) Outlier Research Outlier for Apple Silicon (MLX) updated Apr 20 MLX 4-bit builds for M1/M2/M3/M4 Macs. Curated tiers + 19 upstream conversions (DeepSeek, Qwen3...
+
+Hugging Face
+2026/10/20
+FastVideo/FastH3-Omni-MLX · Hugging Face
+FastH3 Omni (reference-conditioned ... FastVideo's MLX runtime (hao-ai-lab/FastVideo#2000). ... (FastVideo/FastVideo-FastH3-Omni-8-Step-V1, FastVideo/FastH3-Omni-NVFP4-QAD, FastVideo/FastH3-NVFP4-VAE-Decoder, lightx2v/LightVAE) at pinned revisions...
+Shattered
+2026/10/15
+Muse Spark Open on Mac Studio: Apple-Meta Deal [2026]
+Muse Spark Open Runs on 2 Macs [2026] Apple and Meta confirmed on October 15, 2026... ... Muse Spark Open... ... built on a mixture-of-experts architecture with 816 billion total parameters and 42 billion active parameters... ... Meta says the weights are available today through Hugging Face. ... Spec: Availability; Detail: Hugging Face, released October 15, 2026
+
+Hugging Face
+2026/05/06
+georgesZam/emo-1b14b-1t-4bit · Hugging Face - Emo-1B-14B-1T — MLX (4-bit, group_size=32)
+Emo-1B-14B-1T — MLX (4-bit, group_size=32) MLX 4-bit quantization ofallenai/Emo_1b14b_1T — Ai2's EMO ... Runs comfortably on Apple Silicon with ≥16 GB unified memory.
+Računalniške novice
+2026/10/15
+Meta und Apple bündeln ihre Kräfte für fortschrittliche künstliche Intelligenz – Computer News
+Es nutzt die neueste Version des Open-Source-Frameworks MLX von Apple, das für die einheitliche Speicherarchitektur der Apple Silicon-Prozessoren optimiert ist. ... Das Muse Spark Open-Modell steht ab sofort über die Hugging Face-Plattform zum Download bereit.
+
+PyPI
+2026/10/24
+mlx-one
+Model name: HuggingFaceTB/SmolLM2-1.7B-Instruct; Parameters: 1.7B; Configured context (tokens): 8,192; Quantization/precision: Affine Q4 (group 64); Peak MLX memory (GiB): 1.202
+
+GitHub
+2026/03/20
+GitHub - raullenchai/awesome-mlx: A curated list of awesome projects, tools, and resources for Apple MLX — the ML framework for Apple Silicon · GitHub - GitHub - raullenchai/awesome-mlx: A curated list of awesome projects, tools, and resources for Apple MLX — the ML framework for ...
+A curated list of awesome projects, tools, and resources for Apple MLX — the ML framework for Apple Silicon · GitHub ... * **Growing fast** — 120+ projects, 2000+ optimized models on HuggingFace, and active community.
+OrcaRouter
+2026/09/22
+Laya บน Apple Silicon: การพอร์ต MLX ให้อะไรกับคุณจริง ๆ
+Laya เป็นโมเดลตัดสินใจที่ไม่เคยเขียนประโยคใด ๆ Convai Innovations ได้เผยแพร่เวตของมันบน Hugging Face เมื่อวันที่ 18 กันยายน 2026 และในวันถัดมา นักพัฒนาชื่อ mizorewww ก็ได้เผยแพร่ Laya-MLX — พอร์ตอิสระที่รันเช็กพอยต์ทั้งสามของ Laya แบบเนทีฟบน Apple Silicon ผ่าน MLX โดยไม่ต้องใช้ PyTorch ไม่ต้องมีรันไทม์ Transformers และไม่มีการเรียกคลาวด์ พอร์ตดังกล่าวรายงานค่ามัธยฐาน 13.42 มิลลิวินาทีสำหรับคำถามภาษาอังกฤษสั้น ๆ หนึ่งข้อบนเช็กพอยต์ขนาด 421M...
+
+PyPI
+2026/10/24
+flexible-unet-mlx
+Native MLX port of the MONAI endoscopic tool segmentation model (FlexibleUNet, EfficientNet-B2) for Apple Silicon. Segment surgical tools in endoscopy frames, locally on Mac. - RGB endoscopy frame in
+
+Apple Developer
+2026/07/22
+次なる可能性：WWDC26発の注目の最新アップデート - Meet with Apple - ビデオ - Apple Developer - 例えば、画像の説明をリクエストすることが できます
+「Foundation Model」 フレームワークには、 プライベートクラウドコンピューティング上で 動作するサーバーモデルへのアクセス機能が 追加されました。 これにより ... PCCは、 App Store Small Business Programに参加しており、 ダウンロード数が200万未満の 開発者の方がご利用いただけます。 そしてもちろん...
+
+DevelopersIO
+2026/09/13
+【iOS 27】Private Cloud Compute とは何か | DevelopersIO - 使う条件
+端末の中 | AFM 3 Core | 30 億・密なモデル AFM 3 Core Advanced | 200 億・疎な活性化（実際に動くのは 10〜40 億） ... AFM 3 Cloud Pro | 最も高性能
+
+ABI Research
+2026/06/16
+Apple and NVIDIA Partner on Apple’s Third Generation of Private Cloud Compute: Can Confidential Computing Fix AI’s PR Problems?
+deploying its Apple Private Cloud Compute (PCC) using the confidential compute horsepower provisioned through those NVIDIA’s GPUs and Google Cloud infrastructure. The third generation of Apple Foundation Models (AFM) constitutes a family of five on-device and server-based models ... server-based ADM 3 Cloud Pro model—purpose-built for multi-step...
+
+Apple Developer
+2026/06/07
+通过专用云计算充分利用 Apple Foundation Model - WWDC26 - 视频 - Apple Developer - 通过专用云计算充分利用 Apple Foundation Model
+Private Cloud Compute 为我们的系统功能提供支持 ... 此模型适用于下载量 不足200万次的App ... 你知道只需3行代码 ... 即可切换到 PCC上的新服务器模型 仅需那一行 你就可以 与一个更大的模型通信 具有更大的上下文 和更复杂的推理能力 Foundation Models框架 提供了统一的Swift API 无论你与哪种模型通信 使用Generable获取结构化输出 或调用Tools 与PCC模型 的工作方式完全相同 就像使用设备端模型一样
+
+Apple Security Research
+2026/06/07
+Expanding Private Cloud Compute
+Alongside the next generation of Apple Intelligence, today we’re expanding Private Cloud Compute (PCC) beyond Apple’s data centers. ... Apple collaborated with Google to leverage the technologies behind its Gemini family of models to build the next generation of Apple Foundation Models that power our Apple Intelligence features.
+
+Data Center Dynamics
+2026/06/09
+Apple's Private Cloud Compute to run on Google Cloud - Apple's Private Cloud Compute to run on Google Cloud
+This builds on the multi-year agreement Apple signed with Google to use the company's AI models and cloud for its consumer devices in January 2026. ... Beyond the Nvidia GPUs, the PCC will also run on Intel CPUs with TDX, and Google's Titan chip.
+
+电子产品世界
+2026/06/14
+英伟达机密计算赋能苹果智能系统
+苹果称，新模型家族包含 2 个设备端模型与 3 个运行于 PCC 的服务器端模型。其中性能最强的服务器模型 AFM 3 Cloud Pro，专为智能工具调用、复杂推理等高需求场景设计，并针对英伟达 GPU 优化。苹果还表示...
+
+Fierce Network
+2026/06/09
+Apple tries to prove trust is portable with Google Cloud private AI collab
+begin running Apple Intelligence workloads on Google Cloud. ... News of the Google Cloud move came as Apple unveiled its third generation of foundation models, which includes two on-device models and three server-based models. AFM 3 Cloud Pro, in the latter category, will run on Google Cloud.
+
+InfoQ
+2026/07/01
+Apple Extends Private Cloud Compute to Google Cloud for the First Time - Online InfoQ High-Performing Teams Certification (Nov 17): Is your team structure helping delivery, or slowing it down
+Apple chose Google Cloud to run Private Cloud Compute (PCC) outside its own data centers for the first time. Announced at WWDC 2026, the collaboration stacks three layers of hardware trust on top of each other ... Intel TDX on the CPUs, and Google's
+
+Hugging Face
+2026/09/13
+mlboydaisuke/North-Micro-Vision-CoreAI · Hugging Face - Core AI is Apple's on-device ML runtime in iOS 27 / macOS 27 and the successor to Core ML: PyTorch models are exported with Appl...
+Core AI is Apple's on-device ML runtime in iOS 27 / macOS 27 and the successor to Core ML ... North-Micro-Vision-Instruct — Apple Core AI (.aimodel) ... Core AI Model Zoo — 75 models, each with the recipe that produced it.
+
+Hugging Face
+flyingfishinwater/coreai_models · Hugging Face - Core AI models for Privacy AI
+Apple Core AI (.aimodel / .aimodelc) bundles for iOS 27 and macOS 27... ... id: qwen3-0.6b-coreai; kind: chat; leaf size: 554 MB; context: 4096; structure: chunked-static (ANE); architectures: h17p, h18p, source; upstream: Qwen/Qwen3-0.6B
+GitHub
+CoreAI-Model-Zoo
+Core AI is Apple's on-device ML runtime in iOS 27 ... Qwen3-8B 4-bit decodes at 94 tok/s on an M4 Max GPU ... **Converted models + conversion recipes** for Apple **Core AI** (`.aimodel`, iOS 27 / macOS 27)...
+GitHub
+license: other
+LFM2.5-2.6B — Apple Core AI (`.aimodel`) **LiquidAI's LFM2.5-2.6B converted to Apple's Core AI** (the Core ML successor announced at WWDC26), ready to run on iOS 27 / macOS 27.
+GitHub
+Qwen3.5-4B — Apple Core AI (`.aimodel`)
+Qwen3.5-4B (the 4B member of the GDN hybrid linear-attention family) converted to Apple **Core AI** for macOS 27 / iOS 27, riding Apple's **`coreai-pipelined` GPU engine** via the same decode-only loo
